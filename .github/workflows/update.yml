@@ -1,0 +1,41 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Fetch News
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: python trend_fetch_newsapi.py
+      - name: Analyze Trends
+        run: python trend_analyzer.py
+      - name: Detect Breakpoints
+        run: python trend_breakpoint_detector.py
+      - name: Recommend Investments
+        run: python trend_investment_recommender.py
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          for f in trend_news_window.json trend_keywords_output.json trend_breakpoint_output.json trend_recommendations.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
+          if git diff --cached --quiet; then echo "No changes" && exit 0; fi
+          git commit -m "Update trend data" && git push
