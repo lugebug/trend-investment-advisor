@@ -5,31 +5,52 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+<<<<<<< 3cmg98-codex/开发趋势分析与投资推荐系统
+=======
 permissions:
   contents: write  # ✅ 允许写入权限，解决 push 失败的问题
 
+>>>>>>> main
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
+<<<<<<< 3cmg98-codex/开发趋势分析与投资推荐系统
+          fetch-depth: 0
+=======
           fetch-depth: 0  # ✅ 保证获取完整 git 历史，允许 commit/push
 
+>>>>>>> main
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+<<<<<<< 3cmg98-codex/开发趋势分析与投资推荐系统
+=======
 
+>>>>>>> main
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+<<<<<<< 3cmg98-codex/开发趋势分析与投资推荐系统
+=======
 
+>>>>>>> main
       - name: Fetch News
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python trend_fetch_newsapi.py
+<<<<<<< 3cmg98-codex/开发趋势分析与投资推荐系统
+      - name: Analyze Trends
+        run: python trend_analyzer.py
+      - name: Detect Breakpoints
+        run: python trend_breakpoint_detector.py
+      - name: Recommend Investments
+        run: python trend_investment_recommender.py
+=======
 
       - name: Analyze Trends
         run: python trend_analyzer.py
@@ -40,10 +61,18 @@ jobs:
       - name: Recommend Investments
         run: python trend_investment_recommender.py
 
+>>>>>>> main
       - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+<<<<<<< 3cmg98-codex/开发趋势分析与投资推荐系统
+          for f in trend_news_window.json trend_keywords_output.json trend_breakpoint_output.json trend_recommendations.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
+          if git diff --cached --quiet; then echo "No changes" && exit 0; fi
+          git commit -m "Update trend data" && git push
+=======
 
           for f in trend_news_window.json trend_keywords_output.json trend_breakpoint_output.json trend_recommendations.json; do
             if [ -f "$f" ]; then git add "$f"; fi
@@ -52,3 +81,4 @@ jobs:
           if git diff --cached --quiet; then echo "No changes" && exit 0; fi
           git commit -m "Update trend data"
           git push
+>>>>>>> main
