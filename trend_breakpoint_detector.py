@@ -25,6 +25,10 @@ def detect_breakpoint(dates: List[str]) -> bool:
         return False
     # cast to plain bool to avoid numpy.bool_ json issues
     return bool(recent_avg > past_avg * 2)
+<<<<<<< 5nkuil-codex/开发趋势分析与投资推荐系统
+=======
+
+>>>>>>> main
 
 
 def main() -> None:
@@ -41,9 +45,13 @@ def main() -> None:
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         clusters: List[Dict] = json.load(f)
     for cluster in clusters:
-        cluster["breakpoint_detected"] = detect_breakpoint(cluster.get("dates", []))
+        cluster["breakpoint_detected"] = bool(
+            detect_breakpoint(cluster.get("dates", []))
+        )
+    # use default=str to gracefully handle any unexpected types
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(clusters, f, ensure_ascii=False, indent=2)
+        json.dump(clusters, f, ensure_ascii=False, indent=2, default=str)
+
 
 
 if __name__ == "__main__":
