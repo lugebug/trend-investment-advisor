@@ -1,9 +1,17 @@
 import json
 import os
 
-import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.cluster import KMeans
+try:
+    import pandas as pd
+except ImportError:  # pragma: no cover - dependency missing
+    pd = None  # type: ignore
+
+try:
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.cluster import KMeans
+except ImportError:  # pragma: no cover - dependency missing
+    TfidfVectorizer = None  # type: ignore
+    KMeans = None  # type: ignore
 
 INPUT_FILE = "trend_news_window.json"
 OUTPUT_FILE = "trend_keywords_output.json"
@@ -11,6 +19,11 @@ NUM_CLUSTERS = 5
 
 
 def main() -> None:
+    if pd is None or TfidfVectorizer is None or KMeans is None:
+        print("Required packages are missing. Skipping analysis.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
     if not os.path.exists(INPUT_FILE):
         print(f"Input file {INPUT_FILE} does not exist. Skipping analysis.")
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:

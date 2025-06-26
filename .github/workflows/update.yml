@@ -32,6 +32,8 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add trend_news_window.json trend_keywords_output.json trend_breakpoint_output.json trend_recommendations.json
+          for f in trend_news_window.json trend_keywords_output.json trend_breakpoint_output.json trend_recommendations.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then echo "No changes" && exit 0; fi
           git commit -m "Update trend data" && git push
