@@ -1,5 +1,4 @@
 import json
-
 import os
 
 try:
@@ -13,7 +12,6 @@ try:
 except ImportError:  # pragma: no cover - dependency missing
     TfidfVectorizer = None  # type: ignore
     KMeans = None  # type: ignore
-
 
 INPUT_FILE = "trend_news_window.json"
 OUTPUT_FILE = "trend_keywords_output.json"
@@ -35,18 +33,33 @@ def main() -> None:
         articles = json.load(f)
     if not articles:
         print("No articles to analyze")
-
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump([], f)
+        return
 
-
-    titles = [a.get("translated_title", "") for a in articles]
+    titles = [a.get("translated_title", "").strip() for a in articles]
+    titles = [t for t in titles if t]
+    if not titles:
+        print("No valid titles to analyze")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
     vectorizer = TfidfVectorizer(max_df=0.8, stop_words="english")
-    matrix = vectorizer.fit_transform(titles)
-
+    try:
+        matrix = vectorizer.fit_transform(titles)
+    except ValueError as exc:
+        print(f"Vectorization failed: {exc}")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
+    if matrix.shape[1] == 0:
+        print("Empty feature matrix. Skipping clustering.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
+    n_clusters = min(NUM_CLUSTERS, len(titles))
     # use explicit n_init for broader scikit-learn compatibility
-    kmeans = KMeans(n_clusters=NUM_CLUSTERS, random_state=42, n_init=10)
-
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
     labels = kmeans.fit_predict(matrix)
 
     features = vectorizer.get_feature_names_out()
