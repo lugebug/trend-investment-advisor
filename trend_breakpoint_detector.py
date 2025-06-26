@@ -1,4 +1,5 @@
 import json
+import os
 from datetime import datetime
 from typing import List, Dict
 
@@ -23,6 +24,11 @@ def detect_breakpoint(dates: List[str]) -> bool:
 
 
 def main() -> None:
+    if not os.path.exists(INPUT_FILE):
+        print(f"Input file {INPUT_FILE} does not exist. Skipping breakpoint detection.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         clusters: List[Dict] = json.load(f)
     for cluster in clusters:

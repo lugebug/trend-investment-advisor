@@ -1,5 +1,5 @@
 import json
-from collections import defaultdict
+import os
 
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -11,6 +11,11 @@ NUM_CLUSTERS = 5
 
 
 def main() -> None:
+    if not os.path.exists(INPUT_FILE):
+        print(f"Input file {INPUT_FILE} does not exist. Skipping analysis.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         articles = json.load(f)
     if not articles:

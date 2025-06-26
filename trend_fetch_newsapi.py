@@ -48,6 +48,11 @@ def translate_titles(articles: List[Dict], translator: Translator, keyword: str)
 
 
 def main() -> None:
+    if not NEWSAPI_KEY:
+        print("NEWSAPI_KEY not set. Skipping news fetch.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
     translator = Translator()
     all_articles: List[Dict] = []
     for kw in KEYWORDS:
