@@ -27,7 +27,6 @@ jobs:
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python trend_fetch_newsapi.py
-<<<<<<< 3cmg98-codex/开发趋势分析与投资推荐系统
       - name: Analyze Trends
         run: python trend_analyzer.py
       - name: Detect Breakpoints
