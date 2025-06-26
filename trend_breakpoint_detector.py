@@ -23,7 +23,8 @@ def detect_breakpoint(dates: List[str]) -> bool:
     past_avg = counts.iloc[:-3].mean() if len(counts) > 3 else 0
     if past_avg == 0:
         return False
-    return recent_avg > past_avg * 2
+    # cast to plain bool to avoid numpy.bool_ json issues
+    return bool(recent_avg > past_avg * 2)
 
 
 def main() -> None:
