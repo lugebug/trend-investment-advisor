@@ -3,8 +3,17 @@ import json
 from datetime import datetime, timedelta
 from typing import List, Dict
 
-import requests
-from googletrans import Translator
+
+try:
+    import requests
+except ImportError:  # pragma: no cover - dependency missing
+    requests = None  # type: ignore
+
+try:
+    from googletrans import Translator
+except ImportError:  # pragma: no cover - dependency missing
+    Translator = None  # type: ignore
+
 
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 KEYWORDS = ["AI", "芯片", "能源"]
@@ -13,6 +22,10 @@ OUTPUT_FILE = "trend_news_window.json"
 
 def fetch_news_for_keyword(keyword: str) -> List[Dict]:
     """Fetch news articles for a single keyword."""
+
+    if requests is None:
+        raise RuntimeError("requests not available")
+
     if not NEWSAPI_KEY:
         raise ValueError("NEWSAPI_KEY environment variable not set")
 
@@ -48,6 +61,18 @@ def translate_titles(articles: List[Dict], translator: Translator, keyword: str)
 
 
 def main() -> None:
+
+    if requests is None or Translator is None:
+        print("Required packages are missing. Skipping news fetch.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
+    if not NEWSAPI_KEY:
+        print("NEWSAPI_KEY not set. Skipping news fetch.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
+
     translator = Translator()
     all_articles: List[Dict] = []
     for kw in KEYWORDS:

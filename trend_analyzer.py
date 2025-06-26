@@ -1,9 +1,19 @@
 import json
-from collections import defaultdict
 
-import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.cluster import KMeans
+import os
+
+try:
+    import pandas as pd
+except ImportError:  # pragma: no cover - dependency missing
+    pd = None  # type: ignore
+
+try:
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.cluster import KMeans
+except ImportError:  # pragma: no cover - dependency missing
+    TfidfVectorizer = None  # type: ignore
+    KMeans = None  # type: ignore
+
 
 INPUT_FILE = "trend_news_window.json"
 OUTPUT_FILE = "trend_keywords_output.json"
@@ -11,16 +21,32 @@ NUM_CLUSTERS = 5
 
 
 def main() -> None:
+    if pd is None or TfidfVectorizer is None or KMeans is None:
+        print("Required packages are missing. Skipping analysis.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
+    if not os.path.exists(INPUT_FILE):
+        print(f"Input file {INPUT_FILE} does not exist. Skipping analysis.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         articles = json.load(f)
     if not articles:
         print("No articles to analyze")
-        return
+
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+
 
     titles = [a.get("translated_title", "") for a in articles]
     vectorizer = TfidfVectorizer(max_df=0.8, stop_words="english")
     matrix = vectorizer.fit_transform(titles)
-    kmeans = KMeans(n_clusters=NUM_CLUSTERS, random_state=42, n_init="auto")
+
+    # use explicit n_init for broader scikit-learn compatibility
+    kmeans = KMeans(n_clusters=NUM_CLUSTERS, random_state=42, n_init=10)
+
     labels = kmeans.fit_predict(matrix)
 
     features = vectorizer.get_feature_names_out()

@@ -1,8 +1,13 @@
-import json
+
+import os
 from datetime import datetime
 from typing import List, Dict
 
-import pandas as pd
+try:
+    import pandas as pd
+except ImportError:  # pragma: no cover - dependency missing
+    pd = None  # type: ignore
+
 
 INPUT_FILE = "trend_keywords_output.json"
 OUTPUT_FILE = "trend_breakpoint_output.json"
@@ -23,6 +28,18 @@ def detect_breakpoint(dates: List[str]) -> bool:
 
 
 def main() -> None:
+
+    if pd is None:
+        print("pandas not installed. Skipping breakpoint detection.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
+    if not os.path.exists(INPUT_FILE):
+        print(f"Input file {INPUT_FILE} does not exist. Skipping breakpoint detection.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
+
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         clusters: List[Dict] = json.load(f)
     for cluster in clusters:

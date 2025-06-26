@@ -1,4 +1,8 @@
 import json
+<<<<<<< 5sevi8-codex/开发趋势分析与投资推荐系统
+import os
+=======
+>>>>>>> main
 from typing import Dict, List
 
 INPUT_FILE = "trend_breakpoint_output.json"
@@ -23,6 +27,14 @@ def recommend_for_keywords(keywords: List[str]) -> List[str]:
 
 
 def main() -> None:
+<<<<<<< 5sevi8-codex/开发趋势分析与投资推荐系统
+    if not os.path.exists(INPUT_FILE):
+        print(f"Input file {INPUT_FILE} does not exist. Skipping recommendations.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump([], f)
+        return
+=======
+>>>>>>> main
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         clusters = json.load(f)
     for cluster in clusters:
