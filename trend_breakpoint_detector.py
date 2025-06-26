@@ -27,6 +27,7 @@ def detect_breakpoint(dates: List[str]) -> bool:
     return bool(recent_avg > past_avg * 2)
 
 
+
 def main() -> None:
     if pd is None:
         print("pandas not installed. Skipping breakpoint detection.")
@@ -47,6 +48,7 @@ def main() -> None:
     # use default=str to gracefully handle any unexpected types
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(clusters, f, ensure_ascii=False, indent=2, default=str)
+
 
 
 if __name__ == "__main__":
