@@ -25,7 +25,10 @@ def detect_breakpoint(dates: List[str]) -> bool:
         return False
     # cast to plain bool to avoid numpy.bool_ json issues
     return bool(recent_avg > past_avg * 2)
+<<<<<<< 5nkuil-codex/开发趋势分析与投资推荐系统
+=======
 
+>>>>>>> main
 
 
 def main() -> None:
