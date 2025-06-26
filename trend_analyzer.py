@@ -1,4 +1,5 @@
 import json
+
 import os
 
 try:
@@ -12,6 +13,7 @@ try:
 except ImportError:  # pragma: no cover - dependency missing
     TfidfVectorizer = None  # type: ignore
     KMeans = None  # type: ignore
+
 
 INPUT_FILE = "trend_news_window.json"
 OUTPUT_FILE = "trend_keywords_output.json"
@@ -33,15 +35,18 @@ def main() -> None:
         articles = json.load(f)
     if not articles:
         print("No articles to analyze")
+
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump([], f)
-        return
+
 
     titles = [a.get("translated_title", "") for a in articles]
     vectorizer = TfidfVectorizer(max_df=0.8, stop_words="english")
     matrix = vectorizer.fit_transform(titles)
+
     # use explicit n_init for broader scikit-learn compatibility
     kmeans = KMeans(n_clusters=NUM_CLUSTERS, random_state=42, n_init=10)
+
     labels = kmeans.fit_predict(matrix)
 
     features = vectorizer.get_feature_names_out()

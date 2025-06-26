@@ -10,8 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+<<<<<<< 5sevi8-codex/开发趋势分析与投资推荐系统
         with:
           fetch-depth: 0
+=======
+>>>>>>> main
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -34,8 +37,12 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+<<<<<<< 5sevi8-codex/开发趋势分析与投资推荐系统
           for f in trend_news_window.json trend_keywords_output.json trend_breakpoint_output.json trend_recommendations.json; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
+=======
+          git add trend_news_window.json trend_keywords_output.json trend_breakpoint_output.json trend_recommendations.json
+>>>>>>> main
           if git diff --cached --quiet; then echo "No changes" && exit 0; fi
           git commit -m "Update trend data" && git push
