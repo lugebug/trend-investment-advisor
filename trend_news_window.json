@@ -1,8 +1,656 @@
 [
   {
+    "keyword": "AI",
+    "title": "This bold Oracle move could be the beginning of something big",
+    "translated_title": "这种大胆的甲骨文移动可能是大事物的开始",
+    "publishedAt": "2025-09-26T01:03:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Review: Maono Wave T5 wireless microphone punches above its weight",
+    "translated_title": "评论：Maono Wave T5无线麦克风超过其重量",
+    "publishedAt": "2025-09-26T01:03:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "engine-cli 1.1.0",
+    "translated_title": "发动机CLI 1.1.0",
+    "publishedAt": "2025-09-26T01:01:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Wingware: Wing Python IDE Version 11.0.5 - September 26, 2025",
+    "translated_title": "Wingware：Wing Python Ide版本11.0.5- 2025年9月26日",
+    "publishedAt": "2025-09-26T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【茨城高専】地域の学校で生成AI教育を実践",
+    "translated_title": "[Ibaraki技术学院]在当地学校实践AI教育",
+    "publishedAt": "2025-09-26T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "roksta 0.2.6",
+    "translated_title": "岩石0.2.6",
+    "publishedAt": "2025-09-26T00:56:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Judge approves $1.5 billion copyright settlement between AI company Anthropic and authors",
+    "translated_title": "法官批准AI公司人类与作者之间的15亿美元版权和解",
+    "publishedAt": "2025-09-26T00:54:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Spotify Announces New AI Safeguards, Says It's Removed 75 Million 'Spammy' Tracks",
+    "translated_title": "Spotify宣布了新的AI保障措施，称其已删除了7500万个“垃圾邮件”曲目",
+    "publishedAt": "2025-09-26T00:45:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Stocks in news: Infosys, TCS, RIL, NTPC, BHEL, Maruti Suzuki",
+    "translated_title": "新闻中的股票：Infosys，TCS，RIL，NTPC，BHEL，Maruti Suzuki",
+    "publishedAt": "2025-09-26T00:41:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Dify、AI活用カンファレンス「IF Con Tokyo 2025」を10月24日に開催",
+    "translated_title": "Dify在10月24日举行了AI利用率会议“ IF Con Tokyo 2025”",
+    "publishedAt": "2025-09-26T00:40:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The cognitive cost of AI",
+    "translated_title": "人工智能的认知成本",
+    "publishedAt": "2025-09-26T00:40:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘Star Wars: Visions’ Volume 3 Is Ready to Shred the Lore You Think You Know",
+    "translated_title": "“星球大战：视觉”第3卷准备好粉碎您所知道的知识",
+    "publishedAt": "2025-09-26T00:38:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "We Like These Underlying Return On Capital Trends At Harbour-Link Group Berhad (KLSE:HARBOUR)",
+    "translated_title": "我们喜欢Harbour-Link Group Berhad（KLSE：Harbour）的基本资本趋势回报率",
+    "publishedAt": "2025-09-26T00:37:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cisco-ai-mcp-scanner 1.0.5",
+    "translated_title": "Cisco-AI-MCP-SCANNER 1.0.5",
+    "publishedAt": "2025-09-26T00:37:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "You Can Preorder the ROG Xbox Ally Now!",
+    "translated_title": "您现在可以预订ROG Xbox Ally！",
+    "publishedAt": "2025-09-26T00:37:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Look Out AI-Generated Photos, Future Android Phones Could Reveal if You're Authentic",
+    "translated_title": "查看AI生成的照片，未来的Android手机可以揭示您是否真实",
+    "publishedAt": "2025-09-26T00:32:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tokencostauto 0.1.255",
+    "translated_title": "Tokencostauto 0.1.255",
+    "publishedAt": "2025-09-26T00:27:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AMD's GAIA For GenAI Adds Linux Support: Using Vulkan For GPUs, No NPUs Yet",
+    "translated_title": "AMD的Gaia for Genai添加了Linux支持：使用Vulkan进行GPU，尚无NPU",
+    "publishedAt": "2025-09-26T00:26:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft announces ROG Xbox Ally and Xbox Ally X prices and opens pre-orders for gaming handhelds",
+    "translated_title": "Microsoft宣布Rog Xbox Ally和Xbox Ally X Prices，并为游戏掌上电脑打开预订",
+    "publishedAt": "2025-09-26T00:26:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI and Databricks Partner to Help Enterprises Build AI Agents",
+    "translated_title": "OpenAI和Databricks合作伙伴来帮助企业建立AI代理商",
+    "publishedAt": "2025-09-26T00:21:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "conversimple added to PyPI",
+    "translated_title": "对话成像添加到PYPI",
+    "publishedAt": "2025-09-26T00:17:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How Long Does Image Editing Take On Mac?",
+    "translated_title": "Mac的图像编辑将图像编辑多长时间？",
+    "publishedAt": "2025-09-26T00:16:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Shatner: 'Rumors of My Demise Have Been Greatly Exaggerated'",
+    "translated_title": "Shatner：“我去世的谣言被大大夸张了”",
+    "publishedAt": "2025-09-26T00:16:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "conversimple-sdk 0.1.0",
+    "translated_title": "对话模拟-SDK 0.1.0",
+    "publishedAt": "2025-09-26T00:14:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "conversimple-sdk added to PyPI",
+    "translated_title": "对话成像sdk添加到PYPI中",
+    "publishedAt": "2025-09-26T00:14:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Judge approves $1.5 billion copyright settlement between AI company Anthropic and authors",
+    "translated_title": "法官批准AI公司人类与作者之间的15亿美元版权和解",
+    "publishedAt": "2025-09-26T00:12:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-edge-quantizer-nightly 0.4.0.dev20250926",
+    "translated_title": "ai边缘定量量，夜间0.4.0.dev20250926",
+    "publishedAt": "2025-09-26T00:12:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft (MSFT) Unveils Microfluidic Cooling Technology for Data Centers",
+    "translated_title": "Microsoft（MSFT）推出了数据中心的微流体冷却技术",
+    "publishedAt": "2025-09-26T00:11:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Judge approves $1.5B copyright settlement between AI company Anthropic and authors",
+    "translated_title": "法官批准AI公司人类与作者之间的1.5B $ 1.5B版权结算",
+    "publishedAt": "2025-09-26T00:11:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "I was an in-house artist at Goyard and Louis Vuitton. Now, I use AI to market my silk brand",
+    "translated_title": "我是Goyard和Louis Vuitton的内部艺术家。现在，我用AI推销我的丝绸品牌",
+    "publishedAt": "2025-09-26T00:11:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "China’s Biggest Fintech Has an AI to Manage Your Company’s Money",
+    "translated_title": "中国最大的金融科技有一个AI来管理您公司的资金",
+    "publishedAt": "2025-09-26T00:10:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "New Book on AI Says 'Everyone Dies,' Leading Chatbots Disagree",
+    "translated_title": "AI的新书说“每个人都死了”，领导聊天机器人不同意",
+    "publishedAt": "2025-09-26T00:07:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Stevie Bathiche on AI Agents, NPUs, and the Future (Premium)",
+    "translated_title": "Stevie Bathiche在AI代理商，NPU和未来（溢价）上",
+    "publishedAt": "2025-09-26T00:05:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Jim Cramer points out a stark divide in the economy",
+    "translated_title": "吉姆·克莱默（Jim Cramer）指出了经济的鲜明分歧",
+    "publishedAt": "2025-09-26T00:05:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Asus and Microsoft finally confirm ROG Xbox Ally and Ally X Canadian pricing",
+    "translated_title": "华硕和微软最终确认Rog Xbox Ally和Ally X Canadian定价",
+    "publishedAt": "2025-09-26T00:05:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ROG Xbox Ally and ROG Xbox Ally X Now Available for Pre-Order in Canada",
+    "translated_title": "ROG Xbox Ally和Rog Xbox Ally X现在可以在加拿大预订",
+    "publishedAt": "2025-09-26T00:04:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft and Asus open Xbox Ally preorders — the X costs $999",
+    "translated_title": "Microsoft和Asus Open Xbox Ally预订 -  X的价格为$ 999",
+    "publishedAt": "2025-09-26T00:03:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Reconsidering The Skyrail Project In The Philippines",
+    "translated_title": "重新考虑菲律宾的Skyrail项目",
+    "publishedAt": "2025-09-26T00:03:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "JJ Redick says he sometimes spends an hour and a half talking to ChatGPT",
+    "translated_title": "JJ Redick说他有时会花一个半小时与Chatgpt聊天",
+    "publishedAt": "2025-09-26T00:02:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiavatar 0.7.12",
+    "translated_title": "阿凡达0.7.12",
+    "publishedAt": "2025-09-26T00:01:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Norby Language Robot",
+    "translated_title": "Norby语言机器人",
+    "publishedAt": "2025-09-26T00:00:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Building a Simple SQL/AI Environment",
+    "translated_title": "构建简单的SQL/AI环境",
+    "publishedAt": "2025-09-26T00:00:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Espressif’s EchoEar ESP32-S3 voice-controlled AI chatbot runs esp-brookesia firmware",
+    "translated_title": "Espressif的Echoear ESP32-S3语音控制AI Chatbot运行ESP-Brookesia固件",
+    "publishedAt": "2025-09-26T00:00:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ROG Xbox Ally and Xbox Ally X preorders are live — price and specs completely revealed for these upcoming handheld gaming PCs",
+    "translated_title": "ROG Xbox Ally和Xbox Ally X预订是实时的 - 价格和规格完全揭示了这些即将推出的手持游戏PC",
+    "publishedAt": "2025-09-26T00:00:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tony Blair is a tech evangelist with a lot of power. Insiders are worried",
+    "translated_title": "托尼·布莱尔（Tony Blair）是一位具有强大力量的技术传教士。内部人士担心",
+    "publishedAt": "2025-09-26T00:00:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "PIPE dreams: Bitcoin treasury companies risk further 55% stock price declines",
+    "translated_title": "梦想：比特币国库公司进一步冒着55％的股票价格下降",
+    "publishedAt": "2025-09-26T00:00:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "I've Used the Wild Xiaomi 17 Pro Max, and Its Rear Screen Is Bonkers",
+    "translated_title": "我使用了野生小米17 Pro Max，其后屏幕是Bonkers",
+    "publishedAt": "2025-09-26T00:00:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "I was an in-house artist at Goyard and Louis Vuitton. Now, I use AI to market my silk brand.",
+    "translated_title": "我是Goyard和Louis Vuitton的内部艺术家。现在，我用AI推销我的丝绸品牌。",
+    "publishedAt": "2025-09-26T00:00:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "FryAI - Air Fryer Recipes – AI Cooking Assistant App",
+    "translated_title": "Fryai-空气炸锅食谱 -  AI烹饪助理应用",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Friday Five — September 26, 2025",
+    "translated_title": "星期五五点 -  2025年9月26日",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Finally, a way to upgrade your slow PC that doesn’t come with a monthly bill",
+    "translated_title": "最后，一种升级慢速PC的方法，而不是每月账单",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ROG Xbox Ally and ROG Xbox Ally X Now Available for Pre-Order in Canada",
+    "translated_title": "ROG Xbox Ally和Rog Xbox Ally X现在可以在加拿大预订",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The first browser with JavaScript landed 30 years ago",
+    "translated_title": "30年前的JavaScript第一个浏览器降落",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The ROG Xbox Ally X priced at $1,000 and available to preorder in October, making it officially the most expensive 'Xbox' ever",
+    "translated_title": "ROG Xbox Ally X的价格为1,000美元，可在10月预订，使其正式成为有史以来最昂贵的“ Xbox”",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ABBとLandingAI、ロボットビジョンに生成AIの力を解き放つ",
+    "translated_title": "ABB和Landingai解锁了机器人视觉中产生的AI的力量",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CNAPP is the Solution to Multi-cloud Flexibility",
+    "translated_title": "CNAPP是多云灵活性的解决方案",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Roles of KDM5 demethylases in therapeutic resistance of cancers",
+    "translated_title": "KDM5去甲基酶在癌症的治疗性抗性中的作用",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI and Machine Learning Lead – FinTech SaaS",
+    "translated_title": "人工智能和机器学习线索 - 金融科技",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The ROG Xbox Ally and ROG Xbox Ally X are now available for pre-order – here's how much they'll cost",
+    "translated_title": "ROG Xbox Ally和Rog Xbox Ally X现在可以预订 - 这是他们要花费多少钱",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AVerMedia、NVIDIA Jetson Thor シリーズ モジュール向けに最適化されたキャリアボード『D331』を発表",
+    "translated_title": "Avermedia揭幕了针对Nvidia Jetson Thor系列模块优化的D331载体板",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft wants to sell you a Steam Deck in 2025 for $600 as Xbox Ally pricing unveiled",
+    "translated_title": "微软希望在2025年以600美元的价格出售蒸汽甲板",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Asus ROG Xbox Ally X – The Final Preview",
+    "translated_title": "华硕Rog Xbox Ally X  - 最终预览",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Issue 728",
+    "translated_title": "问题728",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Future Product Days: Hidden Forces Driving User Behavior",
+    "translated_title": "未来的产品日：隐藏的力量推动用户行为",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Applied AI ML Director – NLP / LLM and Graphs",
+    "translated_title": "应用AI ML主管 -  NLP / LLM和图形",
+    "publishedAt": "2025-09-26T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Silent Erosion: Global Generational Cognitive Decline in the Age of AI ...",
+    "translated_title": "沉默的侵蚀：AI时代的全球世代认知下降...",
+    "publishedAt": "2025-09-25T23:55:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "beaver-db 0.16.6",
+    "translated_title": "Beaver-DB 0.16.6",
+    "publishedAt": "2025-09-25T23:54:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI hallucination: Plea in Delhi HC cites ‘false’ case laws, withdrawn",
+    "translated_title": "AI幻觉：德里HC的请求引用“虚假”案件，撤回",
+    "publishedAt": "2025-09-25T23:52:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sundew-algorithms 0.6.0",
+    "translated_title": "SUNDEW-ALGORITHMS 0.6.0",
+    "publishedAt": "2025-09-25T23:50:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Musk’s xAI accuses rival OpenAI of stealing trade secrets in lawsuit",
+    "translated_title": "马斯克的XAI指责竞争对手Openai在诉讼中窃取商业秘密",
+    "publishedAt": "2025-09-25T23:50:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How Walmart’s (WMT) Scale and Efficiency Strengthen its Standing Among Retail Dividend Stocks",
+    "translated_title": "沃尔玛（WMT）的规模和效率如何增强其在零售股利股票中的地位",
+    "publishedAt": "2025-09-25T23:49:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Elon Musk just sold Grok to U.S. government for 42 cents – and signals warmer ties with Trump",
+    "translated_title": "埃隆·马斯克（Elon Musk",
+    "publishedAt": "2025-09-25T23:49:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Red Lobster Adopts SoundHound’s (SOUN) AI to Revolutionize Phone Ordering Nationwide",
+    "translated_title": "红龙虾采用Soundhound（Soun）AI来彻底改变全国的电话",
+    "publishedAt": "2025-09-25T23:48:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "77W Reports Surge in Thai User Base as Online Gaming Market Expands",
+    "translated_title": "随着在线游戏市场的扩展，泰国用户群的77W报告激增",
+    "publishedAt": "2025-09-25T23:48:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Long-Term Growth Drivers for The Home Depot (HD) in the World of Retail Dividend Stocks",
+    "translated_title": "零售股息股票世界中的家得宝（HD）的长期增长驱动力",
+    "publishedAt": "2025-09-25T23:47:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "core-memory-mcp 0.1.6",
+    "translated_title": "Core-Memory-MCP 0.1.6",
+    "publishedAt": "2025-09-25T23:46:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Dufu Technology Corp. Berhad's (KLSE:DUFU) most bullish insider is Top Key Executive Hui-Ta Lee, and their holdings value went up by 16% last week",
+    "translated_title": "DUFU Technology Corp. Berhad（KLSE：DUFU）最看涨的内部人士是顶级主管Hui-ta Lee，上周其持有价值增长了16％",
+    "publishedAt": "2025-09-25T23:44:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "core-memory-mcp 0.1.5",
+    "translated_title": "Core-Memory-MCP 0.1.5",
+    "publishedAt": "2025-09-25T23:42:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft blocks Israeli military’s access to some cloud services to prevent mass surveillance",
+    "translated_title": "微软阻止以色列军方获得一些云服务，以防止大规模监视",
+    "publishedAt": "2025-09-25T23:41:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How a Composer Turned iPhone Voice Recordings Into the Creepiest Horror Score of the Year",
+    "translated_title": "作曲家如何将iPhone录音变成一年中最令人毛骨悚然的恐怖评分",
+    "publishedAt": "2025-09-25T23:40:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Inside the zero-revenue nuclear stock whose 1,500% rally is shaking up AI trade",
+    "translated_title": "在零收入的核股内，其1,500％的集会正在震动AI交易",
+    "publishedAt": "2025-09-25T23:37:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Dividend Stability of The Kroger’s (KR) and its Relevance to Retail Dividend Stocks",
+    "translated_title": "克罗格（KR）的股息稳定性及其与零售股息股票的相关性",
+    "publishedAt": "2025-09-25T23:35:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "David Einhorn Sees ‘Tremendous’ Capital Losses From AI Spending",
+    "translated_title": "大卫·埃因霍恩（David Einhorn）认为AI支出中的“巨大”资本损失",
+    "publishedAt": "2025-09-25T23:33:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How to watch Seahawks vs. Cardinals without a Prime Video subscription - Field Gulls",
+    "translated_title": "如何观看海鹰队与红衣主教没有主要视频订阅 - 现场海鸥",
+    "publishedAt": "2025-09-25T23:32:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Word Made Lifeless. Are we becoming stochastic parrots?",
+    "translated_title": "这个词使人毫无生气。我们正在成为随机鹦鹉吗？",
+    "publishedAt": "2025-09-25T23:31:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Scott Brinker - Deep Dive into Agile Marketing Roundup Podcast (Episode Twenty Six)",
+    "translated_title": "斯科特·布林克（Scott Brinker） - 深入研究敏捷的营销综述播客（第二十六集）",
+    "publishedAt": "2025-09-25T23:30:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tonight’s Performance Wouldn’t Be Possible Without…",
+    "translated_title": "没有……今晚的表现将是不可能的。",
+    "publishedAt": "2025-09-25T23:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Up nearly 150% in 5 years with plans to double data centre profits by FY27, does this ASX 200 stock have further to run?",
+    "translated_title": "在5年内上涨了将近150％的计划，计划将数据中心利润翻约27财年，该ASX 200股票是否有进一步的运行？",
+    "publishedAt": "2025-09-25T23:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft Previews a Photo App Update with AI-Powered Categories",
+    "translated_title": "Microsoft预览带有AI驱动类别的照片应用程序更新",
+    "publishedAt": "2025-09-25T23:29:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "KKR Chiefs Bet Aging Japan Will Fuel AI, Technology Investment",
+    "translated_title": "KKR首席执行官下注日本将助长AI，技术投资",
+    "publishedAt": "2025-09-25T23:27:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UK government says a new AI tool helped it recover almost £500 million in fraud losses - and now it's going global",
+    "translated_title": "英国政府说，一种新的AI工具帮助其收回了近5亿英镑的欺诈损失 - 现在它正在全球",
+    "publishedAt": "2025-09-25T23:27:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "David Einhorn Sees ‘Tremendous’ Capital Losses From AI Spending",
+    "translated_title": "大卫·埃因霍恩（David Einhorn）认为AI支出中的“巨大”资本损失",
+    "publishedAt": "2025-09-25T23:26:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft reduces Israel’s access to cloud and AI products over reports of mass surveillance in Gaza",
+    "translated_title": "微软通过加沙的大规模监视报告，减少了以色列对云和AI产品的访问",
+    "publishedAt": "2025-09-25T23:26:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Long-Term Growth Opportunities for Dollar General Corporation (DG) in the Retail Dividend Stocks Space",
+    "translated_title": "Dollar General Corporation（DG）在零售股息股票中的长期增长机会",
+    "publishedAt": "2025-09-25T23:26:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Global Dialogue on Artificial Intelligence Offers Platform to Build Safe Systems, Secretary-General Says at Launch",
+    "translated_title": "秘书长在发布会上说，关于人工智能的全球对话提供了建立安全系统的平台。",
+    "publishedAt": "2025-09-25T23:24:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "core-memory-mcp 0.1.4",
+    "translated_title": "核心内存MCP 0.1.4",
+    "publishedAt": "2025-09-25T23:24:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Is Best Buy Co (BBY) a Safe Bet for Income Investors in Retail Dividend Stocks?",
+    "translated_title": "Best Buy Co（BBY）是零售股息股票的收入投资者的安全赌注吗？",
+    "publishedAt": "2025-09-25T23:22:59Z"
+  },
+  {
     "keyword": "芯片",
     "title": "Mac上安装Harbor并配置 - Miaops",
     "translated_title": "Mac上安装Harbor并配置 - Miaops",
     "publishedAt": "2025-09-06T08:28:00Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "『 Arkpax 』IP67性能ポータブル電源は「危機管理産業展 2025」10/1~3 東京ビッグサイト [西１ホール 1X-20] ブースに出展し、ポータブル電源の強靭な防水防塵性を披露します。",
+    "translated_title": "从2025年10月1日至3日，将在东京大瞄准具（West Hall 1x-20]展位上展出Arkpax IP67 Performance Portable Power Supply，以展示便携式电源的强大防水和防尘功能。",
+    "publishedAt": "2025-09-25T07:31:26Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "充電技術のパイオニア・ReVolt社、Vicorの電源モジュールと再生可能エネルギーを活用し、映画撮影現場のCO2排出量を削減",
+    "translated_title": "Revolt是充电技术的先驱，使用Vicor的功率模块和可再生能源来减少拍摄站点的二氧化碳排放",
+    "publishedAt": "2025-09-25T04:40:02Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "PaintOkay 1.05 免安裝中文版 - 免費迷你版小畫家",
+    "translated_title": "PaintOkay 1.05 免安装中文版 - 免费迷你版小画家",
+    "publishedAt": "2025-09-16T12:18:00Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "【コラム】孫正義氏がOpenAIに全賭け、過去の過ちと類似点－レン",
+    "translated_title": "[专栏]儿子Masayoshi在Openai上押注，与过去的错误相似 -  Ren",
+    "publishedAt": "2025-09-16T08:41:47Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "【36%ポイント！】Jackery Explorer 100 Plus 容量31,000mAhポータブル電源が実質10,176円送料無料 - 安値世界一への挑戦",
+    "translated_title": "[36％点！】JACKERY Explorer 100加31,000mAh便携式电源10,176日元免费送货 - 挑战世界上最佳价格",
+    "publishedAt": "2025-09-14T01:00:39Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "スマート電力制限：極端な事象における不足のメカニズムの設計",
+    "translated_title": "智能电源限制：极端事件中短缺的设计机制",
+    "publishedAt": "2025-09-12T14:59:00Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "核三公投的網路戰場：一堂台灣人的能源思辨課",
+    "translated_title": "核三公投的网路战场：一堂台湾人的能源思辨课",
+    "publishedAt": "2025-09-08T23:38:11Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "我々はどんな経済学者を必要としているのか？　単線から複線の考え方へ",
+    "translated_title": "我们需要什么经济学家？从单轨到双轨思维",
+    "publishedAt": "2025-09-06T14:59:00Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "Nano Banana 六大官方教學 + 指令教學：寫實圖片、可愛貼圖、藝術文字、商品模型攝影、極簡主義、故事分鏡",
+    "translated_title": "Nano Banana 六大官方教学 + 指令教学：写实图片、可爱贴图、艺术文字、商品模型摄影、极简主义、故事分镜",
+    "publishedAt": "2025-09-04T01:42:05Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "『 Arkpax 』IP67性能ポータブル電源は「BATTERY JAPAN 秋」9/17~19 幕張メッセ [Hall４ E5-20] ブースに出展し、ポータブル電源の新たなニーズを提案いたします。",
+    "translated_title": "Arkpax IP67 Performance Portable Power Supply将于9月17日至19日在Makuhari Messe [Hall4 E5-20]展位上展出，并将提出针对便携式电源的新需求。",
+    "publishedAt": "2025-09-03T01:10:00Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "株式会社CIO Amazonで開催される「Amazon スマイルSALE」対象製品発表！PC充電可能な充電器や電源タップが最大50％OFF！",
+    "translated_title": "CIO Co.，Ltd。公告符合在亚马逊举行的“亚马逊微笑销售”的产品！可获得可PC回能的充电器和电源条的50％折扣！",
+    "publishedAt": "2025-08-29T01:40:02Z"
   }
 ]
