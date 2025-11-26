@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "context-foundry 2.2.1",
+    "translated_title": "上下文铸造厂 2.2.1",
+    "publishedAt": "2025-11-25T01:10:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Consumer Bureau’s Bank Examiners Criticize New ‘Humility Pledge’",
+    "translated_title": "消费者局的银行审查员批评新的“谦逊承诺”",
+    "publishedAt": "2025-11-25T01:07:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google In Talks To Offer Its AI Chips To Meta; Nvidia, AMD Fall",
+    "translated_title": "谷歌正在洽谈向 Meta 提供人工智能芯片；Nvidia，和秋季",
+    "publishedAt": "2025-11-25T01:06:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Review Preview: The Gravy Train",
+    "translated_title": "评论预览：肉汁列车",
+    "publishedAt": "2025-11-25T01:06:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google teams up with Accel to hunt for India’s next AI breakouts",
+    "translated_title": "谷歌与 Accel 合作寻找印度下一个人工智能突破点",
+    "publishedAt": "2025-11-25T01:06:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Source: Meta is in talks with Google about spending billions to use TPUs in Meta's data centers in 2027 and to rent Google chips from Google Cloud next year",
+    "translated_title": "资料来源：Meta 正在与谷歌洽谈，计划在 2027 年斥资数十亿美元在 Meta 数据中心使用 TPU，并于明年从谷歌云租用谷歌芯片",
+    "publishedAt": "2025-11-25T01:06:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CNBC Daily Open: A risky alpha bet in markets to revive AI trade",
+    "translated_title": "CNBC 每日开盘：重振人工智能交易的市场风险字母表",
+    "publishedAt": "2025-11-25T01:05:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NYC DSA leaders get coveted roles in Zohran Mamdani transition as mayor-elect crams committees with lefty advocates, de Blasio vets",
+    "translated_title": "纽约市 DSA 领导人在佐兰·马姆达尼 (zohran mamdani) 过渡中获得了令人垂涎的角色，当选市长与莱蒂 (letty) 拥护者、白思豪 (de Blasio) 退伍军人挤在一起",
+    "publishedAt": "2025-11-25T01:03:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Asian stocks track US gains on Fed rate cut bets",
+    "translated_title": "亚洲股市跟随美国股市因美联储降息预期而上涨",
+    "publishedAt": "2025-11-25T01:03:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google teams up with Accel to hunt for India's next AI breakouts | TechCrunch",
+    "translated_title": "谷歌与 Accel 合作寻找印度下一个人工智能突破点TechCrunch",
+    "publishedAt": "2025-11-25T01:02:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "derpy-tool 0.2.5",
+    "translated_title": "derpy工具0.2.5",
+    "publishedAt": "2025-11-25T01:02:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "All You Need To Know Going Into Trade On Tuesday",
+    "translated_title": "周二交易时你需要知道的一切",
+    "publishedAt": "2025-11-25T01:01:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lfx-nightly 0.2.0.dev20",
+    "translated_title": "lfx-nightly 0.2.0.dev20",
+    "publishedAt": "2025-11-25T01:01:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘The Precedent Is Flint’: How Oregon’s Data Center Boom Is Supercharging a Water Crisis",
+    "translated_title": "“先例是弗林特”：俄勒冈州数据中心的繁荣如何加剧水危机",
+    "publishedAt": "2025-11-25T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "革靴買取 LASTLAB、BigQuery×AIによる検索カニバリゼーション監視・解消プログラムを導入― ブランド／モデル（ラスト）／サイズ・ウィズ／状態・修理履歴の粒度で“食い合い”を自動検知。",
+    "translated_title": "皮鞋购买 LASTLAB 推出使用 BigQuery x AI 的搜索蚕食监控和消除程序 - 根据品牌/型号（鞋楦）/尺寸/宽度/状况/维修历史的粒度自动检测“蚕食”。",
+    "publishedAt": "2025-11-25T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NCA Annual Conference 2025今年も開催！",
+    "translated_title": "NCA 2025年会今年再次举办！",
+    "publishedAt": "2025-11-25T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "context-foundry 2.2.0",
+    "translated_title": "上下文铸造厂 2.2.0",
+    "publishedAt": "2025-11-25T00:59:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "context-foundry added to PyPI",
+    "translated_title": "context-foundry 添加到 PyPI",
+    "publishedAt": "2025-11-25T00:59:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "This 'Brilliant' Apple Watch Ultra Alternative Is Only $65 On Amazon Right Now",
+    "translated_title": "这款“出色”的 Apple Watch Ultra 替代产品目前在亚马逊上仅售 65 美元",
+    "publishedAt": "2025-11-25T00:58:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ia-modules 0.1.2",
+    "translated_title": "ia-模块 0.1.2",
+    "publishedAt": "2025-11-25T00:57:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Big Tech's AI debts threatening to swamp credit markets",
+    "translated_title": "大型科技公司的人工智能债务可能淹没信贷市场",
+    "publishedAt": "2025-11-25T00:56:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Gold Steady After Fed Governor Remarks Raise Bets on US Rate Cut",
+    "translated_title": "美联储理事言论增加对美国降息的押注后金价稳定",
+    "publishedAt": "2025-11-25T00:55:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "When betting isn’t gambling: Prediction markets are battling to redefine wagers",
+    "translated_title": "当投注不再是赌博时：预测市场正在努力重新定义投注",
+    "publishedAt": "2025-11-25T00:55:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Bank of Korea to hold rates at 2.50% on November 27, cut pushed to next quarter: Reuters poll",
+    "translated_title": "路透调查显示韩国央行将于11月27日将利率维持在2.50%，降息推迟到下个季度",
+    "publishedAt": "2025-11-25T00:55:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Commentary: SoftBank folds Ampere into its AI stack, turning up pressure on x86",
+    "translated_title": "评论：软银将 Ampere 纳入其 AI 堆栈，给 x86 带来压力",
+    "publishedAt": "2025-11-25T00:55:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "S&P 500, NASDAQ and Dow futures see slight change after Wall Street ended the day on the higher side, powered by Alphabet and other AI stocks; here’s how key indices performed",
+    "translated_title": "在 Alphabet 和其他人工智能股票的推动下，华尔街收盘走高后，标准普尔 500 指数、纳斯达克指数和道琼斯指数期货出现小幅变化；以下是关键指数的表现",
+    "publishedAt": "2025-11-25T00:55:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "'Dangerous': Steve Bannon leads MAGA civil war on Trump's AI policy",
+    "translated_title": "“危险”：史蒂夫·班农领导了针对特朗普人工智能政策的 MAGA 内战",
+    "publishedAt": "2025-11-25T00:53:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI reportedly warns of challenging times ahead amid rising AI competition",
+    "translated_title": "据报道，OpenAI 警告称，随着人工智能竞争的加剧，未来充满挑战",
+    "publishedAt": "2025-11-25T00:53:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "FPIs extend IT sell-off, dump Rs 4,873 crore in first half of November",
+    "translated_title": "FPI 扩大 IT 抛售，11 月上半月抛售 487.3 亿卢比",
+    "publishedAt": "2025-11-25T00:53:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google's Nano Banana Pro boosts text-accurate AI imagery but still shows reasoning limits",
+    "translated_title": "谷歌的 Nano Banana Pro 增强了文本精确的人工智能图像，但仍然显示出推理局限性",
+    "publishedAt": "2025-11-25T00:51:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Jon M. Chu Refused to Show Studio Execs the Final Shot of ‘Wicked: For Good’ and Has No Idea What Ariana Grande Whispered in Cynthia Erivo’s Ear",
+    "translated_title": "乔恩·朱 (Jon M. Chu) 拒绝向工作室高管展示《邪恶魔法：永远》的最后一个镜头，并且不知道爱莉安娜·格兰德 (Ariana Grande) 在辛西娅·埃里沃 (Cynthia Erivo) 耳边低语了什么",
+    "publishedAt": "2025-11-25T00:51:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Foxconn’s China-listed subsidiary rejects downgrade rumors as AI-server demand holds",
+    "translated_title": "富士康中国上市子公司否认评级下调传闻，因人工智能服务器需求旺盛",
+    "publishedAt": "2025-11-25T00:48:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IT counters' weak show could be a silver lining: Motilal Oswal Financial",
+    "translated_title": "Motilal Oswal Financial：IT股的疲软表现可能是一线希望",
+    "publishedAt": "2025-11-25T00:46:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "chuk-virtual-fs 0.2.3",
+    "translated_title": "chuk-虚拟-fs 0.2.3",
+    "publishedAt": "2025-11-25T00:46:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Jony Ive and Sam Altman Say They Finally Have an AI Hardware Prototype",
+    "translated_title": "Jony Ive 和 Sam Altman 表示他们终于有了人工智能硬件原型",
+    "publishedAt": "2025-11-25T00:45:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Alphabet Gains on Report Meta to Use Its AI Chips; Nvidia Falls",
+    "translated_title": "Alphabet 在 Report Meta 上使用其人工智能芯片获得收益；英伟达跌倒",
+    "publishedAt": "2025-11-25T00:44:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Canada Agrees to Deal That Paves Way for New Pipeline, CBC Says",
+    "translated_title": "加拿大广播公司称，加拿大同意达成协议，为新管道铺平道路",
+    "publishedAt": "2025-11-25T00:44:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Amazon pushes in-house AI coding tool Kiro over competitors', memo shows",
+    "translated_title": "备忘录显示，亚马逊推出内部人工智能编码工具 Kiro，超越竞争对手",
+    "publishedAt": "2025-11-25T00:44:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Interview: IBM on breaking hyperscaler lock-in",
+    "translated_title": "专访：IBM 谈打破超大规模锁定",
+    "publishedAt": "2025-11-25T00:41:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "株式会社Space Cubics、JAXAと共同検討したNew Space向けハイエンドコンピュータ「SC-OBC Module V1」を発表",
+    "translated_title": "Space Cubics 推出与 JAXA 联合开发的 New Space 高端计算机“SC-OBC Module V1”",
+    "publishedAt": "2025-11-25T00:40:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【渋谷発、次世代テック・エコシステム構築へ】AI/DX専門家・崎原盛央（モーリー）氏、カスタマークラウドに特別枠で正式参画― 第2のビットバレー構想、いよいよ“人材集積フェーズ”へ ―",
+    "translated_title": "【从涩谷出发，构建下一代科技生态系统】AI/DX专家盛雄崎原（Morley）以特殊身份正式参与Customer Cloud——第二个Bit Valley概念终于进入“人才积累阶段”——",
+    "publishedAt": "2025-11-25T00:40:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DOGE, RIP",
+    "translated_title": "总督，安息吧",
+    "publishedAt": "2025-11-25T00:38:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "awslabs.sagemaker-ai-mcp-server 1.0.1",
+    "translated_title": "awslabs.sagemaker-ai-mcp-服务器 1.0.1",
+    "publishedAt": "2025-11-25T00:37:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vDefend DFW 1-2-3-4: Deploy Zero Trust Micro-segmentation in a Few Weeks to Rapidly Secure VCF Workloads",
+    "translated_title": "vDefend DFW 1-2-3-4：在几周内部署零信任微分段以快速保护 VCF 工作负载",
+    "publishedAt": "2025-11-25T00:36:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock",
+    "translated_title": "亚马逊以盈亏平衡点出售 eufy 太阳能相机，降价 50% 意味着无利可图",
+    "publishedAt": "2025-11-25T00:35:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "W+: Eureka Airspeed Bagless Lightweight Vacuum Cleaner $32.44",
+    "translated_title": "W+：Eureka Airspeed 无袋轻型吸尘器 32.44 美元",
+    "publishedAt": "2025-11-25T00:34:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Supersavers who can put $72,000 in their 401(k)s in 2026 should make this smart ‘mega’ Roth move",
+    "translated_title": "2026 年可以在 401(k) 计划中投入 72,000 美元的超级储蓄者应该做出这一明智的“大型”罗斯举措",
+    "publishedAt": "2025-11-25T00:33:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Alphabet’s AI-Related Offerings Help Drive Stock to Record High",
+    "translated_title": "Alphabet 的人工智能相关产品帮助推动股价创历史新高",
+    "publishedAt": "2025-11-25T00:33:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Warning: This video might make you hungry. #Singapore #TEDx #GlobalIdeaSearch",
+    "translated_title": "警告：该视频可能会让您感到饥饿。#新加坡 #TEDx #GlobalIdeaSearch",
+    "publishedAt": "2025-11-25T00:33:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google Further Encroaches on Nvidia’s Turf With New AI Chip Push",
+    "translated_title": "谷歌推出新的人工智能芯片，进一步蚕食英伟达的地盘",
+    "publishedAt": "2025-11-25T00:33:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Models Take Over Customer Analysis to Identify Customer Needs",
+    "translated_title": "人工智能模型接管客户分析以确定客户需求",
+    "publishedAt": "2025-11-25T00:33:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How Google Dodged the AI Search Collapse",
+    "translated_title": "谷歌如何避免人工智能搜索崩溃",
+    "publishedAt": "2025-11-25T00:33:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google, Accel partner to back Indian AI startups",
+    "translated_title": "谷歌与 Accel 合作支持印度人工智能初创公司",
+    "publishedAt": "2025-11-25T00:32:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "GCCs step up AI upskilling to meet tight adoption deadlines",
+    "translated_title": "海湾合作委员会加强人工智能技能提升，以满足紧迫的采用期限",
+    "publishedAt": "2025-11-25T00:31:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SOL rebounds alongside wider crypto market bounce: Is $160 possible?",
+    "translated_title": "SOL 随着加密货币市场更广泛的反弹而反弹：有可能达到 160 美元吗？",
+    "publishedAt": "2025-11-25T00:30:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why Accel and Google are chasing India’s newest AI founders",
+    "translated_title": "为什么 Accel 和谷歌正在追逐印度最新的人工智能创始人",
+    "publishedAt": "2025-11-25T00:30:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Accel and Google to co-invest up to $2 million in India’s early-stage AI start-ups",
+    "translated_title": "Accel 和谷歌将共同向印度早期人工智能初创企业投资最多 200 万美元",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Hyperscalers Crash the Grid as Big Tech Becomes a Power Trader",
+    "translated_title": "随着大型科技公司成为电力交易者，超大规模企业使电网崩溃",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Salesforce India's FY25 revenue up 47%",
+    "translated_title": "Salesforce India 2025 财年收入增长 47%",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI tool adoption gets a government boost",
+    "translated_title": "人工智能工具的采用得到政府的推动",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google’s AI Futures Fund and Accel Atoms are launching a program to accelerate AI innovation in India.",
+    "translated_title": "谷歌的人工智能未来基金和 Accel Atoms 正在启动一项加速印度人工智能创新的计划。",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DPDP Rules offer “liberal” compliance window with a fully digital process",
+    "translated_title": "DPDP 规则通过全数字流程提供“自由”合规窗口",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI, an enabler of universal access, increased equity, and global influence for India: Vinod Khosla",
+    "translated_title": "人工智能是印度普及、增加公平和全球影响力的推动者：Vinod Khosla",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The creation of the AI man",
+    "translated_title": "AI人的创造",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI is driving innovation in Bharat too",
+    "translated_title": "人工智能也在推动巴拉特的创新",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Accel partners with Google to back Indian AI startups with $2 million co-investment",
+    "translated_title": "Accel 与谷歌合作，共同投资 200 万美元支持印度人工智能初创公司",
+    "publishedAt": "2025-11-25T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Amazon pushes in-house AI coding tool Kiro over competitors', memo shows",
+    "translated_title": "备忘录显示，亚马逊推出内部人工智能编码工具 Kiro，超越竞争对手",
+    "publishedAt": "2025-11-25T00:29:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Star Wars: Boba Fett – Black White and Red #3 Preview: Grudge Match",
+    "translated_title": "星球大战：波巴·费特 – 黑、白与红 #3 预览：怨恨之战",
+    "publishedAt": "2025-11-25T00:26:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mbari-aidata 1.61.1",
+    "translated_title": "姆巴里帮助 1.61.1",
+    "publishedAt": "2025-11-25T00:25:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Finland clings to happiness crown as economic gloom deepens",
+    "translated_title": "经济低迷加深，芬兰稳坐幸福桂冠",
+    "publishedAt": "2025-11-25T00:22:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI could replace 3m low-skilled jobs in the UK by 2035, research finds",
+    "translated_title": "研究发现，到 2035 年，人工智能可能会取代英国 300 万个低技能工作",
+    "publishedAt": "2025-11-25T00:22:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Marc Benioff Joins the Chorus, Says Google Gemini Is Eating ChatGPT’s Lunch",
+    "translated_title": "马克·贝尼奥夫 (Marc Benioff) 加入合唱团，称 Google Gemini 正在抢占 ChatGPT 的午餐",
+    "publishedAt": "2025-11-25T00:20:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pysio-hermes 0.1.3",
+    "translated_title": "生理赫尔墨斯 0.1.3",
+    "publishedAt": "2025-11-25T00:19:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Models Take Over Customer Analysis to Identify Customer Needs",
+    "translated_title": "人工智能模型接管客户分析以确定客户需求",
+    "publishedAt": "2025-11-25T00:17:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI Turns Sora Into a Holiday Toy With New Themed Styles",
+    "translated_title": "OpenAI 将 Sora 变成具有新主题风格的节日玩具",
+    "publishedAt": "2025-11-25T00:14:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-edge-quantizer-nightly 0.5.0.dev20251125",
+    "translated_title": "ai-edge-quantizer-nightly 0.5.0.dev20251125",
+    "publishedAt": "2025-11-25T00:12:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot 0.15.34",
+    "translated_title": "艾鹦鹉 0.15.34",
+    "publishedAt": "2025-11-25T00:12:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Altman describes OpenAI's forthcoming AI device as more peaceful and calm than the iPhone",
+    "translated_title": "Altman 形容 OpenAI 即将推出的 AI 设备比 iPhone 更加平和、平静",
+    "publishedAt": "2025-11-25T00:11:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump signs an EO establishing the Genesis Mission to boost AI innovation, including by using federal scientific datasets to train models and create AI agents",
+    "translated_title": "特朗普签署了一项行政命令，建立创世使命，以促进人工智能创新，包括使用联邦科学数据集来训练模型和创建人工智能代理",
+    "publishedAt": "2025-11-25T00:11:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Revealed: The questions the FCA is asking private markets firms",
+    "translated_title": "揭晓：FCA 向私募市场公司提出的问题",
+    "publishedAt": "2025-11-25T00:11:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oil Steadies as Traders Look to Risk-On Mood and Ukraine Talks",
+    "translated_title": "交易员关注风险情绪和乌克兰谈判，油价稳定",
+    "publishedAt": "2025-11-25T00:10:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "RAM prices are so out of control that stores are selling it like lobster",
+    "translated_title": "RAM 价格如此失控以至于商店像龙虾一样出售它",
+    "publishedAt": "2025-11-25T00:09:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "$479 HP OmniBook 5 16\" 2K Touch Laptop AI Intel Core Ultra 7 255U 16GB RAM 1TB SSD (Walmart+ early access)",
+    "translated_title": "479 美元 HP OmniBook 5 16 英寸 2K 触摸笔记本电脑 AI Intel Core Ultra 7 255U 16GB RAM 1TB SSD（沃尔玛+抢先体验）",
+    "publishedAt": "2025-11-25T00:09:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Elderly man 'broken' after losing £35k in online scams",
+    "translated_title": "网上诈骗损失3.5万英镑后，老人“崩溃了”",
+    "publishedAt": "2025-11-25T00:07:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI slop is Macquarie’s 2025 Word of the Year. I applaud the choice – but was bored by the shortlist",
+    "translated_title": "AI slop 是麦格理 2025 年年度词汇。我对这个选择表示赞赏——但对入围名单感到厌倦",
+    "publishedAt": "2025-11-25T00:06:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Alphabet’s AI-Related Offerings Help Drive Stock to Record High",
+    "translated_title": "Alphabet 的人工智能相关产品帮助推动股价创历史新高",
+    "publishedAt": "2025-11-25T00:06:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "remdb 0.3.10",
+    "translated_title": "远程数据库 0.3.10",
+    "publishedAt": "2025-11-25T00:05:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "YouTube Music's 2025 Recap comes with new AI chat feature",
+    "translated_title": "YouTube Music 2025 Recap 推出全新 AI 聊天功能",
+    "publishedAt": "2025-11-25T00:04:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI workflow startup Model ML raises $75 million",
+    "translated_title": "AI 工作流程初创公司 Model ML 融资 7500 万美元",
+    "publishedAt": "2025-11-25T00:01:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Transforming patient fear into understanding through clear communication [PODCAST]",
+    "translated_title": "通过清晰的沟通将患者的恐惧转化为理解 [PODCAST]",
+    "publishedAt": "2025-11-25T00:00:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Generated CGI Ad | The Future of Luxury Marketing with Nars #Nars #cgiads",
+    "translated_title": "AI 生成 CGI 广告 |奢侈品营销的未来与 Nars #Nars #cgiads",
+    "publishedAt": "2025-11-25T00:00:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Battlefield 6 outperforming Black Ops 7 should worry Call of Duty fans",
+    "translated_title": "《战地 6》的表现优于《黑色行动 7》应该会让《使命召唤》粉丝们感到担忧",
+    "publishedAt": "2025-11-25T00:00:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "These Samsung features make me question why other phones even exist",
+    "translated_title": "这些三星功能让我质疑为什么还有其他手机存在",
+    "publishedAt": "2025-11-25T00:00:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Petition calls on TikTok to do more to protect children",
+    "translated_title": "请愿书呼吁 TikTok 采取更多措施保护儿童",
+    "publishedAt": "2025-11-25T00:00:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "This AI combo could unlock human-level intelligence",
+    "translated_title": "这个人工智能组合可以解锁人类水平的智能",
+    "publishedAt": "2025-11-25T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google and Accel Atoms Partner to Accelerate India’s AI Startups",
+    "translated_title": "谷歌和 Accel Atoms 合作加速印度人工智能初创企业发展",
+    "publishedAt": "2025-11-25T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic Releases Claude Opus 4.5, Its Most Capable Model Yet for Coding and Agents",
+    "translated_title": "Anthropic 发布 Claude Opus 4.5，迄今为止最强大的编码和代理模型",
+    "publishedAt": "2025-11-25T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Catalytic activity of FAHD1 correlates with nuclear morphology and proteomic states in human osteosarcoma cells",
+    "translated_title": "FAHD1 的催化活性与人骨肉瘤细胞的核形态和蛋白质组状态相关",
+    "publishedAt": "2025-11-25T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Feasibility of accelerometer-based prediction of postural balance in schoolchildren using machine learning models",
+    "translated_title": "使用机器学习模型基于加速度计预测学童姿势平衡的可行性",
+    "publishedAt": "2025-11-25T00:00:00Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "【期間限定セール】v AV Access KD-S03 － 13-in-1 USB-C ドッキングステーションが13,299円送料無料 - 安値世界一への挑戦",
+    "translated_title": "【限时促销】v AV Access KD-S03 - 13合1 USB-C扩展坞 13,299日元 免运费 - 挑战全球最低价",
+    "publishedAt": "2025-11-24T15:15:30Z"
+  },
+  {
     "keyword": "能源",
     "title": "【期間限定セール】Acer Predator M.2 SSD GM7000 2TBモデルが23,990円送料無料 - 安値世界一への挑戦",
     "translated_title": "【限时促销】Acer Predator M.2 SSD GM7000 2TB 23,990日元免运费 - 挑战全球最低价",
