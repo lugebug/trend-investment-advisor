@@ -1,579 +1,597 @@
 [
   {
     "keyword": "AI",
-    "title": "blaxel 0.2.31",
-    "translated_title": "布莱克塞尔 0.2.31",
-    "publishedAt": "2025-12-06T01:19:33Z"
+    "title": "zenml-nightly 0.92.0.dev20251207",
+    "translated_title": "zenml-nightly 0.92.0.dev20251207",
+    "publishedAt": "2025-12-07T01:12:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "backtrack-toolcalling added to PyPI",
+    "translated_title": "PyPI 中添加了回溯工具调用",
+    "publishedAt": "2025-12-07T01:11:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.41",
+    "translated_title": "野牛 0.7.41",
+    "publishedAt": "2025-12-07T01:10:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.40",
+    "translated_title": "野牛 0.7.40",
+    "publishedAt": "2025-12-07T01:10:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.39",
+    "translated_title": "野牛 0.7.39",
+    "publishedAt": "2025-12-07T01:07:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "liblaf-lime 0.3.15",
+    "translated_title": "liblaf-lime 0.3.15",
+    "publishedAt": "2025-12-07T01:05:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Japan is facing a dementia crisis – can technology help?",
+    "translated_title": "日本正面临痴呆症危机——技术能提供帮助吗？",
+    "publishedAt": "2025-12-07T01:04:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.38",
+    "translated_title": "野牛 0.7.38",
+    "publishedAt": "2025-12-07T01:02:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Apple TV's Neuromancer Breaks Sacred Sci-Fi Rule With Cyberpunk Story",
+    "translated_title": "Apple TV 的《神经漫游者》以赛博朋克故事打破了神圣的科幻规则",
+    "publishedAt": "2025-12-07T01:00:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "win32-mcp-server added to PyPI",
+    "translated_title": "win32-mcp-server 添加到 PyPI",
+    "publishedAt": "2025-12-07T00:59:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "win32-mcp-server 1.0.0",
+    "translated_title": "win32-mcp-服务器 1.0.0",
+    "publishedAt": "2025-12-07T00:59:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.37",
+    "translated_title": "野牛 0.7.37",
+    "publishedAt": "2025-12-07T00:57:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Texts Ink – Free AI Content Generator | Instantly Create Titles, Tweets & Topics",
+    "translated_title": "Texts Ink – 免费人工智能内容生成器 |即时创建标题、推文和主题",
+    "publishedAt": "2025-12-07T00:55:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kittylog 2.10.3",
+    "translated_title": "基蒂日志 2.10.3",
+    "publishedAt": "2025-12-07T00:53:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.36",
+    "translated_title": "野牛 0.7.36",
+    "publishedAt": "2025-12-07T00:50:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: My first open source project called Claude Code Splitter",
+    "translated_title": "Show HN：我的第一个开源项目，名为 Claude Code Splitter",
+    "publishedAt": "2025-12-07T00:44:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "datachain 0.38.5",
+    "translated_title": "数据链0.38.5",
+    "publishedAt": "2025-12-07T00:42:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "United States Email Marketing Services Market Size, Trends, Regional Growth & AI Impact 2033",
+    "translated_title": "2033 年美国电子邮件营销服务市场规模、趋势、区域增长和人工智能影响",
+    "publishedAt": "2025-12-07T00:40:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trains cancelled over fake bridge collapse image",
+    "translated_title": "火车因假桥梁倒塌图像而取消",
+    "publishedAt": "2025-12-07T00:37:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.35",
+    "translated_title": "野牛 0.7.35",
+    "publishedAt": "2025-12-07T00:35:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tokencostauto 0.1.386",
+    "translated_title": "代币成本汽车 0.1.386",
+    "publishedAt": "2025-12-07T00:34:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lightning 2.6.0.dev20251207",
+    "translated_title": "闪电2.6.0.dev20251207",
+    "publishedAt": "2025-12-07T00:32:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.34",
+    "translated_title": "野牛 0.7.34",
+    "publishedAt": "2025-12-07T00:29:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Pat Gelsinger wants to save Moore's Law, with a little help from the Feds | TechCrunch",
+    "translated_title": "帕特·基辛格希望在联邦政府的帮助下拯救摩尔定律TechCrunch",
+    "publishedAt": "2025-12-07T00:21:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI hallucinations and sophisticated cyberattacks: Business tech concerns for next year",
+    "translated_title": "人工智能幻觉和复杂的网络攻击：明年的商业技术问题",
+    "publishedAt": "2025-12-07T00:20:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.33",
+    "translated_title": "野牛 0.7.33",
+    "publishedAt": "2025-12-07T00:16:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.32",
+    "translated_title": "野牛 0.7.32",
+    "publishedAt": "2025-12-07T00:16:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-edge-quantizer-nightly 0.5.0.dev20251207",
+    "translated_title": "ai-edge-quantizer-nightly 0.5.0.dev20251207",
+    "publishedAt": "2025-12-07T00:15:51Z"
   },
   {
     "keyword": "AI",
     "title": "Judge orders Google to rebid for default search deals every year in a major antitrust blow",
     "translated_title": "法官命令谷歌每年重新竞标默认搜索交易，这是对反垄断的重大打击",
-    "publishedAt": "2025-12-06T01:18:42Z"
+    "publishedAt": "2025-12-07T00:15:49Z"
   },
   {
     "keyword": "AI",
-    "title": "zenml-nightly 0.92.0.dev20251206",
-    "translated_title": "zenml-nightly 0.92.0.dev20251206",
-    "publishedAt": "2025-12-06T01:15:59Z"
+    "title": "‘It’s Not Forever,’ Says Investor About Nvidia Stock",
+    "translated_title": "投资者谈及英伟达股票时表示，“这不会永远”",
+    "publishedAt": "2025-12-07T00:15:23Z"
   },
   {
     "keyword": "AI",
-    "title": "lionpride 1.0.0a6",
-    "translated_title": "狮傲1.0.0a6",
-    "publishedAt": "2025-12-06T01:15:59Z"
+    "title": "Show HN: AI that scores news for emotional coercion and rhetorical manipulation",
+    "translated_title": "Show HN：人工智能可以根据情感胁迫和修辞操纵对新闻进行评分",
+    "publishedAt": "2025-12-07T00:15:16Z"
   },
   {
     "keyword": "AI",
-    "title": "Trump signs memo to align US child vaccines with certain other countries",
-    "translated_title": "特朗普签署备忘录，使美国儿童疫苗与某些其他国家保持一致",
-    "publishedAt": "2025-12-06T01:14:59Z"
+    "title": "chuk-mcp-math 0.2.3",
+    "translated_title": "0.2.3左右",
+    "publishedAt": "2025-12-07T00:12:43Z"
   },
   {
     "keyword": "AI",
-    "title": "Travel Agencies Complement Human Insights with New AI-Powered Tools",
-    "translated_title": "旅行社利用新的人工智能工具补充人类的洞察力",
-    "publishedAt": "2025-12-06T01:14:46Z"
+    "title": "vizu-client 0.1.0",
+    "translated_title": "vizu-客户端 0.1.0",
+    "publishedAt": "2025-12-07T00:12:42Z"
   },
   {
     "keyword": "AI",
-    "title": "Lenovo and Dell Warn: Your Next Laptop Could Cost More Really Soon",
-    "translated_title": "联想和戴尔警告：您的下一代笔记本电脑的价格可能很快就会更高",
-    "publishedAt": "2025-12-06T01:13:48Z"
+    "title": "vizu-client added to PyPI",
+    "translated_title": "vizu-client 添加到 PyPI",
+    "publishedAt": "2025-12-07T00:12:38Z"
   },
   {
     "keyword": "AI",
-    "title": "kittylog 2.6.0",
-    "translated_title": "基蒂日志2.6.0",
-    "publishedAt": "2025-12-06T01:13:48Z"
+    "title": "Meta partners with news outlets to expand AI content",
+    "translated_title": "Meta 与新闻媒体合作扩展人工智能内容",
+    "publishedAt": "2025-12-07T00:10:43Z"
   },
   {
     "keyword": "AI",
-    "title": "SpaceX reportedly seeking $800B valuation ahead of 2026 IPO",
-    "translated_title": "据报道 SpaceX 在 2026 年 IPO 之前寻求 800B 美元的估值",
-    "publishedAt": "2025-12-06T01:12:59Z"
+    "title": "Staff at Irish Meta client company to strike over claims firm is 'misclassifying' their roles",
+    "translated_title": "爱尔兰 Meta 客户公司员工罢工，抗议公司“错误分类”他们的角色",
+    "publishedAt": "2025-12-07T00:07:12Z"
   },
   {
     "keyword": "AI",
-    "title": "EBL/Grecell 2400w power station 1843wh LifePO4 (9 replies)",
-    "translated_title": "EBL/Grecell 2400w电站1843wh LifePO4 (9条回复)",
-    "publishedAt": "2025-12-06T01:10:51Z"
+    "title": "The Best Stocks to Buy With $1,000 Right Now",
+    "translated_title": "现在最值得以 1,000 美元购买的股票",
+    "publishedAt": "2025-12-07T00:04:19Z"
   },
   {
     "keyword": "AI",
-    "title": "How Epstein Channelled Race Science and 'Climate Culling' Into Silicon Valley's AI Elite (Nafeez Ahmed/Byline Times)",
-    "translated_title": "爱泼斯坦如何将种族科学和“气候淘汰”引入硅谷的人工智能精英（Nafeez Ahmed/Byline Times）",
-    "publishedAt": "2025-12-06T01:10:01Z"
+    "title": "Y Combinator-Backed Model ML Raises Massive $75M To Kill Junior Banker Grunt Work Forever",
+    "translated_title": "Y Combinator 支持的模型 ML 筹集了 7500 万美元巨额资金，以永远消灭初级银行家的重复工作",
+    "publishedAt": "2025-12-07T00:04:13Z"
   },
   {
     "keyword": "AI",
-    "title": "Who Gets Hanged in Singapore? A Constitutional Fight Begins",
-    "translated_title": "谁在新加坡被绞死？宪法斗争开始",
-    "publishedAt": "2025-12-06T01:04:06Z"
+    "title": "“Bread-Shaped Bread Factory”: 52 Structures So Odd They Could Be AI-Generated",
+    "translated_title": "“面包形状的面包工厂”：52 个奇怪的结构可能是人工智能生成的",
+    "publishedAt": "2025-12-07T00:00:37Z"
   },
   {
     "keyword": "AI",
-    "title": "How Netflix won Hollywood's biggest prize, Warner Bros Discovery",
-    "translated_title": "Netflix 如何赢得好莱坞最大奖项华纳兄弟探索频道",
-    "publishedAt": "2025-12-06T01:03:59Z"
+    "title": "Cancer care’s financial toxicity [PODCAST]",
+    "translated_title": "癌症护理的经济毒性 [PODCAST]",
+    "publishedAt": "2025-12-07T00:00:28Z"
   },
   {
     "keyword": "AI",
-    "title": "Marketing Resource Management (MRM) Services Market Growth Outlook, AI Innovations, Forecasts & Share 2026-2033",
-    "translated_title": "营销资源管理 (MRM) 服务市场增长展望、人工智能创新、预测和分享 2026-2033",
-    "publishedAt": "2025-12-06T01:03:28Z"
+    "title": "This AI Model Can Intuit How the Physical World Works",
+    "translated_title": "这个人工智能模型可以凭直觉了解物理世界是如何运作的",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Canadian politician arrested after claiming threatening voicemail was AI",
-    "translated_title": "加拿大政客声称威胁语音邮件是人工智能后被捕",
-    "publishedAt": "2025-12-06T01:01:25Z"
+    "title": "Articles On: Nvidia, Anthropic Claude Code, Robots, AI, Bitcoin, VW, Amazon, US Supply Chains, and Europe",
+    "translated_title": "文章涉及：Nvidia、Anthropic Claude Code、机器人、人工智能、比特币、大众汽车、亚马逊、美国供应链和欧洲",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "AI Led To an Increase In Radiologists, Not a Decrease",
-    "translated_title": "人工智能导致放射科医生数量增加，而不是减少",
-    "publishedAt": "2025-12-06T01:01:00Z"
+    "title": "Articles On: Taiwan, Japan, China, Trump, Chinese Imports, Chips, AI, Europe, and ASEAN",
+    "translated_title": "有关文章：台湾、日本、中国、特朗普、中国进口、芯片、人工智能、欧洲和东盟",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "blaxel 0.2.31rc121",
-    "translated_title": "布莱塞尔0.2.31rc121",
-    "publishedAt": "2025-12-06T01:00:46Z"
+    "title": "DOE Bets Big on Costly SMRs",
+    "translated_title": "美国能源部在昂贵的中小型反应堆上押下重注",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Amazon Prime Marketing: How Tentpoles and Benefits Drive Growth",
-    "translated_title": "亚马逊 Prime 营销：主力和优势如何推动增长",
-    "publishedAt": "2025-12-06T00:59:21Z"
+    "title": "Machine learning guided virtual screening of FDA approved drugs targeting GSK-3β in Alzheimer’s disease",
+    "translated_title": "机器学习引导虚拟筛选 FDA 批准的针对阿尔茨海默氏病的 GSK-3β 药物",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Dozens of Apple Employees Have Moved to OpenAI and Meta in Recent Months",
-    "translated_title": "近几个月来，数十名 Apple 员工已转向 OpenAI 和 Meta",
-    "publishedAt": "2025-12-06T00:57:20Z"
+    "title": "Daily Hacker News for 2025-12-06",
+    "translated_title": "2025 年 12 月 6 日每日黑客新闻",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Chamberlain Closing the (Garage) Door on Smart Home Integration",
-    "translated_title": "张伯伦关闭智能家居集成（车库）门",
-    "publishedAt": "2025-12-06T00:49:44Z"
+    "title": "I Built Two Claude Code Features a Week Before Anthropic Released Them",
+    "translated_title": "我在 Anthropic 发布前一周构建了两个 Claude 代码功能",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Ex-Nexon CEO: AAA Gaming “Is At Its End”",
-    "translated_title": "Nexon 前首席执行官：AAA 游戏“已经结束”",
-    "publishedAt": "2025-12-06T00:48:59Z"
+    "title": "Did Scotland accidentally approve initiative letting people go topless in public?",
+    "translated_title": "苏格兰是否意外批准了允许人们在公共场合赤裸上身的倡议？",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "New MacBook Air M4 Is Now Cheaper Than Refurb M2, Amazon Liquidates Stock After Black Friday at Record Low",
-    "translated_title": "新款 MacBook Air M4 现在比翻新 M2 便宜，亚马逊在黑色星期五后清仓库存创历史新低",
-    "publishedAt": "2025-12-06T00:45:54Z"
+    "title": "CASSIA: a multi-agent large language model for automated and interpretable cell annotation",
+    "translated_title": "CASSIA：用于自动化和可解释的细胞注释的多智能体大语言模型",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Show HN: Tuned.ws – AI growth strategist for Spotify/Apple Music artists (demo)",
-    "translated_title": "Show HN：Tuned.ws – Spotify/Apple Music 艺术家的 AI 增长策略师（演示）",
-    "publishedAt": "2025-12-06T00:43:21Z"
+    "title": "The party’s AI: How China’s new AI systems are reshaping human rights",
+    "translated_title": "党的人工智能：中国的新人工智能系统如何重塑人权",
+    "publishedAt": "2025-12-07T00:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "This chart shows just how much cash OpenAI is burning as it chases AI profits",
-    "translated_title": "这张图显示了 OpenAI 在追逐人工智能利润时消耗了多少现金",
-    "publishedAt": "2025-12-06T00:41:55Z"
+    "title": "kittylog 2.10.2",
+    "translated_title": "基蒂日志 2.10.2",
+    "publishedAt": "2025-12-06T23:55:08Z"
   },
   {
     "keyword": "AI",
-    "title": "Warner Bros, Netflix's $72 billion deal turns spotlight on performance of media titans",
-    "translated_title": "华纳兄弟与 Netflix 720 亿美元的交易成为媒体巨头业绩的焦点",
-    "publishedAt": "2025-12-06T00:41:44Z"
+    "title": "universal-agent-arch 0.3.0",
+    "translated_title": "通用代理架构 0.3.0",
+    "publishedAt": "2025-12-06T23:50:14Z"
   },
   {
     "keyword": "AI",
-    "title": "USA Or China: Goldman Breaks Down Who Will Win The AI War",
-    "translated_title": "美国还是中国：高盛分析谁将赢得人工智能战争",
-    "publishedAt": "2025-12-06T00:41:32Z"
+    "title": "A fork of Calibre called Clbre, because the AI is stripped out",
+    "translated_title": "Calibre 的一个分支，称为 Clbre，因为 AI 被剥离了",
+    "publishedAt": "2025-12-06T23:50:01Z"
   },
   {
     "keyword": "AI",
-    "title": "On-Chain Data Marketing: 7 Strategies for Smarter Analytics",
-    "translated_title": "链上数据营销：智能分析的 7 种策略",
-    "publishedAt": "2025-12-06T00:41:16Z"
+    "title": "wisent 0.7.31",
+    "translated_title": "野牛 0.7.31",
+    "publishedAt": "2025-12-06T23:45:58Z"
   },
   {
     "keyword": "AI",
-    "title": "kittylog 2.5.2",
-    "translated_title": "基蒂日志 2.5.2",
-    "publishedAt": "2025-12-06T00:39:03Z"
+    "title": "remdb 0.3.163",
+    "translated_title": "远程数据库 0.3.163",
+    "publishedAt": "2025-12-06T23:42:33Z"
   },
   {
     "keyword": "AI",
-    "title": "Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso - it sold first",
-    "translated_title": "数字艺术家 Beeple 将自己的脸印在价值 10 万美元的机器狗身上，紧邻埃隆·马斯克和毕加索——它首先售出",
-    "publishedAt": "2025-12-06T00:39:00Z"
+    "title": "Scrapping mother tongue policy won’t kill local languages —Education minister, Alausa",
+    "translated_title": "废除母语政策不会消灭当地语言——教育部长阿劳萨",
+    "publishedAt": "2025-12-06T23:36:15Z"
   },
   {
     "keyword": "AI",
-    "title": "agentic-graph-mem 1.8.5",
-    "translated_title": "代理图内存 1.8.5",
-    "publishedAt": "2025-12-06T00:36:35Z"
+    "title": "Missionary school experience taught me religious coexistence — Summit Bank COO, Adam",
+    "translated_title": "教会学校的经历教会了我宗教共存——峰会银行首席运营官 Adam",
+    "publishedAt": "2025-12-06T23:36:15Z"
   },
   {
     "keyword": "AI",
-    "title": "anyt 0.9.0",
-    "translated_title": "任意 0.9.0",
-    "publishedAt": "2025-12-06T00:33:39Z"
+    "title": "chuk-mcp-math 0.2.2",
+    "translated_title": "Atte-clos-2.22.22",
+    "publishedAt": "2025-12-06T23:33:31Z"
   },
   {
     "keyword": "AI",
-    "title": "xpander-sdk 2.0.139",
-    "translated_title": "xpander-sdk 2.0.139",
-    "publishedAt": "2025-12-06T00:32:11Z"
+    "title": "Hegseth hints major defense spending increase, reveals new details on Trump’s anti-narcoterrorism operations",
+    "translated_title": "赫格斯暗示将大幅增加国防开支，并透露特朗普反恐行动的新细节",
+    "publishedAt": "2025-12-06T23:28:11Z"
   },
   {
     "keyword": "AI",
-    "title": "Millennium, Jane Street Show HK’s Lure for Key IPO Investors",
-    "translated_title": "Millennium、Jane Street 展现香港对主要 IPO 投资者的吸引力",
-    "publishedAt": "2025-12-06T00:30:33Z"
+    "title": "Hegseth hints major defense spending increase, reveals new details on Trump’s anti-narcoterrorism operations",
+    "translated_title": "赫格斯暗示将大幅增加国防开支，并透露特朗普反恐行动的新细节",
+    "publishedAt": "2025-12-06T23:28:11Z"
   },
   {
     "keyword": "AI",
-    "title": "Ukraine-US Talks Yield ‘Framework’ But Negotiations Continue",
-    "translated_title": "乌克兰与美国会谈达成“框架”，但谈判仍在继续",
-    "publishedAt": "2025-12-06T00:30:32Z"
+    "title": "Absolute Batman #15 Preview: Joker Haunts Bruce's Past",
+    "translated_title": "绝对蝙蝠侠 #15 预览：小丑困扰布鲁斯的过去",
+    "publishedAt": "2025-12-06T23:26:03Z"
   },
   {
     "keyword": "AI",
-    "title": "Why Home Buyers See Some Hope in 2026",
-    "translated_title": "为什么购房者在 2026 年看到一些希望",
-    "publishedAt": "2025-12-06T00:30:32Z"
+    "title": "Google Must Limit Its 'Default Search' Contracts to One Year, Judge Rules",
+    "translated_title": "法官裁定谷歌必须将其“默认搜索”合同限制为一年",
+    "publishedAt": "2025-12-06T23:21:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Today’s Wordle #1631 Hints And Answer For Saturday, December 6",
-    "translated_title": "今天的 Wordle #1631 12 月 6 日星期六的提示和答案",
-    "publishedAt": "2025-12-06T00:30:02Z"
+    "title": "Experts debate AI’s growing role in improving communication",
+    "translated_title": "专家们争论人工智能在改善沟通方面日益重要的作用",
+    "publishedAt": "2025-12-06T23:20:15Z"
   },
   {
     "keyword": "AI",
-    "title": "Think phones are boring? Here are 4 reasons why 2025 was a big year for smartphones, and none of them are AI",
-    "translated_title": "觉得手机很无聊吗？2025 年是智能手机大年的 4 个原因，但没有一个是人工智能",
-    "publishedAt": "2025-12-06T00:30:00Z"
+    "title": "Musk and Gates are wrong about AI replacing jobs. ‘That’s not what we’re seeing,’ LinkedIn exec says",
+    "translated_title": "马斯克和盖茨关于人工智能取代工作的观点是错误的。LinkedIn 高管表示，“这不是我们所看到的”",
+    "publishedAt": "2025-12-06T23:19:34Z"
   },
   {
     "keyword": "AI",
-    "title": "obra-client 0.1.22",
-    "translated_title": "工作客户端 0.1.22",
-    "publishedAt": "2025-12-06T00:29:29Z"
+    "title": "nexaroa 0.0.49",
+    "translated_title": "内克萨罗 0.0.49",
+    "publishedAt": "2025-12-06T23:17:47Z"
   },
   {
     "keyword": "AI",
-    "title": "tokencostauto 0.1.384",
-    "translated_title": "代币成本汽车 0.1.384",
-    "publishedAt": "2025-12-06T00:29:14Z"
+    "title": "vizforge 0.5.0",
+    "translated_title": "维兹锻造 0.5.0",
+    "publishedAt": "2025-12-06T23:10:52Z"
   },
   {
     "keyword": "AI",
-    "title": "Russia-India Business Forum",
-    "translated_title": "俄罗斯-印度商业论坛",
-    "publishedAt": "2025-12-06T00:28:45Z"
+    "title": "wisent 0.7.30",
+    "translated_title": "野牛 0.7.30",
+    "publishedAt": "2025-12-06T23:10:31Z"
   },
   {
     "keyword": "AI",
-    "title": "aceai 0.1.3",
-    "translated_title": "酶0.1.3",
-    "publishedAt": "2025-12-06T00:28:35Z"
+    "title": "wisent 0.7.29",
+    "translated_title": "野牛 0.7.29",
+    "publishedAt": "2025-12-06T23:10:27Z"
   },
   {
     "keyword": "AI",
-    "title": "The AI pressure cooker: OpenAI, Nvidia and Google all on the move",
-    "translated_title": "人工智能高压锅：OpenAI、Nvidia 和 Google 都在行动",
-    "publishedAt": "2025-12-06T00:28:11Z"
+    "title": "The Psychology Behind Why People Stay, Leave, Or Tune Out At Work",
+    "translated_title": "人们留在工作、离开工作或不工作背后的心理",
+    "publishedAt": "2025-12-06T23:09:12Z"
   },
   {
     "keyword": "AI",
-    "title": "88-year-old Army veteran working at grocery store receives over $1.7M in donations after viral video",
-    "translated_title": "视频火爆后，在杂货店工作的 88 岁退伍军人收到超过 170 万美元的捐款",
-    "publishedAt": "2025-12-06T00:28:05Z"
+    "title": "flwr-nightly 1.25.0.dev20251206",
+    "translated_title": "FLWR-每夜 1.25.0.DEV20251206",
+    "publishedAt": "2025-12-06T23:06:51Z"
   },
   {
     "keyword": "AI",
-    "title": "xpander-sdk 2.0.138",
-    "translated_title": "xpander-sdk 2.0.138",
-    "publishedAt": "2025-12-06T00:27:12Z"
+    "title": "Op-Ed: Unaffordability and exclusionism, Sydney style: Unimpressive and egregious.",
+    "translated_title": "专栏：负担不起和排外主义，悉尼风格：不起眼且令人震惊。",
+    "publishedAt": "2025-12-06T23:05:58Z"
   },
   {
     "keyword": "AI",
-    "title": "Sam Altman's Dirty DRAM Deal",
-    "translated_title": "Sam Altman 的肮脏 DRAM 交易",
-    "publishedAt": "2025-12-06T00:24:55Z"
+    "title": "Disgraced teacher accused of using Google Docs to groom underage student before alleged sex crimes",
+    "translated_title": "名誉扫地的老师被指控在涉嫌性犯罪前使用谷歌文档来培养未成年学生",
+    "publishedAt": "2025-12-06T23:00:52Z"
   },
   {
     "keyword": "AI",
-    "title": "Global Times: Strategic significance of China-France relations has become even more prominent",
-    "translated_title": "环球时报：中法关系战略意义更加凸显",
-    "publishedAt": "2025-12-06T00:24:00Z"
+    "title": "Miles Morales’s 10 Most Dangerous Villains",
+    "translated_title": "迈尔斯·莫拉莱斯笔下的 10 个最危险的恶棍",
+    "publishedAt": "2025-12-06T23:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Play a Waiting Game With Roblox Stock",
-    "translated_title": "使用 Roblox 股票玩等待游戏",
-    "publishedAt": "2025-12-06T00:19:39Z"
+    "title": "7 More Great Original Anime Not Based on Manga, Ranked",
+    "translated_title": "7 部更精彩的非漫画原创动漫排名",
+    "publishedAt": "2025-12-06T23:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Apple Stock Can Rise on Services Segment, Says Analyst. Plus, Uber, American Eagle, and More",
-    "translated_title": "分析师表示，苹果股价可能因服务板块上涨。另外，Uber、American Eagle 等",
-    "publishedAt": "2025-12-06T00:19:18Z"
+    "title": "Why Digital IDs, CBDCs, and UBI Will Be Eagerly Welcome",
+    "translated_title": "为什么数字 ID、CBDC 和 UBI 将受到热烈欢迎",
+    "publishedAt": "2025-12-06T23:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "ovl: pass original credentials, not mounter credentials during create",
-    "translated_title": "ovl：在创建过程中传递原始凭据，而不是安装程序凭据",
-    "publishedAt": "2025-12-06T00:16:20Z"
+    "title": "mcp-ticketer 2.2.8",
+    "translated_title": "mcp-ticketer 2.2.8",
+    "publishedAt": "2025-12-06T22:57:29Z"
   },
   {
     "keyword": "AI",
-    "title": "obra-client 0.1.21",
-    "translated_title": "工作客户端 0.1.21",
-    "publishedAt": "2025-12-06T00:15:16Z"
+    "title": "remdb 0.3.162",
+    "translated_title": "远程数据库 0.3.162",
+    "publishedAt": "2025-12-06T22:54:19Z"
   },
   {
     "keyword": "AI",
-    "title": "What does Netflix’s deal to buy HBO Max mean for you?",
-    "translated_title": "Netflix 收购 HBO Max 的交易对您来说意味着什么？",
-    "publishedAt": "2025-12-06T00:08:29Z"
+    "title": "Magical Mystery Beatles Demo",
+    "translated_title": "神奇披头士乐队演示",
+    "publishedAt": "2025-12-06T22:53:30Z"
   },
   {
     "keyword": "AI",
-    "title": "As BOJ rate decision nears, Takaichi government signals openness to hike",
-    "translated_title": "随着日本央行利率决定临近，高市政府表示对加息持开放态度",
-    "publishedAt": "2025-12-06T00:08:21Z"
+    "title": "wisent 0.7.28",
+    "translated_title": "野牛 0.7.28",
+    "publishedAt": "2025-12-06T22:51:24Z"
   },
   {
     "keyword": "AI",
-    "title": "Most “Safe” Dividend Stocks Don’t Grow Like This… But These 3 Did",
-    "translated_title": "大多数“安全”股息股票不会像这样增长……但这三只股票却做到了",
-    "publishedAt": "2025-12-06T00:08:11Z"
+    "title": "nc1709 1.11.5",
+    "translated_title": "nc1709 1.11.h",
+    "publishedAt": "2025-12-06T22:47:00Z"
   },
   {
     "keyword": "AI",
-    "title": "The Biggest Heist in America Is Being Sold as a Gift to Children",
-    "translated_title": "美国最大的抢劫案是作为礼物出售给儿童",
-    "publishedAt": "2025-12-06T00:08:05Z"
+    "title": "1 in 10 births in the U.S. are premature. Here’s how AI could help doctors predict it",
+    "translated_title": "在美国，十分之一的婴儿是早产儿。人工智能如何帮助医生预测病情",
+    "publishedAt": "2025-12-06T22:46:39Z"
   },
   {
     "keyword": "AI",
-    "title": "Review & Preview: Netflix Goes for Legacy",
-    "translated_title": "回顾与预览：Netflix 追求传统",
-    "publishedAt": "2025-12-06T00:07:55Z"
+    "title": "The most likely solution to the U.S. debt crisis is severe austerity triggered by a fiscal calamity, former White House economic adviser says",
+    "translated_title": "前白宫经济顾问表示，解决美国债务危机最有可能的办法是财政灾难引发的严厉紧缩政策",
+    "publishedAt": "2025-12-06T22:44:08Z"
   },
   {
     "keyword": "AI",
-    "title": "obra-client 0.1.20",
-    "translated_title": "工作客户端 0.1.20",
-    "publishedAt": "2025-12-06T00:01:14Z"
+    "title": "agentor 0.0.17.dev1",
+    "translated_title": "代理0.0.17.dev1",
+    "publishedAt": "2025-12-06T22:42:06Z"
   },
   {
     "keyword": "AI",
-    "title": "gondolin 0.1.1",
-    "translated_title": "贡多林 0.1.1",
-    "publishedAt": "2025-12-06T00:01:13Z"
+    "title": "1 in 10 births in the U.S. are premature. Here’s how AI could help doctors predict it",
+    "translated_title": "在美国，十分之一的婴儿是早产儿。人工智能如何帮助医生预测病情",
+    "publishedAt": "2025-12-06T22:40:16Z"
   },
   {
     "keyword": "AI",
-    "title": "Travel Agencies Complement Human Insights with New AI-Powered Tools",
-    "translated_title": "旅行社利用新的人工智能工具补充人类的洞察力",
-    "publishedAt": "2025-12-06T00:01:05Z"
+    "title": "remdb 0.3.161",
+    "translated_title": "远程数据库 0.3.161",
+    "publishedAt": "2025-12-06T22:40:11Z"
   },
   {
     "keyword": "AI",
-    "title": "A lawyer’s essential checklist for physician side hustles [PODCAST]",
-    "translated_title": "律师关于医生副业的基本清单 [PODCAST]",
-    "publishedAt": "2025-12-06T00:00:39Z"
+    "title": "nc1709 1.11.4",
+    "translated_title": "nc1709 1.11.4",
+    "publishedAt": "2025-12-06T22:35:05Z"
   },
   {
     "keyword": "AI",
-    "title": "Daily Hacker News for 2025-12-05",
-    "translated_title": "2025 年 12 月 5 日每日黑客新闻",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "zenith-ai added to PyPI",
+    "translated_title": "zenith-ai 添加到 PyPI",
+    "publishedAt": "2025-12-06T22:33:05Z"
   },
   {
     "keyword": "AI",
-    "title": "Adaptive dynamic hypergraph learning for ingredient aware food recommendation",
-    "translated_title": "用于成分感知食品推荐的自适应动态超图学习",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "zenith-ai 0.1.0",
+    "translated_title": "天顶人工智能 0.1.0",
+    "publishedAt": "2025-12-06T22:33:05Z"
   },
   {
     "keyword": "AI",
-    "title": "Noise & Grain Combines Two of Portland’s Loves: Film Photography and Live Music",
-    "translated_title": "《Noise & Grain》结合了波特兰的两大爱好：电影摄影和现场音乐",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "nc1709 1.11.3",
+    "translated_title": "nc1709 1.11.p",
+    "publishedAt": "2025-12-06T22:33:04Z"
   },
   {
     "keyword": "AI",
-    "title": "【仕事もプライベートも！】話すだけでAIが複数のタスクをそれぞれのプロジェクトへ一括登録。",
-    "translated_title": "【工作和私生活！] 简单来说，AI会一次性向每个项目注册多个任务。",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "The bad news continues - server prices set to rise in latest blow to hardware budgets",
+    "translated_title": "坏消息仍在继续——服务器价格将上涨，这是对硬件预算的最新打击",
+    "publishedAt": "2025-12-06T22:30:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Comparative genomics analyses reveal genomic variation and evolutionary adaptation in Dendrobium orchids",
-    "translated_title": "比较基因组学分析揭示石斛兰的基因组变异和进化适应",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "MENU - ORDER AI Announces Global Expansion with New Multilingual Capabilities, Supporting WHO Guidance on Dietary Needs for GLP-1 Users",
+    "translated_title": "MENU - ORDER AI 宣布全球扩张并提供新的多语言功能，支持 WHO 关于 GLP-1 用户饮食需求的指南",
+    "publishedAt": "2025-12-06T22:25:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Accurate Mediterranean Sea forecasting via graph-based deep learning",
-    "translated_title": "通过基于图的深度学习准确预测地中海",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "What Is One of the Best Tech Stocks to Hold for the Next 10 Years?",
+    "translated_title": "未来 10 年最值得持有的科技股之一是哪一只？",
+    "publishedAt": "2025-12-06T22:24:24Z"
   },
   {
     "keyword": "AI",
-    "title": "Quick commerce fuels 40% surge in sexual wellness sales with discreet 10-minute delivery",
-    "translated_title": "快速商务通过谨慎的 10 分钟送达推动性健康销售额激增 40%",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "nc1709 1.11.2",
+    "translated_title": "nc1709 1.11.a",
+    "publishedAt": "2025-12-06T22:20:35Z"
   },
   {
     "keyword": "AI",
-    "title": "Exercise Rewires Your Biology to Improve Energy and Metabolic Health",
-    "translated_title": "锻炼可以重塑您的生理机能，改善能量和代谢健康",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "nc1709 1.11.1",
+    "translated_title": "nc1709 1.11.1",
+    "publishedAt": "2025-12-06T22:18:58Z"
   },
   {
     "keyword": "AI",
-    "title": "Initial impressions of Picat",
-    "translated_title": "对Picat的初步印象",
-    "publishedAt": "2025-12-06T00:00:00Z"
+    "title": "remdb 0.3.160",
+    "translated_title": "远程数据库 0.3.160",
+    "publishedAt": "2025-12-06T22:18:50Z"
   },
   {
     "keyword": "AI",
-    "title": "xpander-sdk 2.0.137",
-    "translated_title": "xpander-sdk 2.0.137",
-    "publishedAt": "2025-12-05T23:59:19Z"
+    "title": "nc1709 1.11.0",
+    "translated_title": "nc1709 1.11.0",
+    "publishedAt": "2025-12-06T22:14:15Z"
   },
   {
     "keyword": "AI",
-    "title": "Todd Howard says AI can't replace human 'creative intention,' but it's part of Bethesda's 'toolset for how we build our worlds or check things'",
-    "translated_title": "托德·霍华德表示人工智能无法取代人类的“创造性意图”，但它是贝塞斯达“我们如何构建世界或检查事物的工具集”的一部分",
-    "publishedAt": "2025-12-05T23:57:53Z"
+    "title": "Taking stock: some federal science news",
+    "translated_title": "盘点：一些联邦科学新闻",
+    "publishedAt": "2025-12-06T22:13:09Z"
   },
   {
     "keyword": "AI",
-    "title": "David Zaslav Is Having the Last Laugh in Netflix-Warner Deal",
-    "translated_title": "大卫·扎斯拉夫 (David Zaslav) 在 Netflix 与华纳的交易中笑到了最后",
-    "publishedAt": "2025-12-05T23:57:02Z"
+    "title": "Judge puts a one-year limit on Google's contracts for default search placement",
+    "translated_title": "法官对谷歌默认搜索展示位置合同设定一年期限",
+    "publishedAt": "2025-12-06T22:12:46Z"
   },
   {
     "keyword": "AI",
-    "title": "Michael Jordan testifies in NASCAR antitrust trial, says he had no choice but to sue 'the entity'",
-    "translated_title": "迈克尔·乔丹在纳斯卡反垄断审判中作证，表示他别无选择，只能起诉“实体”",
-    "publishedAt": "2025-12-05T23:56:46Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Get Your Santa Claus Rally Caps On. Then Prepare for a Comedown",
-    "translated_title": "戴上你的圣诞老人集会帽。然后准备下跌",
-    "publishedAt": "2025-12-05T23:56:45Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Nigerian jailed five years for $1.4m fraud",
-    "translated_title": "尼日利亚人因诈骗 140 万美元被判入狱 5 年",
-    "publishedAt": "2025-12-05T23:53:34Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "pipecat-ai 0.0.97",
-    "translated_title": "Pipecat-ai 0.0.97",
-    "publishedAt": "2025-12-05T23:53:08Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Meta's latest acquisition suggests hardware plans beyond glasses and headsets",
-    "translated_title": "Meta 的最新收购表明了眼镜和耳机之外的硬件计划",
-    "publishedAt": "2025-12-05T23:52:08Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people",
-    "translated_title": "前谷歌员工 Yoodli 的估值增加三倍，达到 3 亿美元以上，人工智能的目的是帮助人们，而不是取代人们",
-    "publishedAt": "2025-12-05T23:46:03Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
-    "translated_title": "资料来源：人工智能综合研究初创公司 Aaru 以 10 亿美元的“头条”估值筹集了 A 轮融资",
-    "publishedAt": "2025-12-05T23:45:41Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Ex-Googler's Yoodli triples valuation to $300M+ with AI built to assist, not replace, people | TechCrunch",
-    "translated_title": "前谷歌员工 Yoodli 的估值增至三倍，达到 3 亿美元以上，人工智能的目的是帮助人们，而不是取代人们。TechCrunch",
-    "publishedAt": "2025-12-05T23:45:02Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "aider-ce 0.88.40",
-    "translated_title": "帮助这个 0.88.40",
-    "publishedAt": "2025-12-05T23:43:20Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "mcp-ticketer 2.2.2",
-    "translated_title": "mcp-ticketer 2.2.2",
-    "publishedAt": "2025-12-05T23:41:51Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B 'headline' valuation",
-    "translated_title": "资料来源：人工智能综合研究初创公司 Aaru 以 10 亿美元的“标题”估值筹集了 A 轮融资",
-    "publishedAt": "2025-12-05T23:40:31Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "openhands 1.4.1",
-    "translated_title": "空手 1.4.1",
-    "publishedAt": "2025-12-05T23:39:48Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "How To God Early Access Review: A Hands-On God Complex",
-    "translated_title": "《如何成为上帝》抢先体验评论：亲身实践的上帝情结",
-    "publishedAt": "2025-12-05T23:35:40Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Meta Acquires Limitless to Accelerate Work on AI-Enabled Wearables",
-    "translated_title": "Meta 收购 Limitless 以加速人工智能可穿戴设备的开发",
-    "publishedAt": "2025-12-05T23:34:42Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "AI Agents Can Cheat When Operational Pressure Mounts, Research Shows",
-    "translated_title": "研究表明，当运营压力增大时，人工智能代理可能会作弊",
-    "publishedAt": "2025-12-05T23:34:39Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "promptheus 0.3.0",
-    "translated_title": "提示0.3.0",
-    "publishedAt": "2025-12-05T23:34:12Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "forecasting-tools 0.2.78",
-    "translated_title": "预测工具 0.2.78",
-    "publishedAt": "2025-12-05T23:33:55Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "The Netflix and Warner Bros. deal might be great for shareholders, but not for anyone else",
-    "translated_title": "Netflix 和华纳兄弟的交易可能对股东有利，但对其他任何人都不利",
-    "publishedAt": "2025-12-05T23:33:06Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Meta cuts deals with several news publishers for AI use",
-    "translated_title": "Meta 与多家新闻出版商就人工智能的使用达成了协议",
-    "publishedAt": "2025-12-05T23:32:05Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Meta acquires Sam Altman-backed AI wearable startup Limitless",
-    "translated_title": "Meta 收购 Sam Altman 支持的人工智能可穿戴初创公司 Limitless",
-    "publishedAt": "2025-12-05T23:31:25Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "I stopped using my NAS for home surveillance, and here's why",
-    "translated_title": "我停止使用 NAS 进行家庭监控，原因如下",
-    "publishedAt": "2025-12-05T23:30:17Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "All-New Spider-Gwen: The Ghost Spider #5 Preview: Gwen's Tangled Web",
-    "translated_title": "全新蜘蛛格温：幽灵蜘蛛 #5 预览：格温的纠结网",
-    "publishedAt": "2025-12-05T23:27:03Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Show HN: AI Wrapped – Spotify Wrapped for Your Claude/ChatGPT History",
-    "translated_title": "Show HN：AI Wrapped – Spotify 为您的 Claude/ChatGPT 历史记录",
-    "publishedAt": "2025-12-05T23:26:33Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "ag2 0.10.2",
-    "translated_title": "ag2 0.10.2",
-    "publishedAt": "2025-12-05T23:24:27Z"
-  },
-  {
-    "keyword": "AI",
-    "title": "Crims using social media images, videos in 'virtual kidnapping' scams",
-    "translated_title": "犯罪分子利用社交媒体图片、视频进行“虚拟绑架”诈骗",
-    "publishedAt": "2025-12-05T23:23:39Z"
+    "title": "AI Data Provenance for Trustworthy Marketing AI",
+    "translated_title": "人工智能数据来源可信赖的营销人工智能",
+    "publishedAt": "2025-12-06T22:10:22Z"
   },
   {
     "keyword": "能源",
