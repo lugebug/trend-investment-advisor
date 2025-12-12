@@ -1,5 +1,611 @@
 [
   {
+    "keyword": "AI",
+    "title": "Google's answer to the AI arms race -- promote the guy behind its data center tech | TechCrunch",
+    "translated_title": "谷歌对人工智能军备竞赛的回应——提拔其数据中心技术背后的人TechCrunch",
+    "publishedAt": "2025-12-11T01:14:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.339",
+    "translated_title": "野牛 0.7.339",
+    "publishedAt": "2025-12-11T01:13:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.338",
+    "translated_title": "野牛 0.7.338",
+    "publishedAt": "2025-12-11T01:13:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.337",
+    "translated_title": "野牛 0.7.337",
+    "publishedAt": "2025-12-11T01:12:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
+    "translated_title": "谷歌对人工智能军备竞赛的回应——提拔其数据中心技术背后的人",
+    "publishedAt": "2025-12-11T01:11:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oracle warns of rising depreciation strains as AI data-center buildout accelerates",
+    "translated_title": "甲骨文警告称，随着人工智能数据中心建设加速，折旧压力将上升",
+    "publishedAt": "2025-12-11T01:10:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Chinese tech giants Hygon and Sugon call off merger, say they're still besties",
+    "translated_title": "中国科技巨头海光和曙光取消合并，称他们仍然是好朋友",
+    "publishedAt": "2025-12-11T01:10:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.336",
+    "translated_title": "野牛 0.7.336",
+    "publishedAt": "2025-12-11T01:09:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Synopsys confronts a split China market as it pivots to next-gen IP and Nvidia-led AI design",
+    "translated_title": "Synopsys 在转向下一代 IP 和 Nvidia 主导的人工智能设计时面临着分裂的中国市场",
+    "publishedAt": "2025-12-11T01:08:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "20 luxury travel gifts for her this Christmas (2025) – UK & Europe edition",
+    "translated_title": "今年圣诞节 (2025) 为她准备的 20 件豪华旅行礼物 - 英国和欧洲版",
+    "publishedAt": "2025-12-11T01:08:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.335",
+    "translated_title": "野牛 0.7.335",
+    "publishedAt": "2025-12-11T01:08:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zenml-nightly 0.92.0.dev20251211",
+    "translated_title": "zenml-nightly 0.92.0.dev20251211",
+    "publishedAt": "2025-12-11T01:08:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.334",
+    "translated_title": "野牛 0.7.334",
+    "publishedAt": "2025-12-11T01:06:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.333",
+    "translated_title": "野牛 0.7.333",
+    "publishedAt": "2025-12-11T01:06:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.332",
+    "translated_title": "野牛 0.7.332",
+    "publishedAt": "2025-12-11T01:06:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Rakhe Black Day ka NESO ban pyrshah ia ka CAA ha Northeast",
+    "translated_title": "NESO 黑色日在东北部庆祝对抗 CAA",
+    "publishedAt": "2025-12-11T01:05:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tiiny AI Pocket Lab: Mini PC with 12-core ARM CPU and 80 GB LPDDR5X memory unveiled ahead of CES",
+    "translated_title": "Tiiny AI Pocket Lab：配备 12 核 ARM CPU 和 80 GB LPDDR5X 内存的迷你 PC 在 CES 前亮相",
+    "publishedAt": "2025-12-11T01:05:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "alation-ai-agent-mcp 1.0.0rc2",
+    "translated_title": "alation-ai-agent-mcp 1.0.0rc2",
+    "publishedAt": "2025-12-11T01:03:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nc1709 1.18.11",
+    "translated_title": "nc1709 2011 年 1 月 18 日",
+    "publishedAt": "2025-12-11T01:03:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-agent-rules 0.15.3",
+    "translated_title": "人工智能代理规则 0.15.3",
+    "publishedAt": "2025-12-11T01:03:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "alation-ai-agent-langchain 1.0.0rc2",
+    "translated_title": "alation-ai-agent-langchain 1.0.0rc2",
+    "publishedAt": "2025-12-11T01:03:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "alation-ai-agent-sdk 1.0.0rc2",
+    "translated_title": "alation-ai-agent-sdk 1.0.0rc2",
+    "publishedAt": "2025-12-11T01:02:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Rani Chatterjee on her fierce role as Jwala in Prathaon Ki Odhe Chunri: Beendani; says ‘I don’t want to play roles where women are only shown crying’",
+    "translated_title": "拉妮·查特吉 (Rani Chatterjee) 讲述她在 Prathaon Ki Odhe Chunri: Beendani 中饰演 Jwala 的激烈角色；说“我不想扮演女性只会哭泣的角色”",
+    "publishedAt": "2025-12-11T01:02:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI slop ad backfires for McDonald’s",
+    "translated_title": "麦当劳的人工智能广告适得其反",
+    "publishedAt": "2025-12-11T01:01:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【ブルガリ】新作ドキュメンタリーフィルム、ICON(S) を発表",
+    "translated_title": "[Bvlgari] 宣布推出新纪录片《ICON(S)》",
+    "publishedAt": "2025-12-11T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "スペースシフトとジオテクノロジーズ、 SAR衛星データとAIを活用した建物変化抽出ソリューションで 地図整備のDXを推進",
+    "translated_title": "Spaceshift 和 Geotechnologies 通过利用 SAR 卫星数据和 AI 的建筑变更提取解决方案促进地图维护的 DX",
+    "publishedAt": "2025-12-11T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "After 300 years, Colombia retrieves its first pieces of the San José, the $17 billion ‘holy grail of shipwrecks’",
+    "translated_title": "300 年后，哥伦比亚取回了圣何塞号的第一批碎片，价值 170 亿美元的“沉船圣杯”",
+    "publishedAt": "2025-12-11T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oracle’s 2Q earnings pop: Ampere divestiture drives profit surge, resets chip strategy",
+    "translated_title": "甲骨文二季度财报大增：Ampere剥离带动利润飙升，芯片战略重置",
+    "publishedAt": "2025-12-11T00:57:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.331",
+    "translated_title": "野牛 0.7.331",
+    "publishedAt": "2025-12-11T00:57:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI slop ad backfires for McDonald’s",
+    "translated_title": "麦当劳的人工智能广告适得其反",
+    "publishedAt": "2025-12-11T00:56:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Adobe Forecasts Continued Revenue Growth as Customers Adopt AI-Powered Tools",
+    "translated_title": "Adobe 预测随着客户采用人工智能工具，收入将持续增长",
+    "publishedAt": "2025-12-11T00:53:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google debuts managed MCP servers for BigQuery, other cloud services",
+    "translated_title": "Google 首次推出用于 BigQuery 和其他云服务的托管 MCP 服务器",
+    "publishedAt": "2025-12-11T00:52:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI has entered the classroom - but is it the solution for overworked teachers?",
+    "translated_title": "人工智能已经进入课堂——但它是教师过度劳累的解决方案吗？",
+    "publishedAt": "2025-12-11T00:52:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.330",
+    "translated_title": "野牛 0.7.330",
+    "publishedAt": "2025-12-11T00:52:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NASA JPL Unveils Rover Operations Center for Moon, Mars Missions",
+    "translated_title": "NASA 喷气推进实验室揭幕月球和火星任务漫游者运营中心",
+    "publishedAt": "2025-12-11T00:47:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Time To Dump Windows For Gaming … Or No?",
+    "translated_title": "是时候放弃 Windows 来玩游戏了……还是不？",
+    "publishedAt": "2025-12-11T00:46:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Users worldwide report issues using ChatGPT on Android",
+    "translated_title": "全球用户报告在 Android 上使用 ChatGPT 的问题",
+    "publishedAt": "2025-12-11T00:46:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.329",
+    "translated_title": "野牛 0.7.329",
+    "publishedAt": "2025-12-11T00:45:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "King Gizzard & The Lizard Wizard quit Spotify in protest, only for an AI doppelgänger to step in",
+    "translated_title": "King Gizzard 和 The Lizard Wizard 退出 Spotify 以示抗议，结果人工智能分身介入",
+    "publishedAt": "2025-12-11T00:44:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-slim 1.30.0",
+    "translated_title": "pydantic-ai-slim 1.30.0",
+    "publishedAt": "2025-12-11T00:43:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-examples 1.30.0",
+    "translated_title": "pydantic-ai-示例 1.30.0",
+    "publishedAt": "2025-12-11T00:43:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai 1.30.0",
+    "translated_title": "pydantic-ai 1.30.0",
+    "publishedAt": "2025-12-11T00:43:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clai 1.30.0",
+    "translated_title": "粘土1.30.0",
+    "publishedAt": "2025-12-11T00:43:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "New OpenAI Models Likely Pose 'High' Cybersecurity Risk, Company Says",
+    "translated_title": "公司表示，新的 OpenAI 模型可能会带来“高”网络安全风险",
+    "publishedAt": "2025-12-11T00:39:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Notah AI – Democratizing Executive Assistant",
+    "translated_title": "Notah AI – 民主化行政助理",
+    "publishedAt": "2025-12-11T00:35:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "TCS to buy AI advisory firm for $700 million",
+    "translated_title": "TCS 将以 7 亿美元收购人工智能咨询公司",
+    "publishedAt": "2025-12-11T00:33:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-agent-rules 0.15.2",
+    "translated_title": "人工智能代理规则 0.15.2",
+    "publishedAt": "2025-12-11T00:32:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tokencostauto 0.1.393",
+    "translated_title": "代币成本汽车 0.1.393",
+    "publishedAt": "2025-12-11T00:31:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Amazon pledges $35 billion for India by 2030, with a quick commerce push",
+    "translated_title": "亚马逊承诺到 2030 年为印度投资 350 亿美元，并快速推动商业发展",
+    "publishedAt": "2025-12-11T00:31:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Part 6: The Pathology at the Heart of Hyperscaling",
+    "translated_title": "第 6 部分：超大规模核心的病理学",
+    "publishedAt": "2025-12-11T00:30:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Smashing Security podcast #447: Grok the stalker, the Louvre heist, and Microsoft 365 mayhem",
+    "translated_title": "Smashing Security 播客 #447：跟踪者 Grok、卢浮宫抢劫案和 Microsoft 365 混乱",
+    "publishedAt": "2025-12-11T00:30:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Embed worker inputs while deploying AI",
+    "translated_title": "在部署人工智能时嵌入员工的输入",
+    "publishedAt": "2025-12-11T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Token per rupee per watt to correlate with GDP growth: Satya Nadella",
+    "translated_title": "每卢比每瓦特的代币与 GDP 增长相关：Satya Nadella",
+    "publishedAt": "2025-12-11T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.328",
+    "translated_title": "野牛 0.7.328",
+    "publishedAt": "2025-12-11T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft finally realizes the threat SteamOS poses — but its promises to fix Windows 11 for PC gaming are too little, too late",
+    "translated_title": "微软终于意识到 SteamOS 带来的威胁，但其针对 PC 游戏修复 Windows 11 的承诺太少，也太晚了",
+    "publishedAt": "2025-12-11T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Bring back Indian engineers for semicon manufacturing boost: Intel CEO",
+    "translated_title": "英特尔首席执行官：召回印度工程师以促进半导体制造",
+    "publishedAt": "2025-12-11T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "India eyes fully indigenous supercomputing systems by 2030: ISM chief",
+    "translated_title": "ISM负责人：印度计划到2030年实现完全本土化的超级计算系统",
+    "publishedAt": "2025-12-11T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "India accelerates to exascale: NSM 2.0 targets pre-exascale supercomputer by 2027-28",
+    "translated_title": "印度加速迈向百亿亿次：NSM 2.0目标是到2027-28年达到百亿亿次之前的超级计算机",
+    "publishedAt": "2025-12-11T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Shares in AI giant Oracle fall after revenue miss ramping up bubble fears",
+    "translated_title": "人工智能巨头甲骨文股价下跌，因营收未达预期加剧泡沫担忧",
+    "publishedAt": "2025-12-11T00:28:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google tests AI-powered overviews on some publications' Google News pages; publishers like Der Spiegel, El País, and WaPo in commercial partnerships get paid",
+    "translated_title": "谷歌在一些出版物的谷歌新闻页面上测试人工智能驱动的概述；与《明镜周刊》、《国家报》和《华盛顿邮报》等建立商业合作伙伴关系的出版商获得报酬",
+    "publishedAt": "2025-12-11T00:27:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oracle raises AI spending estimate, spooks investors",
+    "translated_title": "甲骨文上调人工智能支出预期，令投资者感到不安",
+    "publishedAt": "2025-12-11T00:27:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Adobe’s AI-driven earnings beat is not enough to boost the stock",
+    "translated_title": "Adobe 人工智能驱动的盈利增长不足以提振该股",
+    "publishedAt": "2025-12-11T00:27:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-cli 0.41.0",
+    "translated_title": "代理-cli 0.41.0",
+    "publishedAt": "2025-12-11T00:27:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "synod-cli 2.2.20",
+    "translated_title": "会议 CLI 2.2.20",
+    "publishedAt": "2025-12-11T00:25:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Capitol Hill Confronts AI’s Growing Grip on Financial Services",
+    "translated_title": "国会山面临人工智能对金融服务日益增长的控制",
+    "publishedAt": "2025-12-11T00:25:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google DeepMind Will Open a Robotic AI Lab in the UK to Discover New Materials",
+    "translated_title": "谷歌 DeepMind 将在英国开设机器人人工智能实验室以发现新材料",
+    "publishedAt": "2025-12-11T00:24:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Cochlear pilots voice-to-text Salesforce integration for lead management",
+    "translated_title": "Cochlear 试点语音到文本 Salesforce 集成以进行潜在客户管理",
+    "publishedAt": "2025-12-11T00:24:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Kindle I didn't expect to use for work is now my top productivity device - here's why",
+    "translated_title": "我没想到会在工作中使用的 Kindle 现在成了我最高效的设备 - 这就是原因",
+    "publishedAt": "2025-12-11T00:23:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ayechat-dev 0.31.1.20251211002140",
+    "translated_title": "ayechat-dev 0.31.1.20251211002140",
+    "publishedAt": "2025-12-11T00:22:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "House passes $900B defense bill with major pro-Israel provisions",
+    "translated_title": "众议院通过 900B 美元国防法案，其中包含主要亲以色列条款",
+    "publishedAt": "2025-12-11T00:22:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Arcjet turbocharges in-code developer defences",
+    "translated_title": "Arcjet 增强了代码内开发人员的防御能力",
+    "publishedAt": "2025-12-11T00:20:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.327",
+    "translated_title": "野牛 0.7.327",
+    "publishedAt": "2025-12-11T00:20:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oracle raises AI spending estimate, spooks investors",
+    "translated_title": "甲骨文上调人工智能支出预期，令投资者感到不安",
+    "publishedAt": "2025-12-11T00:20:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ayechat-dev 0.31.1.20251211001941",
+    "translated_title": "ayechat-dev 0.31.1.20251211001941",
+    "publishedAt": "2025-12-11T00:20:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google tests AI-powered overviews on some publications' Google News pages; publishers like Der Spiegel, El País, and WaPo in commercial partnerships get paid (Aisha Malik/TechCrunch)",
+    "translated_title": "谷歌在一些出版物的谷歌新闻页面上测试人工智能驱动的概述；Der Spiegel、El País 和 WaPo 等建立商业合作关系的出版商获得报酬（Aisha Malik/TechCrunch）",
+    "publishedAt": "2025-12-11T00:20:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Shares in AI giant Oracle fall after revenue miss ramping up bubble fears",
+    "translated_title": "人工智能巨头甲骨文股价下跌，因营收未达预期加剧泡沫担忧",
+    "publishedAt": "2025-12-11T00:19:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "synod-cli 2.2.19",
+    "translated_title": "会议 CLI 2.2.19",
+    "publishedAt": "2025-12-11T00:18:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Plays Led By Taiwan Semi Dominate Latest Names On Best Stock Lists",
+    "translated_title": "以台湾为首的人工智能股占据最佳股票名单的最新名字",
+    "publishedAt": "2025-12-11T00:16:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs",
+    "translated_title": "州总检察长警告微软、OpenAI、谷歌和其他人工智能巨头修复“妄想”输出",
+    "publishedAt": "2025-12-11T00:16:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google DeepMind Will Open a Robotic AI Lab in the UK to Discover New Materials",
+    "translated_title": "谷歌 DeepMind 将在英国开设机器人人工智能实验室以发现新材料",
+    "publishedAt": "2025-12-11T00:16:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google DeepMind agrees to sweeping partnership with U.K. government focused on science and clean energy",
+    "translated_title": "谷歌 DeepMind 同意与英国政府建立广泛的合作伙伴关系，重点关注科学和清洁能源",
+    "publishedAt": "2025-12-11T00:16:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-edge-quantizer-nightly 0.5.0.dev20251211",
+    "translated_title": "ai-edge-quantizer-nightly 0.5.0.dev20251211",
+    "publishedAt": "2025-12-11T00:14:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ayechat-dev 0.31.1.dev20251211001411",
+    "translated_title": "ayechat-dev 0.31.1.dev20251211001411",
+    "publishedAt": "2025-12-11T00:14:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Wikipedia won’t fix its woke bias — so competitors are on the rise",
+    "translated_title": "维基百科不会解决其觉醒偏见——因此竞争对手正在崛起",
+    "publishedAt": "2025-12-11T00:14:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.326",
+    "translated_title": "野牛 0.7.326",
+    "publishedAt": "2025-12-11T00:14:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sqlbot 2.7.0",
+    "translated_title": "sqlbot 2.7.0",
+    "publishedAt": "2025-12-11T00:13:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix 'delusional' outputs | TechCrunch",
+    "translated_title": "州总检察长警告微软、OpenAI、谷歌和其他人工智能巨头修复“妄想”输出 |TechCrunch",
+    "publishedAt": "2025-12-11T00:13:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Samsung Launches OneUI 8.5 Beta in the U.S.",
+    "translated_title": "三星在美国推出 OneUI 8.5 Beta",
+    "publishedAt": "2025-12-11T00:11:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.325",
+    "translated_title": "野牛 0.7.325",
+    "publishedAt": "2025-12-11T00:11:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "biblemategui 0.1.78",
+    "translated_title": "圣经伴侣GUI 0.1.78",
+    "publishedAt": "2025-12-11T00:10:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nc1709 1.18.10",
+    "translated_title": "nc1709 1.18.10",
+    "publishedAt": "2025-12-11T00:09:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Democrats will strangle AI with woke rules — unless Trump takes action",
+    "translated_title": "民主党将用唤醒规则扼杀人工智能——除非特朗普采取行动",
+    "publishedAt": "2025-12-11T00:09:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.7.324",
+    "translated_title": "野牛 0.7.324",
+    "publishedAt": "2025-12-11T00:08:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot 0.16.7",
+    "translated_title": "艾鹦鹉0.16.7",
+    "publishedAt": "2025-12-11T00:07:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Samsung Electronics and KT Corporation Successfully Validate AI-RAN on Commercial Networks, Accelerating 6G Development",
+    "translated_title": "三星电子和 KT 公司在商用网络上成功验证 AI-RAN，加速 6G 发展",
+    "publishedAt": "2025-12-11T00:07:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UK pharma boss says US is the best country to invest in",
+    "translated_title": "英国制药公司老板称美国是最佳投资国家",
+    "publishedAt": "2025-12-11T00:06:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nexaroa 0.0.126",
+    "translated_title": "内克萨罗 0.0.126",
+    "publishedAt": "2025-12-11T00:04:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Quick Custom Intelligence CTO Andrew Cardno Named to the San Diego 500 List of Most Influential People",
+    "translated_title": "Quick Custom Intelligence 首席技术官 Andrew Cardno 入选圣地亚哥 500 名最具影响力人物名单",
+    "publishedAt": "2025-12-11T00:04:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "redgit 1.0.5",
+    "translated_title": "红吉特 1.0.5",
+    "publishedAt": "2025-12-11T00:03:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Walmart is selling a $200 2-in-1 laptop and tablet for only $90",
+    "translated_title": "Walmart 售价 200 美元的二合一笔记本电脑和平板电脑仅售 90 美元",
+    "publishedAt": "2025-12-11T00:03:00Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "Deepin: (中文) 第十届中国开源年会举行 deepin社区展示智能操作系统创新成果",
+    "translated_title": "Deepin: (中文) 第十届中国开源年会举行 deepin社区展示智能操作系统创新成果",
+    "publishedAt": "2025-12-10T09:07:24Z"
+  },
+  {
     "keyword": "能源",
     "title": "mcp-hs-code-query 1.1.0",
     "translated_title": "mcp-hs-代码-查询 1.1.0",
