@@ -1,5 +1,593 @@
 [
   {
+    "keyword": "AI",
+    "title": "Elon Musk's AI company faces lawsuit from 'mother of his child' over Grok deepfakes",
+    "translated_title": "埃隆·马斯克 (Elon Musk) 的人工智能公司因 Grok Deepfakes 面临“他孩子的母亲”的诉讼",
+    "publishedAt": "2026-01-17T01:22:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kuzu-memory 1.6.17",
+    "translated_title": "葛记忆1.6.17",
+    "publishedAt": "2026-01-17T01:14:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump admin. calls on tech companies to pay energy bill for new AI power plants",
+    "translated_title": "特朗普行政。呼吁科技公司为新的人工智能发电厂支付能源费用",
+    "publishedAt": "2026-01-17T01:09:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hypha 0.21.33",
+    "translated_title": "菌丝0.21.33",
+    "publishedAt": "2026-01-17T01:09:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Mother of Elon Musk's child sues his AI company over sexual deepfake images created by Grok",
+    "translated_title": "埃隆·马斯克 (Elon Musk) 孩子的母亲因 Grok 制作的色情深度伪造图像起诉他的人工智能公司",
+    "publishedAt": "2026-01-17T01:08:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "After 14 years, RuneScape's awful microtransaction shop is going away next week because Jagex wants the MMO to be \"a safe haven, a storm-weathering bet against the falling trust in the world\"",
+    "translated_title": "14 年后，RuneScape 糟糕的微交易商店将于下周关闭，因为 Jagex 希望 MMO 成为“一个安全港，一个抵御世界信任度下降的经得起风暴考验的赌注”",
+    "publishedAt": "2026-01-17T01:05:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kuzu-memory 1.6.16",
+    "translated_title": "葛记忆1.6.16",
+    "publishedAt": "2026-01-17T01:05:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: React hook for Gemini Live API – real-time voice and screen sharing",
+    "translated_title": "Show HN：Gemini Live API 的 React hook – 实时语音和屏幕共享",
+    "publishedAt": "2026-01-17T01:02:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Offline Knowledge Hubs: Building Your Own Digital Survival Library",
+    "translated_title": "线下知识中心：建立您自己的数字生存图书馆",
+    "publishedAt": "2026-01-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Exclusive: Elon Musk’s Boring Co. is studying a tunnel project to Tesla Gigafactory near Reno",
+    "translated_title": "独家：埃隆·马斯克的 Boring Co. 正在研究通往里诺附近特斯拉超级工厂的隧道项目",
+    "publishedAt": "2026-01-17T00:57:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Rebels fail to make an impact in key wards",
+    "translated_title": "叛军未能在关键地区产生影响",
+    "publishedAt": "2026-01-17T00:46:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Humans broke one of evolution’s basic rules by losing fur — and survived",
+    "translated_title": "人类通过失去皮毛打破了进化的基本规则之一，并且幸存下来",
+    "publishedAt": "2026-01-17T00:45:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Kaptan Malik loses, 2 family members win in stronghold",
+    "translated_title": "卡普坦·马利克（Kaptan Malik）输了，两名家庭成员在据点获胜",
+    "publishedAt": "2026-01-17T00:45:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump Wants Tech Companies To Foot the Bill For New Power Plants",
+    "translated_title": "特朗普希望科技公司为新发电厂买单",
+    "publishedAt": "2026-01-17T00:45:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Grok, a test for AI governance",
+    "translated_title": "Grok，人工智能治理测试",
+    "publishedAt": "2026-01-17T00:45:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The mysterious singer with millions of streams - but who (or what) is she?",
+    "translated_title": "这位拥有数百万流量的神秘歌手 - 但她是谁（或什么）？",
+    "publishedAt": "2026-01-17T00:43:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "headroom-ai 0.2.10",
+    "translated_title": "净空-ai 0.2.10",
+    "publishedAt": "2026-01-17T00:42:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "BMC election results 2026: Shinde Sena makes dent in UBT-MNS tally, but only just",
+    "translated_title": "BMC 2026 年选举结果：Shinde Sena 在 UBT-MNS 统计中有所下降，但也只是刚刚好",
+    "publishedAt": "2026-01-17T00:42:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Is Similarweb (SMWB) Quietly Becoming Core Infrastructure for AI-Driven Marketing Intelligence?",
+    "translated_title": "Similarweb (SMWB) 是否正在悄然成为人工智能驱动的营销智能的核心基础设施？",
+    "publishedAt": "2026-01-17T00:42:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Coming soon: We interrupt this ChatGPT session with a very special message from our sponsors",
+    "translated_title": "即将推出：我们将通过赞助商发出的非常特别的消息来打断本次 ChatGPT 会议",
+    "publishedAt": "2026-01-17T00:41:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Mother of Elon Musk's child sues his AI company over sexual deepfake images created by Grok",
+    "translated_title": "埃隆·马斯克 (Elon Musk) 孩子的母亲因 Grok 制作的色情深度伪造图像起诉他的人工智能公司",
+    "publishedAt": "2026-01-17T00:40:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "韓国発・医療観光プラットフォーム「TripDoc」、日本版アプリローンチ3週間で1万ダウンロード突破…19日より「冬のシークレット美活」キャンペーン開催 !",
+    "translated_title": "韩国医疗旅游平台“TripDoc”推出日文版后三周下载量破万……“冬季秘密美容活动”活动将于19日起举办！",
+    "publishedAt": "2026-01-17T00:40:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Windows 11 Computer Freezing Regularly",
+    "translated_title": "Windows 11 电脑经常死机",
+    "publishedAt": "2026-01-17T00:39:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Social media platforms removed 4.7 million accounts after Australia banned them for children",
+    "translated_title": "澳大利亚禁止儿童使用社交媒体平台后，社交媒体平台删除了 470 万个账户",
+    "publishedAt": "2026-01-17T00:39:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI is turning to the court of public opinion in its battle with Elon Musk",
+    "translated_title": "OpenAI 在与埃隆·马斯克 (Elon Musk) 的斗争中转向舆论法庭",
+    "publishedAt": "2026-01-17T00:38:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "#681: How NOT to Invest, with Barry Ritholtz",
+    "translated_title": "＃681：如何不投资，巴里·里索尔兹（Barry Ritholtz）",
+    "publishedAt": "2026-01-17T00:36:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pycorex 1.0.7",
+    "translated_title": "派克雷克斯 1.0.7",
+    "publishedAt": "2026-01-17T00:36:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "headroom-ai 0.2.9",
+    "translated_title": "净空-ai 0.2.9",
+    "publishedAt": "2026-01-17T00:35:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tokencostauto 0.1.454",
+    "translated_title": "代币成本汽车 0.1.454",
+    "publishedAt": "2026-01-17T00:31:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "langchain-nvidia-ai-endpoints 1.0.2",
+    "translated_title": "langchain-nvidia-ai-endpoints 1.0.2",
+    "publishedAt": "2026-01-17T00:30:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tech Mahindra posts strongest December quarter in three years",
+    "translated_title": "Tech Mahindra 公布三年来最强劲的 12 月季度业绩",
+    "publishedAt": "2026-01-17T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "optikka-design-data-layer 0.1.36",
+    "translated_title": "光学设计数据层 0.1.36",
+    "publishedAt": "2026-01-17T00:29:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "buildlog 0.3.0",
+    "translated_title": "构建日志 0.3.0",
+    "publishedAt": "2026-01-17T00:22:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tacoreader 2.4.12",
+    "translated_title": "塔科阅读器 2.4.12",
+    "publishedAt": "2026-01-17T00:20:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump wants big tech to pay for big beautiful power plants",
+    "translated_title": "特朗普希望大型科技公司为大型美丽发电厂买单",
+    "publishedAt": "2026-01-17T00:17:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "From build to buy: Indian startups chase scale through overseas acquisitions",
+    "translated_title": "从建造到收购：印度初创公司通过海外收购追逐规模",
+    "publishedAt": "2026-01-17T00:15:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Global sports face challenges from 'AI slop' misinformation",
+    "translated_title": "全球体育面临“人工智能倾斜”错误信息的挑战",
+    "publishedAt": "2026-01-17T00:15:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Global sports face challenges from 'AI slop' misinformation",
+    "translated_title": "全球体育面临“人工智能倾斜”错误信息的挑战",
+    "publishedAt": "2026-01-17T00:15:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-todo 0.1.2",
+    "translated_title": "pydantic-ai-todo 0.1.2",
+    "publishedAt": "2026-01-17T00:14:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nolte: Golden Globe Ratings Tank with Third Dip in a Row",
+    "translated_title": "诺尔特：金球奖收视率连续第三次下滑",
+    "publishedAt": "2026-01-17T00:14:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "'Is She Even Real?': Melania Trump's 'Robotic' Video Appearance at AI Event Sparks Wild 'Deepfake' Speculation",
+    "translated_title": "“她是真的吗？”：梅拉尼娅·特朗普在人工智能活动中的“机器人”视频亮相引发了疯狂的“深度造假”猜测",
+    "publishedAt": "2026-01-17T00:12:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Factfind: Who, if anyone, can be held legally responsible for abuse images on Grok and X?",
+    "translated_title": "Factfind：如果有的话，谁可以对 Grok 和 X 上的滥用图像承担法律责任？",
+    "publishedAt": "2026-01-17T00:10:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "louieai 0.7.0",
+    "translated_title": "路易亚就是路易亚",
+    "publishedAt": "2026-01-17T00:09:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Steam updates AI disclosure form, requiring developers to report visible and in-game AI but not background tools",
+    "translated_title": "Steam更新AI披露表格，要求开发者报告可见的和游戏内的AI，但不报告后台工具",
+    "publishedAt": "2026-01-17T00:09:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Mother of Elon Musk’s child sues his AI company over sexual deepfake images created by Grok",
+    "translated_title": "埃隆·马斯克 (Elon Musk) 孩子的母亲因 Grok 制作的色情深度伪造图像起诉他的人工智能公司",
+    "publishedAt": "2026-01-17T00:08:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Claude-Config – Dotfiles for Claude Code",
+    "translated_title": "显示 HN：Claude-Config – Claude 代码的点文件",
+    "publishedAt": "2026-01-17T00:08:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Commander AI – Mac UI for Claude Code",
+    "translated_title": "显示 HN：Commander AI – Claude Code 的 Mac UI",
+    "publishedAt": "2026-01-17T00:08:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump Holds Oval Office Summit With Prominent Muslim Leader",
+    "translated_title": "特朗普与著名穆斯林领袖举行椭圆形办公室峰会",
+    "publishedAt": "2026-01-17T00:07:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sleepkit 0.10.0",
+    "translated_title": "睡眠套件 0.10.0",
+    "publishedAt": "2026-01-17T00:07:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "afterpaths added to PyPI",
+    "translated_title": "添加到 PyPI 的 afterpaths",
+    "publishedAt": "2026-01-17T00:06:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "afterpaths 0.1.0",
+    "translated_title": "后路0.1.0",
+    "publishedAt": "2026-01-17T00:06:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-deep 0.2.13",
+    "translated_title": "pydantic-深 0.2.13",
+    "publishedAt": "2026-01-17T00:05:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Cat caught on camera starting dangerous kitchen fire after jumping on stove and turning on burner",
+    "translated_title": "猫跳上炉子并打开燃烧器后引发危险的厨房火灾，被摄像机拍到",
+    "publishedAt": "2026-01-17T00:05:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "claude-cortex 2.4.0",
+    "translated_title": "克劳德皮质 2.4.0",
+    "publishedAt": "2026-01-17T00:01:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "glee 0.3.23",
+    "translated_title": "欢乐合唱团 0.3.23",
+    "publishedAt": "2026-01-17T00:01:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Government customer services to be modernised with help of industry experts",
+    "translated_title": "在行业专家的帮助下实现政府客户服务现代化",
+    "publishedAt": "2026-01-17T00:01:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tacoreader 2.4.11",
+    "translated_title": "塔科阅读器 2.4.11",
+    "publishedAt": "2026-01-17T00:00:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Your smart home is leaking money — here are the 5 biggest culprits",
+    "translated_title": "您的智能家居正在漏钱——以下是 5 个最大的罪魁祸首",
+    "publishedAt": "2026-01-17T00:00:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tarang 4.4.0",
+    "translated_title": "时态 4.4.0",
+    "publishedAt": "2026-01-17T00:00:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Here's why Jim Cramer thinks chip stocks can go higher",
+    "translated_title": "这就是吉姆·克莱默认为芯片股可以走高的原因",
+    "publishedAt": "2026-01-17T00:00:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "5 Best Epic Games That Aren’t Fortnite",
+    "translated_title": "5 款非《堡垒之夜》的最佳史诗游戏",
+    "publishedAt": "2026-01-17T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Flame-retardant polymer-enabled space-confined carbonization toward quasi-spherical hard carbon for high-rate sodium storage",
+    "translated_title": "阻燃聚合物空间限制碳化成准球形硬碳，用于高速率钠存储",
+    "publishedAt": "2026-01-17T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Exposure of western United States bird communities to predicted high severity fire",
+    "translated_title": "美国西部鸟类群落将遭受预计的严重火灾",
+    "publishedAt": "2026-01-17T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "What Does the Bible Say About Transhumanism?",
+    "translated_title": "圣经对超人类主义有何看法？",
+    "publishedAt": "2026-01-17T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Hidden Energy Costs of Artificial Intelligence",
+    "translated_title": "人工智能的隐性能源成本",
+    "publishedAt": "2026-01-17T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Optimal fuel cell control modeling with feedback linearization and adaptive sliding mode control",
+    "translated_title": "具有反馈线性化和自适应滑模控制的最佳燃料电池控制建模",
+    "publishedAt": "2026-01-17T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "EPA Rules Against xAI in Memphis Natural Gas Their Case as Residents Push Back Over Turbine Usage in Southaven, Mississippi",
+    "translated_title": "密西西比州南海文市居民反对使用涡轮机，美国环保局 (EPA) 禁止在孟菲斯天然气项目中使用 xAI",
+    "publishedAt": "2026-01-16T23:59:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Super AI Markets – Testing Ground for AI Shopping Agent Security",
+    "translated_title": "Show HN：超级人工智能市场——人工智能代购安全的试验场",
+    "publishedAt": "2026-01-16T23:58:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI to start testing ChatGPT ads across free, Go tiers",
+    "translated_title": "OpenAI 开始在免费、Go 级别测试 ChatGPT 广告",
+    "publishedAt": "2026-01-16T23:58:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Timing: See Your Work, Not Just Your Schedule (Sponsor)",
+    "translated_title": "时间安排：查看您的工作，而不仅仅是您的日程安排（赞助商）",
+    "publishedAt": "2026-01-16T23:57:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Electric Rate Shock Triggers White House Crackdown on Data Centers",
+    "translated_title": "电价冲击引发白宫对数据中心的打击",
+    "publishedAt": "2026-01-16T23:57:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Report Says AI That Hallucinated A Cop Into A Frog Is Making Utah Streets ‘Safer’",
+    "translated_title": "报告称人工智能将警察幻化成青蛙正在使犹他州街道“更安全”",
+    "publishedAt": "2026-01-16T23:52:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Schoser Talent and Wellness Solutions Launches Free AI Education App After Witnessing Digital Divide in Rural New York",
+    "translated_title": "Schoser Talent and Wellness Solutions 在目睹纽约农村地区的数字鸿沟后推出免费人工智能教育应用程序",
+    "publishedAt": "2026-01-16T23:52:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post   | TechCrunch",
+    "translated_title": "人工智能云初创公司 Runpod 的 ARR 达到 1.2 亿美元——这一切始于 Reddit 上的一篇帖子 |TechCrunch",
+    "publishedAt": "2026-01-16T23:49:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pluribus-ai added to PyPI",
+    "translated_title": "pluribus-ai 添加到 PyPI",
+    "publishedAt": "2026-01-16T23:49:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pluribus-ai 0.1.0",
+    "translated_title": "更多-ai 0.1.0",
+    "publishedAt": "2026-01-16T23:49:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-backend 0.1.0",
+    "translated_title": "pydantic-ai-后端 0.1.0",
+    "publishedAt": "2026-01-16T23:47:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Agenda is Published! ** [Video] Experience a NANOG Conference + Q+A with Meta's Omar Baldonado",
+    "translated_title": "议程已发布！** [视频] 与 Meta 的 Omar Baldonado 一起体验 NANOG 会议 + 问答",
+    "publishedAt": "2026-01-16T23:46:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
+    "translated_title": "FLUX.2 [Klein]：迈向交互式视觉智能",
+    "publishedAt": "2026-01-16T23:46:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Steam AI Disclosure Gets Clarification for AI in Dev Tools",
+    "translated_title": "Steam AI 披露得到了开发工具中 AI 的澄清",
+    "publishedAt": "2026-01-16T23:46:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Musk's Grok AI faces more scrutiny after generating sexual deepfake images",
+    "translated_title": "马斯克的 Grok AI 在生成性爱深度伪造图像后面临更多审查",
+    "publishedAt": "2026-01-16T23:45:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Digital Marketing Expert Tony Hayes Reveals Why AI “Hacks” Are Dead and What Actually Works in 2026",
+    "translated_title": "数字营销专家托尼·海耶斯 (Tony Hayes) 揭示人工智能“黑客”为何已死以及 2026 年真正有效的方法",
+    "publishedAt": "2026-01-16T23:44:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Report Says AI That Hallucinated A Cop Into A Frog Is Making Utah Streets ‘Safer’",
+    "translated_title": "报告称人工智能将警察幻化成青蛙正在使犹他州街道“更安全”",
+    "publishedAt": "2026-01-16T23:44:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "인간쓰레기 테슬라의 일론 머스크",
+    "translated_title": "人类垃圾特斯拉的埃隆·马斯克",
+    "publishedAt": "2026-01-16T23:43:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CRWV Class Action Alert: Robbins LLP Reminds Investors of the Lead Plaintiff Deadline in the CoreWeave, Inc. Class Action Lawsuit",
+    "translated_title": "CRWV 集体诉讼警报：Robbins LLP 提醒投资者 CoreWeave, Inc. 集体诉讼的首席原告截止日期",
+    "publishedAt": "2026-01-16T23:43:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How tech leaders can turn AI hype into real team productivity",
+    "translated_title": "技术领导者如何将人工智能炒作转化为真正的团队生产力",
+    "publishedAt": "2026-01-16T23:42:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nicole Richie Clarifies Why Her Daughter, 18, Goes By a Different Name",
+    "translated_title": "妮可·里奇 (Nicole Richie) 澄清为什么她 18 岁的女儿有不同的名字",
+    "publishedAt": "2026-01-16T23:41:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "TSMC chair confirms long-term AI demand and commitment to US expansion",
+    "translated_title": "台积电董事长确认长期人工智能需求和对美国扩张的承诺",
+    "publishedAt": "2026-01-16T23:40:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Some Trump administration social media posts mirror extremist rhetoric",
+    "translated_title": "特朗普政府的一些社交媒体帖子反映了极端主义言论",
+    "publishedAt": "2026-01-16T23:40:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Packaging and testing cluster expected to emerge as TSMC Arizona GigaFab expands",
+    "translated_title": "随着台积电亚利桑那州 GigaFab 的扩张，封装和测试集群预计将出现",
+    "publishedAt": "2026-01-16T23:40:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "New Charges For a Political Survivor: Timoshenko Entangled in Vote-Buying Probe Amid Kyiv Crisis",
+    "translated_title": "对政治幸存者的新指控：铁莫申科在基辅危机中卷入贿选调查",
+    "publishedAt": "2026-01-16T23:30:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "STRANGER THINGS Doc Director Pushes Back on ChatGPT Script Claims After Fans Spot Suspicious Tab on Computer Screen",
+    "translated_title": "粉丝在电脑屏幕上发现可疑标签后，《怪奇物语》导演反驳了 ChatGPT 脚本的说法",
+    "publishedAt": "2026-01-16T23:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘People love the unexpected’ — Disney on 25 years of Lego Star Wars, Smart Play, and why it's just getting started",
+    "translated_title": "“人们喜欢意想不到的事情”——迪士尼谈乐高星球大战 25 周年、Smart Play 以及它为何才刚刚起步",
+    "publishedAt": "2026-01-16T23:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Never-before-seen footage of uncontacted Amazon tribe emerges...",
+    "translated_title": "与世隔绝的亚马逊部落的前所未见的镜头出现了……",
+    "publishedAt": "2026-01-16T23:28:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DC KO: Green Lantern Galactic Slam #1 Preview: Rayner Rumble",
+    "translated_title": "DC KO：绿灯侠银河大满贯#1预览：雷纳隆隆",
+    "publishedAt": "2026-01-16T23:26:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "California AG sends Musk's xAI a cease-and-desist order over sexual deepfakes | TechCrunch",
+    "translated_title": "加州 AG 向马斯克的 xAI 发出停止令，要求停止其性深度假货 |TechCrunch",
+    "publishedAt": "2026-01-16T23:22:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Experiment suggests AI chatbot would save insurance agents a whopping 3 minutes a day",
+    "translated_title": "实验表明人工智能聊天机器人每天可以为保险代理人节省多达 3 分钟的时间",
+    "publishedAt": "2026-01-16T23:22:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Review verdict Asus ExpertBook PM3 - Good office laptop with long warranty and update security",
+    "translated_title": "评论结论 Asus ExpertBook PM3 - 良好的办公笔记本电脑，具有长期保修和更新安全性",
+    "publishedAt": "2026-01-16T23:21:00Z"
+  },
+  {
     "keyword": "芯片",
     "title": "Modders are slapping 32GB of VRAM on Nvidia's RTX 5080 GPUs, but that isn't good for gamers — modded variants designed for AI workstations and servers",
     "translated_title": "改装者在 Nvidia 的 RTX 5080 GPU 上配备 32GB VRAM，但这对游戏玩家来说并不好——专为 AI 工作站和服务器设计的改装变体",
@@ -28,11 +616,5 @@
     "title": "米国Segway社から、無停電機能（UPS）搭載、全シーン対応ポータブル電源「SEGWAY LUMINA 500」12月18日よりMakuakeで公開",
     "translated_title": "来自美国Segway，配备不间断电源功能（UPS）、兼容全场景的便携式电源“SEGWAY LUMINA 500”将于12月18日起在Makuake发布。",
     "publishedAt": "2025-12-19T00:40:28Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "Ruby 4.0.0 preview3 已发布",
-    "translated_title": "Ruby 4.0.0 preview3 已发布",
-    "publishedAt": "2025-12-18T00:00:00Z"
   }
 ]
