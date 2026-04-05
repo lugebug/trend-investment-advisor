@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "openlaoke 0.1.5",
+    "translated_title": "打开软件0.1.5",
+    "publishedAt": "2026-04-04T01:53:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "okareo-mcp 0.0.30",
+    "translated_title": "okareo-MCP 0.0.30",
+    "publishedAt": "2026-04-04T01:51:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "peaky-peek 0.1.17",
+    "translated_title": "高峰窥视 0.1.17",
+    "publishedAt": "2026-04-04T01:49:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "coreinsight-cli 0.3.1",
+    "translated_title": "coreinsight-cli 0.3.1",
+    "publishedAt": "2026-04-04T01:49:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-rps-arena 0.1.0",
+    "translated_title": "ai-rps-竞技场 0.1.0",
+    "publishedAt": "2026-04-04T01:45:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-rps-arena added to PyPI",
+    "translated_title": "ai-rps-arena 添加到 PyPI",
+    "publishedAt": "2026-04-04T01:45:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cartograph-cli 0.5.12",
+    "translated_title": "cartograph-cli 0.5.12",
+    "publishedAt": "2026-04-04T01:44:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Apple's Next iPad Mini 8 Rumored for Late 2026 OLED Upgrade and Performance Boost",
+    "translated_title": "据传苹果下一代 iPad Mini 8 将于 2026 年末升级 OLED 并提升性能",
+    "publishedAt": "2026-04-04T01:43:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wzrd-client 1.3.2",
+    "translated_title": "wzrd-客户端 1.3.2",
+    "publishedAt": "2026-04-04T01:40:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Out of the Box Advisors Disrupts Marketing Industry with 'Fractional Agency' Model for Small Businesses",
+    "translated_title": "开箱即用的顾问通过针对小型企业的“部分代理”模式颠覆了营销行业",
+    "publishedAt": "2026-04-04T01:38:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kumoai 2.20.0.dev202604031833",
+    "translated_title": "国家A.20.0。温情02604031833",
+    "publishedAt": "2026-04-04T01:37:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bytedance-ai-common-tools added to PyPI",
+    "translated_title": "PyPI 中添加了 bytedance-ai-common-tools",
+    "publishedAt": "2026-04-04T01:35:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mask-privacy 3.2.0",
+    "translated_title": "面具隐私3.2.0",
+    "publishedAt": "2026-04-04T01:32:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party | TechCrunch",
+    "translated_title": "Anthropic 在私人市场上占有一席之地；SpaceX 可能会破坏派对 |TechCrunch",
+    "publishedAt": "2026-04-04T01:32:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI’s Fidji Simo is taking medical leave amid an executive shake-up",
+    "translated_title": "OpenAI 的 Fidji Simo 在高管变动期间请病假",
+    "publishedAt": "2026-04-04T01:32:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "To learn the tech, all you have to do is ask",
+    "translated_title": "要学习技术，您所要做的就是问",
+    "publishedAt": "2026-04-04T01:30:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "6 airbags, zero protection: Consumer court orders full refund for safety failure",
+    "translated_title": "6个安全气囊，零保护：消费者法院因安全故障下令全额退款",
+    "publishedAt": "2026-04-04T01:30:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "marcus-ai 0.3.0",
+    "translated_title": "马库斯-ai 0.3.0",
+    "publishedAt": "2026-04-04T01:28:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "marcus-ai added to PyPI",
+    "translated_title": "marcus-ai 添加到 PyPI",
+    "publishedAt": "2026-04-04T01:28:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fastaiagent 0.1.1",
+    "translated_title": "快速代理0.1.1",
+    "publishedAt": "2026-04-04T01:28:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Online attacks and Luigi Mangione-inspired death threats in ugly brawl to build California AI megaproject",
+    "translated_title": "为建设加州人工智能大型项目而引发的丑陋斗殴中，网络攻击和路易吉·曼吉奥内引发的死亡威胁",
+    "publishedAt": "2026-04-04T01:28:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "openlaoke 0.1.3",
+    "translated_title": "打开软件0.1.3",
+    "publishedAt": "2026-04-04T01:25:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "WATCH: Holly Robinson Peete and Michele Kong champion resources for those with autism",
+    "translated_title": "观看：Holly Robinson Peete 和 Michele Kong 为自闭症患者提供资源",
+    "publishedAt": "2026-04-04T01:24:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "geospark-ai 0.4.0",
+    "translated_title": "geospark-ai 0.4.0",
+    "publishedAt": "2026-04-04T01:10:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Four Psychological Disruptions of AI at Work",
+    "translated_title": "人工智能在工作中造成的四种心理干扰",
+    "publishedAt": "2026-04-04T01:10:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "oauth-cli-coder 0.1.0",
+    "translated_title": "oauth-cli-编码器 0.1.0",
+    "publishedAt": "2026-04-04T01:05:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "oauth-cli-coder added to PyPI",
+    "translated_title": "oauth-cli-coder 添加到 PyPI",
+    "publishedAt": "2026-04-04T01:05:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matcha-gpu 0.2.5",
+    "translated_title": "抹茶GPU 0.2.5",
+    "publishedAt": "2026-04-04T01:04:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "That Dark Chocolate Easter Treat May Seem Healthier, But There's a Catch",
+    "translated_title": "黑巧克力复活节美食可能看起来更健康，但有一个问题",
+    "publishedAt": "2026-04-04T01:00:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SimUser AI – Uncover UX issues with AI personas that explore your web app",
+    "translated_title": "SimUser AI – 通过探索 Web 应用程序的 AI 角色发现 UX 问题",
+    "publishedAt": "2026-04-04T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clawed 4.3.2026.20",
+    "translated_title": "爪子 4.3.2026.20",
+    "publishedAt": "2026-04-04T00:58:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fiberai 0.0.5",
+    "translated_title": "光纤0.0.5",
+    "publishedAt": "2026-04-04T00:53:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Meetrics – Track anything, correlate anything, ask your data questions",
+    "translated_title": "Show HN：Metrics – 跟踪任何内容、关联任何内容、提出数据问题",
+    "publishedAt": "2026-04-04T00:53:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "assay-ai 1.20.1",
+    "translated_title": "分析-ai 1.20.1",
+    "publishedAt": "2026-04-04T00:52:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "instruction-lint 0.2.0",
+    "translated_title": "指令 lint 0.2.0",
+    "publishedAt": "2026-04-04T00:50:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "augint-shell 0.17.0",
+    "translated_title": "八月壳 0.17.0",
+    "publishedAt": "2026-04-04T00:50:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "obra 3.4.2",
+    "translated_title": "工作3.4.2",
+    "publishedAt": "2026-04-04T00:50:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clawed 4.3.2026.19",
+    "translated_title": "爪子 4.3.2026.19",
+    "publishedAt": "2026-04-04T00:49:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Leading through complexity: How Trinity Life Sciences CEO Scott Evangelista is redefining strategy in the age of AI",
+    "translated_title": "引领复杂性：Trinity Life Sciences 首席执行官 Scott Evangelista 如何重新定义人工智能时代的战略",
+    "publishedAt": "2026-04-04T00:48:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clawed 4.3.2026.18",
+    "translated_title": "爪子 4.3.2026.18",
+    "publishedAt": "2026-04-04T00:47:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tablassist 0.1.4",
+    "translated_title": "塔布拉斯0.1.4",
+    "publishedAt": "2026-04-04T00:44:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Moonstar #2 Preview: Charon's Therapeutic Sword Swings",
+    "translated_title": "Moonstar #2 预览：卡戎的治疗剑挥舞",
+    "publishedAt": "2026-04-04T00:43:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tokencostauto 0.1.582",
+    "translated_title": "代币成本汽车 0.1.582",
+    "publishedAt": "2026-04-04T00:41:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "browseaidev 0.3.0",
+    "translated_title": "浏览器 0.3.0",
+    "publishedAt": "2026-04-04T00:39:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "anneal-memory 0.1.6",
+    "translated_title": "退火内存 0.1.6",
+    "publishedAt": "2026-04-04T00:36:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "haldir added to PyPI",
+    "translated_title": "haldir 添加到 PyPI",
+    "publishedAt": "2026-04-04T00:34:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "haldir 0.1.0",
+    "translated_title": "保持0.1.0",
+    "publishedAt": "2026-04-04T00:34:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "speterlin-stocks 1.4.5",
+    "translated_title": "斯佩特林股票 1.4.5",
+    "publishedAt": "2026-04-04T00:33:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Men's 100M World Record In Track And Field: Here's What To Know",
+    "translated_title": "男子田径 100M 世界纪录：以下是您需要了解的内容",
+    "publishedAt": "2026-04-04T00:31:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clawed 4.3.2026.17",
+    "translated_title": "爪子 4.3.2026.17",
+    "publishedAt": "2026-04-04T00:30:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Valuations do a quick jump at select startups",
+    "translated_title": "部分初创公司的估值快速跃升",
+    "publishedAt": "2026-04-04T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fastaiagent 0.1.0",
+    "translated_title": "快速代理0.1.0",
+    "publishedAt": "2026-04-04T00:29:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "node9 1.1.3",
+    "translated_title": "纳迪克 1.1.p",
+    "publishedAt": "2026-04-04T00:29:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "visage-sdk 1.0.1",
+    "translated_title": "Visage-sdk 1.0.1",
+    "publishedAt": "2026-04-04T00:28:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "freshness-detector added to PyPI",
+    "translated_title": "PyPI 中添加了新鲜度检测器",
+    "publishedAt": "2026-04-04T00:26:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "freshness-detector 0.1.0",
+    "translated_title": "新鲜度检测器 0.1.0",
+    "publishedAt": "2026-04-04T00:26:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "echo-ecp added to PyPI",
+    "translated_title": "echo-ecp 添加到 PyPI",
+    "publishedAt": "2026-04-04T00:26:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "index-it-mcp 2.14.9",
+    "translated_title": "索引它-MCP 2.14.9",
+    "publishedAt": "2026-04-04T00:26:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "eyeroll 0.3.3",
+    "translated_title": "翻白眼0.3.3",
+    "publishedAt": "2026-04-04T00:24:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "node9 1.1.2",
+    "translated_title": "网易1.1.a",
+    "publishedAt": "2026-04-04T00:21:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-edge-quantizer-nightly 0.5.1.dev20260404",
+    "translated_title": "ai-edge-quantizer-nightly 0.5.1.dev20260404",
+    "publishedAt": "2026-04-04T00:20:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "awp-agents 1.0.23",
+    "translated_title": "awp-代理 1.0.23",
+    "publishedAt": "2026-04-04T00:20:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "augint-shell 0.16.11",
+    "translated_title": "Augint-shell 0.16.11",
+    "publishedAt": "2026-04-04T00:20:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentguard47 1.2.6",
+    "translated_title": "代理卫士47 1.2.6",
+    "publishedAt": "2026-04-04T00:20:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ironrace added to PyPI",
+    "translated_title": "Ironrace 添加到 PyPI",
+    "publishedAt": "2026-04-04T00:19:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ironrace 0.0.1",
+    "translated_title": "钢铁竞赛 0.0.1",
+    "publishedAt": "2026-04-04T00:19:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "codefleet 0.3.19",
+    "translated_title": "代码舰队 0.3.19",
+    "publishedAt": "2026-04-04T00:18:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cadenza-cli added to PyPI",
+    "translated_title": "cadenza-cli 添加到 PyPI",
+    "publishedAt": "2026-04-04T00:17:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cadenza-cli 0.3.0",
+    "translated_title": "节奏-cli 0.3.0",
+    "publishedAt": "2026-04-04T00:17:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: SoulForge, graph-powered coding agent CLI that runs headless",
+    "translated_title": "Show HN：SoulForge，无头运行的图形驱动编码代理 CLI",
+    "publishedAt": "2026-04-04T00:15:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Merge tag 'hwmon-for-v7.0-rc7' of git://git.kernel.org/pub/scm/linux/kernel/git/groeck/linux-staging",
+    "translated_title": "合并 git://git.kernel.org/pub/scm/linux/kernel/git/groeck/linux-staging 的标签“hwmon-for-v7.0-rc7”",
+    "publishedAt": "2026-04-04T00:13:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "awp-agents 1.0.22",
+    "translated_title": "awp-代理 1.0.22",
+    "publishedAt": "2026-04-04T00:07:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "What caused Nvidia’s 20% drop from peak? #world",
+    "translated_title": "是什么导致英伟达较峰值下跌20%？＃世界",
+    "publishedAt": "2026-04-04T00:04:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic ends Claude Code usage on OpenClaw #tech",
+    "translated_title": "Anthropic 终止在 OpenClaw 上使用 Claude Code #tech",
+    "publishedAt": "2026-04-04T00:03:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenClaw security risks drive malware scares #tech",
+    "translated_title": "OpenClaw 安全风险引发恶意软件恐慌#tech",
+    "publishedAt": "2026-04-04T00:03:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "deathstar-ai 0.11.0",
+    "translated_title": "死亡之星-ai 0.11.0",
+    "publishedAt": "2026-04-04T00:01:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft to Invest $10 Billion in Japan’s AI Industry",
+    "translated_title": "微软将向日本人工智能产业投资100亿美元",
+    "publishedAt": "2026-04-04T00:00:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "I ran Nvidia's NemoClaw to see if OpenClaw is finally safe, but it still has the same problems",
+    "translated_title": "我运行了 Nvidia 的 NemoClaw 来看看 OpenClaw 是否终于安全了，但它仍然存在同样的问题",
+    "publishedAt": "2026-04-04T00:00:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "WebAuditFlash – Get a complete SEO, website, and UX audit with an action plan in minutes",
+    "translated_title": "WebAuditFlash – 在几分钟内获得完整的 SEO、网站和用户体验审核以及行动计划",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "HackIndia Announces Dedicated Web3 Hackathon 2026",
+    "translated_title": "HackIndia 宣布举办 2026 年 Web3 黑客马拉松",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "HackIndia Announces AI Agents Hackathon 2026",
+    "translated_title": "HackIndia 宣布举办 2026 年 AI 代理黑客马拉松",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Detection and analysis of prompt injection in indian multilingual large language models",
+    "translated_title": "印度多语言大语言模型提示注入检测与分析",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Armin Ronacher: Absurd In Production",
+    "translated_title": "阿明·罗纳彻：制作中的荒谬",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Advancing green mobile networks",
+    "translated_title": "推进绿色移动网络",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Prime Video Just Added a 2025 Franchise-Ending Movie (& It’s One of the Most Expensive Films Ever Made)",
+    "translated_title": "Prime Video 刚刚添加了一部 2025 年系列结局电影（也是有史以来最昂贵的电影之一）",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Daily Hacker News for 2026-04-03",
+    "translated_title": "每日黑客新闻 2026-04-03",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Comparison of the performance of ChatGPT-5, Gemini 3, Copilot, Perplexity, and medical students in answering neurology questions: a cross-sectional study",
+    "translated_title": "ChatGPT-5、Gemini 3、Copilot、Perplexity 和医学生在回答神经病学问题方面的表现比较：一项横断面研究",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Automatic speech analysis can predict loneliness",
+    "translated_title": "自动语音分析可以预测孤独感",
+    "publishedAt": "2026-04-04T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "augint-shell 0.16.10",
+    "translated_title": "augint-shell 0.16.10",
+    "publishedAt": "2026-04-03T23:58:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "What Is Competitive Marketing? Key Insights for Manufacturing Executives",
+    "translated_title": "什么是竞争营销？制造业高管的重要见解",
+    "publishedAt": "2026-04-03T23:55:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "It's time to name and shame these Trump villains",
+    "translated_title": "是时候点名批评这些特朗普恶棍了",
+    "publishedAt": "2026-04-03T23:53:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+    "translated_title": "Anthropic 本质上是通过让订阅者支付额外费用来禁止 Claude 使用 OpenClaw",
+    "publishedAt": "2026-04-03T23:52:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tm-ai 2.0.80",
+    "translated_title": "TM-AI 2.0.80",
+    "publishedAt": "2026-04-03T23:50:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Have you heard? Khaby Lame’s Olympic gig, ZHC’s sour candy, and a never-ending roller coaster.",
+    "translated_title": "你听说过吗？Khaby Lame 的奥运演出、ZHC 的酸糖和永无休止的过山车。",
+    "publishedAt": "2026-04-03T23:47:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "translated_title": "Claude Code 发现隐藏 23 年的 Linux 漏洞",
+    "publishedAt": "2026-04-03T23:46:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vaibify 0.0.0",
+    "translated_title": "验证 0.0.0",
+    "publishedAt": "2026-04-03T23:44:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matcha-gpu 0.2.4",
+    "translated_title": "抹茶GPU 0.2.4",
+    "publishedAt": "2026-04-03T23:42:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "glassbox-mech-interp 4.2.1",
+    "translated_title": "glassbox-mech-interp 4.2.1",
+    "publishedAt": "2026-04-03T23:41:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tm-ai 2.0.79",
+    "translated_title": "TM-AI 2.0.79",
+    "publishedAt": "2026-04-03T23:41:10Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "Type-Cケーブルで充電・データ転送が可能になったnotta Memo AI Voice Recorder、AIもパワーアップしさらに頼もしく",
+    "translated_title": "notta Memo AI录音机现在可以使用Type-C线进行充电和数据传输，AI也已通电并且更加可靠",
+    "publishedAt": "2026-04-03T14:56:10Z"
+  },
+  {
     "keyword": "能源",
     "title": "【期間限定セール+10%OFF！】UGREEN Maxidok 10-in-1 Thunderbolt 5 ドッキングステーションが25,131円送料無料 - 安値世界一への挑戦",
     "translated_title": "【限时促销+10％OFF！] UGREEN Maxidok 10合1 Thunderbolt 5扩展坞 25,131日元 免运费 - 挑战成为全球最低价",
@@ -58,11 +658,5 @@
     "title": "AI 是一個五層蛋糕",
     "translated_title": "AI 是一个五层蛋糕",
     "publishedAt": "2026-03-09T19:00:29Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "再生能源投資正熱 七檔概念股受矚目",
-    "translated_title": "再生能源投资正热 七档概念股受瞩目",
-    "publishedAt": "2026-03-05T12:00:00Z"
   }
 ]
