@@ -1,5 +1,611 @@
 [
   {
+    "keyword": "AI",
+    "title": "shypmate 0.1.0.post3",
+    "translated_title": "shypmate 0.1.0.post3",
+    "publishedAt": "2026-04-09T02:01:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: An agent-friendly image CDN built on Cloudflare Workers",
+    "translated_title": "Show HN：基于 Cloudflare Workers 构建的代理友好型图像 CDN",
+    "publishedAt": "2026-04-09T02:01:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Wes Anderson’s model-maker turns coffee machines into tiny cafés",
+    "translated_title": "韦斯·安德森的模型制作者将咖啡机变成了小咖啡馆",
+    "publishedAt": "2026-04-09T02:01:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ネイティブなマルチモーダル推論モデル「Muse Spark」をMetaが発表、AI事業の「根本的な見直し」の一環",
+    "translated_title": "Meta 宣布原生多模态推理模型“Muse Spark”，作为人工智能业务“基本审查”的一部分",
+    "publishedAt": "2026-04-09T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【無料オンライン】入力作業ゼロへ！Slack 連携×Salesforce AI で実現する「経費精算・OCR」完全自動化セミナーを2026/4/23（木）、7/16（木）に開催",
+    "translated_title": "【免费在线】零投入工作！通过Slack集成和Salesforce AI实现的全自动“费用结算/OCR”研讨会将于2026年4月23日（星期四）和2026年7月16日（星期四）举行",
+    "publishedAt": "2026-04-09T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "BOOSTTECH、縦型ショート動画トレンド分析ツール「縦型ショート Analytics」をリリース",
+    "translated_title": "BOOSTTECH发布垂直短视频趋势分析工具“Vertical Short Analytics”",
+    "publishedAt": "2026-04-09T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta Unveils New AI Model Developed by Costly, New Superintelligence Labs",
+    "translated_title": "Meta 推出由昂贵的新超级智能实验室开发的新人工智能模型",
+    "publishedAt": "2026-04-09T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【ファイル管理と業務効率化の実態調査】ファイル管理担当者の約8割が、1日15分以上をファイル検索に費やす実態、「対処しているのに不満」が約3割",
+    "translated_title": "【档案管理与工作效率提升实战调查】约80%的档案管理人员每天查找档案的时间超过15分钟，约30%的人“对流程不满意”。",
+    "publishedAt": "2026-04-09T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta Unveils New AI Model Developed by Costly, New Superintelligence Labs",
+    "translated_title": "Meta 推出由昂贵的新超级智能实验室开发的新人工智能模型",
+    "publishedAt": "2026-04-09T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Doximity, Guidewire Software, Intuit, PagerDuty, and Health Catalyst Shares Plummet, What You Need To Know",
+    "translated_title": "Doximity、Guidewire Software、Intuit、PagerDuty 和 Health Catalyst 股价暴跌，您需要了解什么",
+    "publishedAt": "2026-04-09T01:58:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "simmer-sdk 0.9.22",
+    "translated_title": "simmer-sdk 0.9.22",
+    "publishedAt": "2026-04-09T01:58:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-citation-sdk 1.0.7",
+    "translated_title": "ai-引用-sdk 1.0.7",
+    "publishedAt": "2026-04-09T01:57:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "No resume, no experience: CEO hires a 20-year-old techie and calls it 'best decision' ever. Here's why",
+    "translated_title": "没有简历，没有经验：首席执行官聘请了一位 20 岁的技术人员，并称其为“有史以来最好的决定”。这就是为什么",
+    "publishedAt": "2026-04-09T01:56:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-companion-core added to PyPI",
+    "translated_title": "ai-companion-core 添加到 PyPI",
+    "publishedAt": "2026-04-09T01:56:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-companion-core 0.1.0",
+    "translated_title": "ai-companion-core 0.1.0",
+    "publishedAt": "2026-04-09T01:56:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Public Domain Audiobooks with AI (Azalea Audio)",
+    "translated_title": "Show HN：带有 AI 的公共领域有声读物（Azalea Audio）",
+    "publishedAt": "2026-04-09T01:55:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "awp-agents 1.0.39",
+    "translated_title": "awp-代理 1.0.39",
+    "publishedAt": "2026-04-09T01:52:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "New Paper Urges Therapists to Screen Patients for AI Chatbot Use - Ground News",
+    "translated_title": "新论文敦促治疗师筛查患者是否使用人工智能聊天机器人 - 地面新闻",
+    "publishedAt": "2026-04-09T01:52:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "neurovn 0.1.0",
+    "translated_title": "神经网络 0.1.0",
+    "publishedAt": "2026-04-09T01:51:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "neurovn added to PyPI",
+    "translated_title": "Neurovn 添加到 PyPI",
+    "publishedAt": "2026-04-09T01:51:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Musk sues to oust OpenAI CEO",
+    "translated_title": "马斯克提起诉讼，要求罢免 OpenAI 首席执行官",
+    "publishedAt": "2026-04-09T01:51:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vibe-state-cli 0.3.3",
+    "translated_title": "振动状态-cli 0.3.3",
+    "publishedAt": "2026-04-09T01:49:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentsview 0.19.0",
+    "translated_title": "代理视图 0.19.0",
+    "publishedAt": "2026-04-09T01:48:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "xiaomusic 0.5.1",
+    "translated_title": "小音乐0.5.1",
+    "publishedAt": "2026-04-09T01:44:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Adobe Acrobat gets Student Spaces with AI study tools",
+    "translated_title": "Adobe Acrobat 为学生空间提供人工智能学习工具",
+    "publishedAt": "2026-04-09T01:43:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Security、「Security for AI推進事業部」を新設",
+    "translated_title": "AI Security、「Security for AI推进事业部」を新设",
+    "publishedAt": "2026-04-09T01:40:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ChatGPTだけはもう古い！?AIエージェント導入で丸投げできた業務ランキング",
+    "translated_title": "只有 ChatGPT 已经旧了！?引入AI代理完成的任务排名",
+    "publishedAt": "2026-04-09T01:40:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【成長産業のリーダー層限定／先着500名募集】ベンチャーキャピタル「ON＆BOARD」長野・軽井沢発 スタートアップキャンプ「SWISH! Startup Camp 2026」開催。参加者募集開始！",
+    "translated_title": "[仅限成长型行业的领导者/前500名申请者]风险投资“ON&BOARD”将从长野/轻井泽举办创业营“SWISH！Startup Camp 2026”。招募参与者已经开始！",
+    "publishedAt": "2026-04-09T01:40:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI英語学習アプリ『Epop』、「英語を勉強しても話せない」課題に対応した新機能 “話す内容を日本語でガイド”する「実践会話学習」を提供開始",
+    "translated_title": "AI英语学习应用“Epop”推出“实用会话学习”新功能，解决“学英语但不会说”的问题",
+    "publishedAt": "2026-04-09T01:40:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "China's memory capacity surge led by YMTC and CXMT shifts global supply in AI cycle",
+    "translated_title": "长江存储、长鑫存储引领中国内存产能激增，人工智能周期全球供应格局发生转变",
+    "publishedAt": "2026-04-09T01:40:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wandb-agentstream 0.5.3",
+    "translated_title": "万db-agentstream 0.5.3",
+    "publishedAt": "2026-04-09T01:38:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-doc 0.31.24",
+    "translated_title": "代理文档 0.31.24",
+    "publishedAt": "2026-04-09T01:38:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Emergent in talks to raise $250 million from Creaegis, others at 5x valuation jump to $1.5 billion",
+    "translated_title": "正在洽谈从 Creaegis 筹集 2.5 亿美元的资金，其他公司的估值跃升至 5 倍至 15 亿美元",
+    "publishedAt": "2026-04-09T01:37:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kumoai 2.20.0.dev202604081834",
+    "translated_title": "云爱2.20.0.dev202604081834",
+    "publishedAt": "2026-04-09T01:36:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How Dartmouth College’s VMware migration became an unexpected infrastructure playbook",
+    "translated_title": "达特茅斯学院的 VMware 迁移如何成为意想不到的基础架构手册",
+    "publishedAt": "2026-04-09T01:36:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tributary-ai 0.1.1",
+    "translated_title": "支流-ai 0.1.1",
+    "publishedAt": "2026-04-09T01:33:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CNBC Daily Open: Markets love a ceasefire — but can it last?",
+    "translated_title": "CNBC 每日开盘：市场喜欢停火——但它能持续吗？",
+    "publishedAt": "2026-04-09T01:33:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ironrace 0.3.8",
+    "translated_title": "铁赛0.3.8",
+    "publishedAt": "2026-04-09T01:32:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "WGA Deal: $321 Million for Health Fund, Better Residuals, AI Meetings - Variety",
+    "translated_title": "WGA 交易：3.21 亿美元用于健康基金、更好的残差、人工智能会议 - Variety",
+    "publishedAt": "2026-04-09T01:32:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "arandu 0.11.6",
+    "translated_title": "知识0.11.6",
+    "publishedAt": "2026-04-09T01:32:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IT cos slash US teams; Luggage brands hit turbulence",
+    "translated_title": "IT 人员削减美国团队；箱包品牌遭遇动荡",
+    "publishedAt": "2026-04-09T01:32:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-marketplace-cli 2.2.4",
+    "translated_title": "ai-marketplace-cli 2.2.4",
+    "publishedAt": "2026-04-09T01:31:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Survivor Recap: A Horse Is a Horse",
+    "translated_title": "幸存者回顾：马就是马",
+    "publishedAt": "2026-04-09T01:30:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vijil-console-mcp added to PyPI",
+    "translated_title": "vijil-console-mcp 添加到 PyPI",
+    "publishedAt": "2026-04-09T01:30:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vijil-console 0.1.5",
+    "translated_title": "守夜控制台 0.1.5",
+    "publishedAt": "2026-04-09T01:30:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "躍動する思考|ステファン・ブルッゲマン「Extreme Words (Works on Paper) 」をKOTARO NUKAGA（六本木）で開催",
+    "translated_title": "动态思维| Stefan Bruggemann 在 KOTARO NUKAGA（六本木）举办“Extreme Words（纸上作品）”",
+    "publishedAt": "2026-04-09T01:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "silt-playground 0.3.0",
+    "translated_title": "淤泥游乐场0.3.0",
+    "publishedAt": "2026-04-09T01:28:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "silt-playground added to PyPI",
+    "translated_title": "PyPI 中添加了 silt-playground",
+    "publishedAt": "2026-04-09T01:28:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nteract 2.1.3",
+    "translated_title": "互动2.1.3",
+    "publishedAt": "2026-04-09T01:27:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "xingzierai 0.96",
+    "translated_title": "星子爱0.96",
+    "publishedAt": "2026-04-09T01:27:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "intentkit 0.17.25",
+    "translated_title": "意图套件 0.17.25",
+    "publishedAt": "2026-04-09T01:27:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jimeng-ai-mcp 0.1.1",
+    "translated_title": "季蒙-爱-买彩票 0.1.1",
+    "publishedAt": "2026-04-09T01:25:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "instinct-mcp 0.1.3",
+    "translated_title": "本能-MCP 0.1.3",
+    "publishedAt": "2026-04-09T01:25:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oracle’s new CFO comes from the power industry. That tells you everything.",
+    "translated_title": "甲骨文新任首席财务官来自电力行业。这告诉你一切。",
+    "publishedAt": "2026-04-09T01:20:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tributary-ai 0.1.0",
+    "translated_title": "支流-ai 0.1.0",
+    "publishedAt": "2026-04-09T01:20:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tributary-ai added to PyPI",
+    "translated_title": "PyPI 中添加了 tributary-ai",
+    "publishedAt": "2026-04-09T01:20:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-marketplace-cli 2.2.3",
+    "translated_title": "ai-marketplace-cli 2.2.3",
+    "publishedAt": "2026-04-09T01:20:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-marketplace-sdk 0.5.2",
+    "translated_title": "ai-marketplace-sdk 0.5.2",
+    "publishedAt": "2026-04-09T01:19:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "No, the Viral iPhone Fold Video Isn't Real. How We Know It's Fake",
+    "translated_title": "不，病毒式 iPhone Fold 视频并不真实。我们如何知道它是假的",
+    "publishedAt": "2026-04-09T01:18:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cache-recall 1.0.1",
+    "translated_title": "缓存调用 1.0.1",
+    "publishedAt": "2026-04-09T01:18:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-marketplace-framework 0.4.3",
+    "translated_title": "人工智能市场框架 0.4.3",
+    "publishedAt": "2026-04-09T01:18:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kollab 0.5.4",
+    "translated_title": "协作0.5.4",
+    "publishedAt": "2026-04-09T01:14:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "turnstone 1.3.0a2",
+    "translated_title": "转石1.3.0a2",
+    "publishedAt": "2026-04-09T01:13:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI agent Poke makes setting up automations as easy as sending a text - TechCrunch",
+    "translated_title": "AI 代理 Poke 让设置自动化就像发送文本一样简单 - TechCrunch",
+    "publishedAt": "2026-04-09T01:12:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "YouTube Shorts 'AI Avatars' Easily Adds Your Face, Voice to Videos via Live Selfie",
+    "translated_title": "YouTube Shorts“AI Avatars”可通过实时自拍轻松将您的脸部和声音添加到视频中",
+    "publishedAt": "2026-04-09T01:12:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "turnstone 1.2.1",
+    "translated_title": "转石1.2.1",
+    "publishedAt": "2026-04-09T01:12:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nervx 0.2.5",
+    "translated_title": "神经x 0.2.5",
+    "publishedAt": "2026-04-09T01:11:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Goldman Sachs private credit fund narrowly misses a redemption crisis",
+    "translated_title": "高盛私人信贷基金险些遭遇赎回危机",
+    "publishedAt": "2026-04-09T01:10:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kollab added to PyPI",
+    "translated_title": "kollab 添加到 PyPI",
+    "publishedAt": "2026-04-09T01:10:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kollab 0.5.3",
+    "translated_title": "协作0.5.3",
+    "publishedAt": "2026-04-09T01:10:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jimeng-ai-mcp added to PyPI",
+    "translated_title": "jimeng-ai-mcp 添加到 PyPI",
+    "publishedAt": "2026-04-09T01:07:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jimeng-ai-mcp 0.1.0",
+    "translated_title": "季蒙-爱-买彩票 0.1.0",
+    "publishedAt": "2026-04-09T01:07:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "embodied-ai-architect 0.39.0",
+    "translated_title": "体现人工智能建筑师 0.39.0",
+    "publishedAt": "2026-04-09T01:05:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "HedgeHogs – $25K competition where AI agents trade prediction markets",
+    "translated_title": "HedgeHogs——人工智能代理交易预测市场的 25,000 美元竞赛",
+    "publishedAt": "2026-04-09T01:05:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NEW 'Off The Hook' ONLINE",
+    "translated_title": "新的在线“摆脱困境”",
+    "publishedAt": "2026-04-09T01:04:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aletheia-cyber-core 1.6.1",
+    "translated_title": "aletheia-网络核心 1.6.1",
+    "publishedAt": "2026-04-09T01:02:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Intel–Terafab collaboration highlights potential role for 18A in next-generation AI manufacturing",
+    "translated_title": "英特尔与 Terafab 的合作凸显了 18A 在下一代人工智能制造中的潜在作用",
+    "publishedAt": "2026-04-09T01:00:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【HBLへ完全リブランディング】旧ハリウッドブロウリフトが初回3,900円～に！自己処理をしていてもOK、ふんわりナチュラルな自眉を活かす美眉術へ進化",
+    "translated_title": "【品牌全面更名为HBL】老好莱坞提眉术首次售价3,900日元起！自己动手就可以了，它已经发展成为一种利用你自然、蓬松的眉毛的美丽眉毛技术。",
+    "publishedAt": "2026-04-09T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Whisper × Claude APIで面接官AIを構築。音声からエンジニア特化5軸採点を実現する技術フローを公開",
+    "translated_title": "使用 Whisper × Claude API 构建面试官 AI。发布技术流程，实现工程师专属语音五轴评分",
+    "publishedAt": "2026-04-09T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "椿本チエイン、産業用機械製品情報サイトを WOVN.io で6言語対応",
+    "translated_title": "Tsubakimoto Chain现在在WOVN.io上支持6种语言的工业机械产品信息网站",
+    "publishedAt": "2026-04-09T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "JOYCLE、石狩市での生ごみ資源化実証に成功。極寒環境下でも「JOYCLE BOX」の安定稼働を証明",
+    "translated_title": "JOYCLE 在石狩市成功演示了餐厨垃圾的回收利用。证明“JOYCLE BOX”即使在极冷环境下也能稳定运行",
+    "publishedAt": "2026-04-09T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "New Peer-Reviewed Research Demonstrates Effectiveness of Paradigm Health Study Conduct Products",
+    "translated_title": "新的同行评审研究证明了 Paradigm Health 研究行为产品的有效性",
+    "publishedAt": "2026-04-09T00:59:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "A few words on ancient shipwrecks: the Artemision wreck",
+    "translated_title": "关于古代沉船的几句话：Artemision 沉船",
+    "publishedAt": "2026-04-09T00:58:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Geopolitics and AI is redrawing the global chip packaging landscape",
+    "translated_title": "地缘政治和人工智能正在重塑全球芯片封装格局",
+    "publishedAt": "2026-04-09T00:57:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nvidia demo highlights China's role in humanoid robot hardware",
+    "translated_title": "英伟达演示凸显中国在人形机器人硬件领域的作用",
+    "publishedAt": "2026-04-09T00:56:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "French President's visit reportedly links Mistral AI with Samsung for AI memory supply talks",
+    "translated_title": "据报道，法国总统访问 Mistral AI 与三星就 AI 内存供应进行谈判",
+    "publishedAt": "2026-04-09T00:55:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI chip demand tightens ABF substrate supply, three-year upcycle in sight",
+    "translated_title": "AI芯片需求拉紧ABF基板供应，三年升级周期在望",
+    "publishedAt": "2026-04-09T00:54:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Taiwan advances quantum computing with AI collab as key strategy",
+    "translated_title": "台湾以人工智能合作为关键战略推进量子计算",
+    "publishedAt": "2026-04-09T00:54:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Silicon Motion warns AI-driven NAND shortages will deepen in 2027, reshaping memory market",
+    "translated_title": "慧荣警告人工智能驱动的 NAND 短缺将在 2027 年加剧，重塑内存市场",
+    "publishedAt": "2026-04-09T00:54:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: BakaBags, a tsundere AI that roasts yours Solana wallets",
+    "translated_title": "Show HN：BakaBags，一个傲慢的人工智能，可以烤你的 Solana 钱包",
+    "publishedAt": "2026-04-09T00:53:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nervx 0.2.4",
+    "translated_title": "神经x 0.2.4",
+    "publishedAt": "2026-04-09T00:50:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Linux 7.0 Adds Support For New Keys On Upcoming Laptops For Expanded AI Agent Interactions",
+    "translated_title": "Linux 7.0 在即将推出的笔记本电脑上增加了对新按键的支持，以扩展 AI 代理交互",
+    "publishedAt": "2026-04-09T00:50:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ironrace 0.3.1",
+    "translated_title": "钢铁竞赛0.3.1",
+    "publishedAt": "2026-04-09T00:49:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Steven Soderbergh Wants to Use 'A Lot of AI' for Wagner Moura Movie",
+    "translated_title": "史蒂文·索德伯格希望在瓦格纳·莫拉电影中使用“大量人工智能”",
+    "publishedAt": "2026-04-09T00:49:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clawed 4.8.2026.9",
+    "translated_title": "爪子 4.8.2026.9",
+    "publishedAt": "2026-04-09T00:47:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "letta-evals 0.13.0",
+    "translated_title": "莱塔评估 0.13.0",
+    "publishedAt": "2026-04-09T00:43:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
+    "translated_title": "上诉法院驳回了 Anthropic 与特朗普政府的最新一轮人工智能之战",
+    "publishedAt": "2026-04-09T00:41:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-marketplace-cli 2.2.2",
+    "translated_title": "ai-marketplace-cli 2.2.2",
+    "publishedAt": "2026-04-09T00:41:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AIを活用したSNS運用研修を開始。投稿作成・画像生成・分析改善をAIで3倍速に",
+    "translated_title": "开始使用AI的SNS操作培训。AI 使后期创建、图像生成和分析改进速度提高了三倍",
+    "publishedAt": "2026-04-09T00:40:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SLV が DoubleZero に正式対応 - AI エージェントとの対話だけで Solana バリデータの DoubleZero 導入・運用・移行を完結、煩雑なクライアント二重管理から解放",
+    "translated_title": "SLV 正式支持 DoubleZero - 只需与 AI 代理交互即可完成 Solana 验证器 DoubleZero 的安装、运行和迁移，让您从复杂的双客户端管理中解脱出来",
+    "publishedAt": "2026-04-09T00:40:39Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "Deepin: (中文) 应用更新| 三款开源设计软件升级，没有Adobe也能做设计",
+    "translated_title": "Deepin: (中文) 应用更新| 三款开源设计软件升级，没有Adobe也能做设计",
+    "publishedAt": "2026-04-08T03:18:57Z"
+  },
+  {
     "keyword": "能源",
     "title": "技術と経済発展",
     "translated_title": "技术与经济发展",
