@@ -1,5 +1,599 @@
 [
   {
+    "keyword": "AI",
+    "title": "Anthropic CPO exits Figma board amid competitive product plans",
+    "translated_title": "Anthropic CPO 在竞争产品计划中退出 Figma 董事会",
+    "publishedAt": "2026-04-17T01:54:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI launches GPT-Rosalind, a specialized LLM for biology research",
+    "translated_title": "OpenAI 推出 GPT-Rosalind，专门从事生物学研究的法学硕士",
+    "publishedAt": "2026-04-17T01:53:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Between populist commentary and AI slop, we are once again dying of nostalgia",
+    "translated_title": "在民粹主义评论和人工智能废话之间，我们再次因怀旧而死去",
+    "publishedAt": "2026-04-17T01:53:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic releases Claude Opus 4.7, resolves Polymarket contract YES",
+    "translated_title": "Anthropic 发布 Claude Opus 4.7，解决 Polymarket 合同 是",
+    "publishedAt": "2026-04-17T01:51:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "repo2kg 0.5.2",
+    "translated_title": "回购2公斤0.5.2",
+    "publishedAt": "2026-04-17T01:50:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-security-harness 4.2.0",
+    "translated_title": "代理安全线束 4.2.0",
+    "publishedAt": "2026-04-17T01:50:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hyperloop 0.19.1",
+    "translated_title": "超级高铁0.19.1",
+    "publishedAt": "2026-04-17T01:50:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘The Pitt’ Showrunner Unpacks Finale Post-Credit Scene and Al-Hashimi’s Big Reveal, Teases More Night Shift",
+    "translated_title": "《皮特》的制作人揭开了结局片尾彩蛋场景和阿尔哈希米的大揭露，挑逗更多夜班",
+    "publishedAt": "2026-04-17T01:50:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘The Pitt’ Star Sepideh Moafi Breaks Down Al-Hashimi’s Health Crisis and Robby’s Outburst",
+    "translated_title": "《皮特报》主演塞皮德·莫阿菲剖析了哈希米的健康危机和罗比的爆发",
+    "publishedAt": "2026-04-17T01:50:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pocket-coding 0.5.0",
+    "translated_title": "口袋编码 0.5.0",
+    "publishedAt": "2026-04-17T01:49:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fathom-rules 0.3.1",
+    "translated_title": "探索规则 0.3.1",
+    "publishedAt": "2026-04-17T01:49:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kairos-ai 0.4.6",
+    "translated_title": "天气人工智能 0.4.6",
+    "publishedAt": "2026-04-17T01:48:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "openocto 0.1.1",
+    "translated_title": "opencto 0.1.1",
+    "publishedAt": "2026-04-17T01:47:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "'I need a place I can call home': Bengaluru woman, 31, earning Rs 2.6 lakhs per month, wonders if she can afford Rs 2.3 crore home",
+    "translated_title": "“我需要一个可以称之为家的地方”：31 岁的班加罗尔女性每月收入 26 万卢比，她想知道自己是否能负担得起价值 23 千万卢比的房子",
+    "publishedAt": "2026-04-17T01:47:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "regard-cli 0.15.0rc11",
+    "translated_title": "关注-cli 0.15.0rc11",
+    "publishedAt": "2026-04-17T01:45:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hyperloop 0.19.0",
+    "translated_title": "超级高铁0.19.0",
+    "publishedAt": "2026-04-17T01:45:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why AI + Digital Leadership Keynote Speakers Are in High Demand",
+    "translated_title": "为什么人工智能+数字领导力主题演讲者的需求量很大",
+    "publishedAt": "2026-04-17T01:42:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI secures $20B Cerebras chip deal, gains equity stake",
+    "translated_title": "OpenAI 获得 200 亿美元 Cerebras 芯片交易并获得股权",
+    "publishedAt": "2026-04-17T01:42:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Kandyse McClure talks about starring in ‘Virgin River’ on Netflix",
+    "translated_title": "坎迪斯·麦克卢尔 (Kandyse McClure) 谈论在 Netflix 上主演《维尔京河》",
+    "publishedAt": "2026-04-17T01:42:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How to improve AI efficiency beyond cost optimisation",
+    "translated_title": "如何在成本优化之外提高人工智能效率",
+    "publishedAt": "2026-04-17T01:42:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "15万円からの特定原付ENNE ZERO！先行販売前最後の試乗会のお知らせ！ご希望の方はお電話もしくはメールでご連絡ください。ミカスチャンネルで動画アップされてます！",
+    "translated_title": "指定轻便摩托车ENNE ZERO 15万日元起！预售前最后一次试驾活动通知！如果您有兴趣，请通过电话或电子邮件与我们联系。视频已上传至Mikasu频道！",
+    "publishedAt": "2026-04-17T01:41:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "repo2kg 0.5.1",
+    "translated_title": "回购2公斤0.5.1",
+    "publishedAt": "2026-04-17T01:40:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【Nishika株式会社】富山県立高岡高校の生徒がNishikaオフィスを訪問--AIの可能性と多様なキャリアを学ぶ企業交流を実施",
+    "translated_title": "【西化株式会社】富山县立高冈高中学生参观西化事务所——企业交流，了解人工智能和多元化职业的可能性",
+    "publishedAt": "2026-04-17T01:40:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "『【再放送】AI普及で変わる、BtoBリード獲得戦略』というテーマのウェビナーを開催",
+    "translated_title": "举办主题为“[转播]BtoB 领先收购策略随着人工智能的传播而改变”的网络研讨会",
+    "publishedAt": "2026-04-17T01:40:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump’s religion is ‘Israelism’ – Tucker Carlson (VIDEO)",
+    "translated_title": "特朗普的宗教是“以色列主义”——塔克·卡尔森（视频）",
+    "publishedAt": "2026-04-17T01:38:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI boom tests regulators; Qcomm growth hits brakes",
+    "translated_title": "AI热潮考验监管者；高通增长放缓",
+    "publishedAt": "2026-04-17T01:37:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cachly-agents added to PyPI",
+    "translated_title": "cachly-agents 添加到 PyPI",
+    "publishedAt": "2026-04-17T01:37:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "US to deploy Anthropic’s Mythos AI in federal agencies, sparking cybersecurity debate",
+    "translated_title": "美国将在联邦机构部署 Anthropic 的 Mythos AI，引发网络安全争论",
+    "publishedAt": "2026-04-17T01:35:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+    "translated_title": "财政部长和顶级银行家对 Mythos AI 模型表示严重担忧",
+    "publishedAt": "2026-04-17T01:34:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-research-os 1.0.1",
+    "translated_title": "人工智能研究操作系统 1.0.1",
+    "publishedAt": "2026-04-17T01:32:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports",
+    "translated_title": "据 The Information 报道，OpenAI 将斥资超过 200 亿美元购买 Cerebras 芯片并获得股份",
+    "publishedAt": "2026-04-17T01:31:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aither-adk 0.16.0",
+    "translated_title": "艾瑟-adk 0.16.0",
+    "publishedAt": "2026-04-17T01:31:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Mode in Chrome adds split-screen view to enhance the web search experience",
+    "translated_title": "Chrome 中的 AI 模式添加分屏视图以增强网络搜索体验",
+    "publishedAt": "2026-04-17T01:31:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nous-lang 4.4.2",
+    "translated_title": "美国语言 4.4.2",
+    "publishedAt": "2026-04-17T01:30:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Scientists Captured Light in a Trap 2,000 Times Thinner Than a Human Hair",
+    "translated_title": "科学家在比人类头发细 2000 倍的陷阱中捕捉到光",
+    "publishedAt": "2026-04-17T01:30:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI-powered website builders have come a long way - here's your best option in 2026",
+    "translated_title": "AI 驱动的网站建设者已经取得了长足的进步 - 这是您 2026 年的最佳选择",
+    "publishedAt": "2026-04-17T01:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why ‘Unsatisfied Booking Rate’ Might Be Travel’s Most Overlooked Metric",
+    "translated_title": "为什么“不满意的预订率”可能是旅行中最被忽视的指标",
+    "publishedAt": "2026-04-17T01:25:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-research-os added to PyPI",
+    "translated_title": "ai-research-os 添加到 PyPI",
+    "publishedAt": "2026-04-17T01:23:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisent 0.10.48",
+    "translated_title": "野牛 0.10.48",
+    "publishedAt": "2026-04-17T01:23:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "timecho-ai added to PyPI",
+    "translated_title": "timecho-ai 添加到 PyPI",
+    "publishedAt": "2026-04-17T01:20:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Lawmakers gathered quietly to talk about AI. Angst and fears of 'destruction' followed",
+    "translated_title": "立法者们安静地聚集在一起讨论人工智能。对“毁灭”的焦虑和恐惧随之而来",
+    "publishedAt": "2026-04-17T01:20:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CNBC Daily Open: A fragile peace, but a firm market rally",
+    "translated_title": "CNBC 每日开盘：脆弱的和平，但市场强劲反弹",
+    "publishedAt": "2026-04-17T01:18:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "controlbridge-ai 0.2.1",
+    "translated_title": "controlbridge-ai 0.2.1",
+    "publishedAt": "2026-04-17T01:17:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "brainctl 2.0.2",
+    "translated_title": "大脑控制2.0.2",
+    "publishedAt": "2026-04-17T01:17:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sage-ai-cli 1.13.30",
+    "translated_title": "sage-ai-cli 1.13.30",
+    "publishedAt": "2026-04-17T01:15:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vijil-console-mcp 0.1.6",
+    "translated_title": "守夜控制台-MCP 0.1.6",
+    "publishedAt": "2026-04-17T01:15:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vijil-console 0.1.6",
+    "translated_title": "守夜控制台 0.1.6",
+    "publishedAt": "2026-04-17T01:15:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "New graph-first working paper: Compact Gauge Defects + Local Causal Shells",
+    "translated_title": "新的图优先工作论文：紧凑量规缺陷 + 局部因果壳",
+    "publishedAt": "2026-04-17T01:09:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vmlx 1.3.59",
+    "translated_title": "vmlx 1.3.59",
+    "publishedAt": "2026-04-17T01:08:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tucker Carlson Torches Trump For Trying To Explain His Way Out Of Jesus AI image",
+    "translated_title": "塔克·卡尔森火炬特朗普试图解释他摆脱耶稣人工智能图像的方法",
+    "publishedAt": "2026-04-17T01:07:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pay-skill 0.2.4",
+    "translated_title": "支付技能0.2.4",
+    "publishedAt": "2026-04-17T01:07:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sessionfs 0.9.9.4",
+    "translated_title": "会话文件系统 0.9.9.4",
+    "publishedAt": "2026-04-17T01:06:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Renown, RWJBarnabas and Franciscan IT Leaders Detail the Data Foundation AI Demands",
+    "translated_title": "Renown、RWJBarnabas 和 Franciscan IT 领导者详细介绍了数据基础 AI 需求",
+    "publishedAt": "2026-04-17T01:05:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Explain My Bill AI – Upload bills to find errors and get scripts to claim refunds",
+    "translated_title": "解释我的账单 AI – 上传账单以查找错误并获取脚本以要求退款",
+    "publishedAt": "2026-04-17T01:05:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI-generated artists break through in country music",
+    "translated_title": "人工智能生成的艺术家在乡村音乐领域取得突破",
+    "publishedAt": "2026-04-17T01:03:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "g-gremlin 0.1.25",
+    "translated_title": "g-gremlin 0.1.25",
+    "publishedAt": "2026-04-17T01:02:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Sony to get up to $380 million image sensor factory Japan subsidy",
+    "translated_title": "索尼将获得高达3.8亿美元的日本图像传感器工厂补贴",
+    "publishedAt": "2026-04-17T01:02:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SMCI Stockholders Have Rights – If You Lost Money Investing in Super Micro Computer, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
+    "translated_title": "SMCI 股东享有权利 – 如果您在投资 Super Micro Computer, Inc. 时亏损，请联系 Robbins LLP，了解有关挽回损失的信息",
+    "publishedAt": "2026-04-17T01:01:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "These companies are actually upskilling their workers for AI - here's how they do it",
+    "translated_title": "这些公司实际上正在提高员工的人工智能技能——他们是这样做的",
+    "publishedAt": "2026-04-17T01:00:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘Robby Has Never Been Your Daddy’",
+    "translated_title": "“罗比从来都不是你的爸爸”",
+    "publishedAt": "2026-04-17T01:00:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "A loan you never took; How PAN fraud is wrecking credit scores in India and what you should do to protect yourself",
+    "translated_title": "您从未借过的贷款；PAN 欺诈如何破坏印度的信用评分以及您应该采取哪些措施来保护自己",
+    "publishedAt": "2026-04-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Agentic Advertising Needs Interoperability, Standardisation and Adoption to Thrive",
+    "translated_title": "代理广告需要互操作性、标准化和采用才能蓬勃发展",
+    "publishedAt": "2026-04-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DXHR、生成AIのリスクと法規制を完全網羅した企業向け「GenAIセキュリティ実践講座」を提供開始",
+    "translated_title": "DXHR为企业推出“GenAI安全实战课程”，全面涵盖生成AI的风险与法规",
+    "publishedAt": "2026-04-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Glean、次世代AIアシスタント「Glean Assistant」を発表―すべての従業員を“気づき”から“実行”へ導く、エージェント型AIコワーカーが登場―",
+    "translated_title": "Glean宣布新一代AI助手“Glean Assistant” - 引入代理型AI同事，引导所有员工从“意识”到“行动” -",
+    "publishedAt": "2026-04-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI legacy modernisation",
+    "translated_title": "人工智能遗产现代化",
+    "publishedAt": "2026-04-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Pitt season 3 shock cast changes are unlikely to hit this fan favorite character — as star confirms they want to 'keep rolling until the wheels fall off'",
+    "translated_title": "皮特第三季令人震惊的演员阵容变化不太可能影响这个粉丝最喜欢的角色——因为明星确认他们希望“继续前进，直到轮子掉下来”",
+    "publishedAt": "2026-04-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "rynko 1.4.0",
+    "translated_title": "市场1.4.0",
+    "publishedAt": "2026-04-17T00:58:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memkraft 0.8.3",
+    "translated_title": "内存卡夫0.8.3",
+    "publishedAt": "2026-04-17T00:58:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CFTC Chairman Says AI Helps Agency Run More Like a Business",
+    "translated_title": "CFTC 主席表示人工智能帮助机构更像企业运营",
+    "publishedAt": "2026-04-17T00:57:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sovyx 0.15.4",
+    "translated_title": "苏联0.15.4",
+    "publishedAt": "2026-04-17T00:56:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "I watched the manosphere documentary; here is how design is making things worse.",
+    "translated_title": "我看了马诺斯层纪录片；这就是设计如何让事情变得更糟的。",
+    "publishedAt": "2026-04-17T00:56:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Autopilot, agentic AI, and the dangers of imperfect metaphors",
+    "translated_title": "自动驾驶仪、代理人工智能和不完美隐喻的危险",
+    "publishedAt": "2026-04-17T00:55:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Study finds popular AI chatbots often give problematic health advice",
+    "translated_title": "研究发现流行的人工智能聊天机器人经常给出有问题的健康建议",
+    "publishedAt": "2026-04-17T00:55:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "undisk-mcp 0.40.0",
+    "translated_title": "取消磁盘 mcp 0.40.0",
+    "publishedAt": "2026-04-17T00:55:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oh, but there’s one more thing",
+    "translated_title": "哦，不过还有一件事",
+    "publishedAt": "2026-04-17T00:55:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pretensor added to PyPI",
+    "translated_title": "预张量添加到 PyPI",
+    "publishedAt": "2026-04-17T00:53:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Resolve AI raises $40M at $1.5B valuation to optimize production environments",
+    "translated_title": "Resolve AI 以 1.5B 估值筹集 4000 万美元，用于优化生产环境",
+    "publishedAt": "2026-04-17T00:53:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "anywhere-agents 0.1.2",
+    "translated_title": "任何地方代理 0.1.2",
+    "publishedAt": "2026-04-17T00:52:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Sandra Bullock Hasn’t Seen Those AI Trailers for ‘Practical Magic 2,’ but Says It’s Time to ‘Lean Into’ New Tech",
+    "translated_title": "桑德拉·布洛克 (Sandra Bullock) 尚未看过《实用魔法 2》的人工智能预告片，但表示是时候“尝试”新技术了",
+    "publishedAt": "2026-04-17T00:50:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Robocat Casino Launches Canadian Bonuses - Aims for Best Online Casino CA",
+    "translated_title": "Robocat Casino 推出加拿大奖金 - 瞄准加拿大最佳在线赌场",
+    "publishedAt": "2026-04-17T00:50:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nous-lang 4.4.1",
+    "translated_title": "美国语言 4.4.1",
+    "publishedAt": "2026-04-17T00:48:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "repo2kg added to PyPI",
+    "translated_title": "repo2kg 添加到 PyPI",
+    "publishedAt": "2026-04-17T00:47:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic's new AI model exposes fresh risks, flaws for cybersecurity, IT services",
+    "translated_title": "Anthropic 的新 AI 模型暴露了网络安全和 IT 服务的新风险和缺陷",
+    "publishedAt": "2026-04-17T00:46:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Franklin Graham defends Trump in letter shared on Truth Social after AI ‘Jesus’ image backlash",
+    "translated_title": "在人工智能“耶稣”形象遭到强烈反对后，富兰克林·格雷厄姆在《Truth Social》上分享的信中为特朗普辩护",
+    "publishedAt": "2026-04-17T00:44:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Netflix is about to change its app and offer a brand-new type of content",
+    "translated_title": "Netflix 即将改变其应用程序并提供全新类型的内容",
+    "publishedAt": "2026-04-17T00:41:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "undisk-mcp 0.39.2",
+    "translated_title": "取消磁盘-MCP 0.39.2",
+    "publishedAt": "2026-04-17T00:40:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentwire-dev 1.23.0",
+    "translated_title": "代理线开发 1.23.0",
+    "publishedAt": "2026-04-17T00:40:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pyaiges 0.2.0",
+    "translated_title": "皮格斯0.2.0",
+    "publishedAt": "2026-04-17T00:37:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pyaiges added to PyPI",
+    "translated_title": "pyaiges 添加到 PyPI",
+    "publishedAt": "2026-04-17T00:37:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memkraft 0.8.2",
+    "translated_title": "内存卡夫0.8.2",
+    "publishedAt": "2026-04-17T00:36:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How Zscaler and OpenAI turn zero-trust security into an AI accelerator",
+    "translated_title": "Zscaler 和 OpenAI 如何将零信任安全转变为人工智能加速器",
+    "publishedAt": "2026-04-17T00:32:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vibe2prod 1.5.3",
+    "translated_title": "vib2prod 1.5.3",
+    "publishedAt": "2026-04-17T00:31:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Gemini can now create personalized images based on your Google Photos library",
+    "translated_title": "Gemini 现在可以根据您的 Google 照片库创建个性化图像",
+    "publishedAt": "2026-04-17T00:31:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "India is one of our fastest-growing markets in Asia, says CTO of analytics platform Clickhouse",
+    "translated_title": "分析平台 Clickhouse 首席技术官表示，印度是我们在亚洲增长最快的市场之一",
+    "publishedAt": "2026-04-17T00:30:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "This Cybertruck-Inspired Electric Trike Solves Urban Delivery Problems Tesla Never Bothered With",
+    "translated_title": "这款受赛博卡车启发的电动三轮车解决了特斯拉从未烦恼过的城市交付问题",
+    "publishedAt": "2026-04-17T00:30:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-slim 1.84.0",
+    "translated_title": "pydantic-ai-slim 1.84.0",
+    "publishedAt": "2026-04-17T00:30:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-examples 1.84.0",
+    "translated_title": "pydantic-ai-示例 1.84.0",
+    "publishedAt": "2026-04-17T00:30:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "gopherhole 0.5.0",
+    "translated_title": "地鼠洞 0.5.0",
+    "publishedAt": "2026-04-17T00:30:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Singapore's March non-oil exports rise 15.3% on strong AI-driven electronics demand",
+    "translated_title": "人工智能驱动的电子产品需求强劲，新加坡 3 月份非石油出口增长 15.3%",
+    "publishedAt": "2026-04-17T00:30:00Z"
+  },
+  {
     "keyword": "能源",
     "title": "Deepin: (中文) 应用更新| 三款开源设计软件升级，没有Adobe也能做设计",
     "translated_title": "Deepin: (中文) 应用更新| 三款开源设计软件升级，没有Adobe也能做设计",
