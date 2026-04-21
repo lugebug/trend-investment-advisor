@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "Self-improving AI model has people talking – for good reason",
+    "translated_title": "自我改进的人工智能模型引起人们的关注——这是有充分理由的",
+    "publishedAt": "2026-04-20T02:03:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Legora calls on Jude Law to make legal AI look good",
+    "translated_title": "Legora 呼吁裘德·洛 (Jude Law) 让合法的人工智能看起来更美好",
+    "publishedAt": "2026-04-20T02:02:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Lyrid Meteor Shower Is About to Peak, With Better Views Than Usual",
+    "translated_title": "天琴座流星雨即将达到顶峰，视野比平常更好",
+    "publishedAt": "2026-04-20T02:02:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "coarse-ink 1.4.0",
+    "translated_title": "粗墨1.4.0",
+    "publishedAt": "2026-04-20T02:02:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "xingzierai 0.100.4",
+    "translated_title": "星子艾莱0.100.4",
+    "publishedAt": "2026-04-20T02:02:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "deepagents-cli 0.0.40",
+    "translated_title": "Deepagents-cli 0.0.40",
+    "publishedAt": "2026-04-20T02:00:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Art&Graft Evolves Gemini Visual Identity into a Living System",
+    "translated_title": "Art&Graft 将 Gemini 视觉形象演变成一个生命系统",
+    "publishedAt": "2026-04-20T01:58:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "traitprint 0.1.0",
+    "translated_title": "特征打印 0.1.0",
+    "publishedAt": "2026-04-20T01:58:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "traitprint added to PyPI",
+    "translated_title": "添加到 PyPI 的特征打印",
+    "publishedAt": "2026-04-20T01:58:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nx-ai added to PyPI",
+    "translated_title": "nx-ai 添加到 PyPI",
+    "publishedAt": "2026-04-20T01:57:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nx-ai 0.1.0",
+    "translated_title": "NX-AI 0.1.0",
+    "publishedAt": "2026-04-20T01:57:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "madb-mcp-server 0.2.1",
+    "translated_title": "madb-mcp-服务器 0.2.1",
+    "publishedAt": "2026-04-20T01:57:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "stashai 0.1.11",
+    "translated_title": "斯塔沙伊 0.1.11",
+    "publishedAt": "2026-04-20T01:56:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aceteam-aep 0.9.0",
+    "translated_title": "aceteam-aep 0.9.0",
+    "publishedAt": "2026-04-20T01:55:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vera-ai 0.12.12",
+    "translated_title": "维拉人工智能 0.12.12",
+    "publishedAt": "2026-04-20T01:54:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vibelign 2.0.18",
+    "translated_title": "维比林 2.0.18",
+    "publishedAt": "2026-04-20T01:50:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "undisk-mcp 0.51.3",
+    "translated_title": "取消磁盘-MCP 0.51.3",
+    "publishedAt": "2026-04-20T01:48:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Neanderthal Infants Grew Strangely Fast",
+    "translated_title": "尼安德特人的婴儿长得异常快",
+    "publishedAt": "2026-04-20T01:48:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "stashai 0.1.10",
+    "translated_title": "斯塔沙伊 0.1.10",
+    "publishedAt": "2026-04-20T01:47:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Hack at Vercel sends crypto developers scrambling to lock down API keys",
+    "translated_title": "Vercel 遭黑客攻击导致加密货币开发人员争先恐后地锁定 API 密钥",
+    "publishedAt": "2026-04-20T01:47:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "soma-ai 2026.5.4",
+    "translated_title": "索玛爱 2026.5.4",
+    "publishedAt": "2026-04-20T01:46:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "amplitude-ai 1.4.2",
+    "translated_title": "振幅 1.4.2",
+    "publishedAt": "2026-04-20T01:46:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "npcsh 1.2.5",
+    "translated_title": "NPCSH 1.2.5",
+    "publishedAt": "2026-04-20T01:40:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AIインサイドセールス「immedio」が日本最大級の展示会『マーケティングWeek春 2026』に出展！",
+    "translated_title": "AI内销“immedio”将亮相日本最大展会“Marketing Week Spring 2026”！",
+    "publishedAt": "2026-04-20T01:40:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "リバネスナレッジ取締役副社長 平塚武が世界最大級のSalesforce開発者会議「TDX 2026」に登壇 ― Tableau AnalyticsとData 360の統合アーキテクチャを発信",
+    "translated_title": "Leave a Nest Knowledge 执行副总裁 Takeshi Hiratsuka 在全球最大的 Salesforce 开发者大会之一 TDX 2026 上发表演讲 - 传播 Tableau Analytics 和 Data 360 的集成架构",
+    "publishedAt": "2026-04-20T01:40:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "controlbridge-ai 0.4.1",
+    "translated_title": "controlbridge-ai 0.4.1",
+    "publishedAt": "2026-04-20T01:39:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kumoai 2.21.0.dev202604191834",
+    "translated_title": "云爱2.21.0。v202604191834",
+    "publishedAt": "2026-04-20T01:37:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Razorpay eyes IPO; Sarvam’s $1.5 billion leap",
+    "translated_title": "Razorpay 计划首次公开募股；Sarvam 的 15 亿美元飞跃",
+    "publishedAt": "2026-04-20T01:36:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "awp-agents 1.0.55",
+    "translated_title": "awp-代理 1.0.55",
+    "publishedAt": "2026-04-20T01:36:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pinescript-mcp 0.7.1",
+    "translated_title": "pinescript-mcp 0.7.1",
+    "publishedAt": "2026-04-20T01:36:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lfx-nightly 0.5.0.dev5",
+    "translated_title": "lfx-每夜 0.5.0.dev5",
+    "publishedAt": "2026-04-20T01:35:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "antaris-agent 3.0.53",
+    "translated_title": "Antaris 代理 3.0.53",
+    "publishedAt": "2026-04-20T01:34:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "respan-ai 4.1.0",
+    "translated_title": "重生4.1.0",
+    "publishedAt": "2026-04-20T01:34:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dasein-ai 0.4.5",
+    "translated_title": "此在-ai 0.4.5",
+    "publishedAt": "2026-04-20T01:33:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Choosing Between Claude.ai, Cowork, and Code (Tested on Actual Sales Tasks)",
+    "translated_title": "Claude.ai、Cowork 和 Code 之间的选择（在实际销售任务中测试）",
+    "publishedAt": "2026-04-20T01:30:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "30 Years Later, It's Clear That Dragon Ball's Most Controversial Anime Needs To Be The Franchise's Future",
+    "translated_title": "30 年后，很明显，《龙珠》最具争议的动画必须成为该系列的未来",
+    "publishedAt": "2026-04-20T01:30:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【新サービス】名刺撮影するだけでAIが会社情報を自動解析。パーソナライズお礼メールを3秒で生成する営業フォローAI「OREI（オレイ）」正式リリース",
+    "translated_title": "【新服务】只需拍一张名片照片，AI就能自动分析公司信息。3秒生成个性化感谢邮件的销售跟进AI“OREI”正式发布",
+    "publishedAt": "2026-04-20T01:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "antidrift 0.20.47",
+    "translated_title": "防漂移0.20.47",
+    "publishedAt": "2026-04-20T01:29:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "antidrift 0.20.46",
+    "translated_title": "防漂移0.20.46",
+    "publishedAt": "2026-04-20T01:28:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "soma-ai 2026.5.3",
+    "translated_title": "索玛爱 2026.5.3",
+    "publishedAt": "2026-04-20T01:27:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "devlake-mcp 0.4.12",
+    "translated_title": "devlake-mcp 0.4.12",
+    "publishedAt": "2026-04-20T01:26:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "rclip 2.1.7a3",
+    "translated_title": "RSLIP A.1.H",
+    "publishedAt": "2026-04-20T01:23:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Verizon’s Dan Schulman Tells CEOs to Be Open About AI Job Cuts",
+    "translated_title": "Verizon 的丹·舒尔曼 (Dan Schulman) 要求首席执行官对人工智能裁员持开放态度",
+    "publishedAt": "2026-04-20T01:21:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Build Healthcare Platform Like Orange Health",
+    "translated_title": "打造橙健康这样的医疗健康平台",
+    "publishedAt": "2026-04-20T01:20:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "アパレルEC、4人に1人が「不安で購入を断念」と回答 ― 88%が\"試着\"を理由に店舗へ",
+    "translated_title": "服装电商：四分之一的人表示他们因焦虑而放弃购买 - 88% 的人去商店试穿衣服",
+    "publishedAt": "2026-04-20T01:20:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "gemstack 1.0.0",
+    "translated_title": "宝石堆栈 1.0.0",
+    "publishedAt": "2026-04-20T01:16:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "gemstack added to PyPI",
+    "translated_title": "gemstack 添加到 PyPI",
+    "publishedAt": "2026-04-20T01:16:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "synapt 0.13.0",
+    "translated_title": "突触0.13.0",
+    "publishedAt": "2026-04-20T01:16:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Modular – drop AI features into your app with two function calls",
+    "translated_title": "显示 HN：模块化 – 通过两个函数调用将 AI 功能放入您的应用程序中",
+    "publishedAt": "2026-04-20T01:15:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "antidrift 0.20.45",
+    "translated_title": "防漂移0.20.45",
+    "publishedAt": "2026-04-20T01:15:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DestList – Get a ready-to-book trip plan tailored to your preferences",
+    "translated_title": "DestList – 获取根据您的喜好量身定制的现成预订旅行计划",
+    "publishedAt": "2026-04-20T01:15:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "xingzierai 0.100.3",
+    "translated_title": "星子艾莱0.100.3",
+    "publishedAt": "2026-04-20T01:13:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: I built a local Elixir/Python pipeline to curate 14,000 RAW photos",
+    "translated_title": "Show HN：我构建了一个本地 Elixir/Python 管道来管理 14,000 张 RAW 照片",
+    "publishedAt": "2026-04-20T01:13:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "context-router-cli 3.2.0",
+    "translated_title": "上下文路由器-cli 3.2.0",
+    "publishedAt": "2026-04-20T01:12:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "stashai 0.1.9",
+    "translated_title": "版本0.1.9",
+    "publishedAt": "2026-04-20T01:10:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "augint-shell 0.89.0",
+    "translated_title": "八月壳 0.89.0",
+    "publishedAt": "2026-04-20T01:09:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "BI Teams Aren't Failing at Dashboards — They're Failing at Interpretation",
+    "translated_title": "BI 团队并不是在仪表板方面失败，而是在解释方面失败",
+    "publishedAt": "2026-04-20T01:07:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Comeback S03E05 Preview: Valerie's Got New Showrunner Blues",
+    "translated_title": "回归 S03E05 预览：瓦莱丽有了新的剧集主管布鲁斯",
+    "publishedAt": "2026-04-20T01:07:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Self-healing browser harness via direct CDP",
+    "translated_title": "Show HN：通过直接 CDP 进行自我修复的浏览器工具",
+    "publishedAt": "2026-04-20T01:05:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "icdev 1.2.22",
+    "translated_title": "isdev 1.2.22",
+    "publishedAt": "2026-04-20T01:04:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "meeting-hive 1.0.1",
+    "translated_title": "会议蜂巢 1.0.1",
+    "publishedAt": "2026-04-20T01:01:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI scales technical teams",
+    "translated_title": "人工智能扩展技术团队",
+    "publishedAt": "2026-04-20T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Long-term bonds are cheap now; patient investors may gain big, says Rahul Goswami of Franklin Templeton",
+    "translated_title": "长期债券现在很便​​宜；富兰克林邓普顿的拉胡尔·戈斯瓦米 (Rahul Goswami) 表示，耐心的投资者可能会获益匪浅",
+    "publishedAt": "2026-04-20T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CommerceXホールディングス株式会社、経営体制強化に向け 3名の執行役員就任を発表",
+    "translated_title": "CommerceX Holdings Co., Ltd.宣布任命三名执行官以加强管理架构",
+    "publishedAt": "2026-04-20T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "日本の養殖技術を世界へ ― AI×陸上養殖のストラウト、拠点多角化と海外展開を本格始動",
+    "translated_title": "将日本水产养殖技术推向世界——AI x陆基水产养殖公司Strout开始全面多元化基地及海外扩张",
+    "publishedAt": "2026-04-20T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【4/28開催】\"売れる仕組み\"は再現できるのか？機会損失を防ぎ、CXを売上につなげるオムニチャネル戦略",
+    "translated_title": "[4/28召开]是否可以重建“销售机制”？全渠道策略可防止机会流失并将客户体验与销售联系起来",
+    "publishedAt": "2026-04-20T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "GIFT City vs Dubai vs Singapore: What you need to know while choosing your investment hub",
+    "translated_title": "GIFT 城市、迪拜、新加坡：选择投资中心时您需要了解的信息",
+    "publishedAt": "2026-04-20T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【SIGNATE】MS&ADインターリスク総研と共同で、東証プライム1,615社の「サイバーセキュリティ開示実態調査」を実施",
+    "translated_title": "[签名] 我们与 MS&AD InterRisk Research & Consulting 合作，对 1,615 家 TSE 优质公司进行了“网络安全披露调查”。",
+    "publishedAt": "2026-04-20T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jaxl-python 0.0.38",
+    "translated_title": "jaxl-python 0.0.38",
+    "publishedAt": "2026-04-20T00:57:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "embodik 0.20.0",
+    "translated_title": "嵌入0.20.0",
+    "publishedAt": "2026-04-20T00:57:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Crypto News: Pepeto Presale Demand Update as Bitcoin Price Prediction Targets $250,000",
+    "translated_title": "加密货币新闻：比特币价格预测目标为 25 万美元，Pepeto 预售需求更新",
+    "publishedAt": "2026-04-20T00:57:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentclub 0.1.16",
+    "translated_title": "代理俱乐部 0.1.16",
+    "publishedAt": "2026-04-20T00:51:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-cli-utils 0.4.1",
+    "translated_title": "ai-cli-utils 0.4.1",
+    "publishedAt": "2026-04-20T00:50:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tokencostauto 0.1.606",
+    "translated_title": "代币成本汽车 0.1.606",
+    "publishedAt": "2026-04-20T00:50:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Fitzpatrick holds off Scheffler at Harbour Town. Rahm, Cink also win on busy day in golf",
+    "translated_title": "菲茨帕特里克在海港镇阻挡了舍夫勒。拉姆和辛克也在高尔夫忙碌的一天中获胜",
+    "publishedAt": "2026-04-20T00:49:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hal-spatial-harness 0.1.4867",
+    "translated_title": "hal-空间线束 0.1.4867",
+    "publishedAt": "2026-04-20T00:47:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Buy these exciting ASX ETFs for AI exposure",
+    "translated_title": "购买这些令人兴奋的 ASX ETF 以获得人工智能投资",
+    "publishedAt": "2026-04-20T00:46:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "unslop 0.4.2",
+    "translated_title": "平坦 0.4.2",
+    "publishedAt": "2026-04-20T00:46:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentclub 0.1.15",
+    "translated_title": "代理俱乐部 0.1.15",
+    "publishedAt": "2026-04-20T00:44:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sgit-ai 0.10.17",
+    "translated_title": "sgit-ai 0.10.17",
+    "publishedAt": "2026-04-20T00:42:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ascend-ai-sdk 2.4.0",
+    "translated_title": "升腾-ai-sdk 2.4.0",
+    "publishedAt": "2026-04-20T00:41:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "astrodome-sdk 0.2.0",
+    "translated_title": "astrodome-sdk 0.2.0",
+    "publishedAt": "2026-04-20T00:41:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "astrodome-sdk added to PyPI",
+    "translated_title": "astrodome-sdk 添加到 PyPI",
+    "publishedAt": "2026-04-20T00:41:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ENNE ZERO先行販売無事完売いたしました。本当にありがとうございました。また、ZERO専用前かごのの販売が決定いたしました。",
+    "translated_title": "ENNE ZERO 预售已成功售罄。非常感谢。此外，我们还决定出售ZERO独家前篮。",
+    "publishedAt": "2026-04-20T00:40:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AIサポートシステム「ヘルプドッグ」、顧客の自己解決を促進するFAQトップページの「コンテンツブロック並び替え機能」を提供開始",
+    "translated_title": "AI辅助系统“帮助狗”在常见问题首页推出“内容分块排序功能”，促进客户自助解决",
+    "publishedAt": "2026-04-20T00:40:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "microsoft-agents-a365-tooling-extensions-azureaifoundry 0.3.0.dev4",
+    "translated_title": "微软代理-a365-工具-扩展-azureaifoundry 0.3.0.dev4",
+    "publishedAt": "2026-04-20T00:40:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "microsoft-agents-a365-tooling-extensions-agentframework 0.3.0.dev4",
+    "translated_title": "微软代理-a365-工具-扩展-agentframework 0.3.0.dev4",
+    "publishedAt": "2026-04-20T00:40:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "microsoft-agents-a365-runtime 0.3.0.dev4",
+    "translated_title": "微软代理-a365-运行时 0.3.0.dev4",
+    "publishedAt": "2026-04-20T00:40:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "microsoft-agents-a365-observability-core 0.3.0.dev4",
+    "translated_title": "微软代理-a365-observability-core 0.3.0.dev4",
+    "publishedAt": "2026-04-20T00:39:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "microsoft-agents-a365-notifications 0.3.0.dev4",
+    "translated_title": "微软代理-a365-通知 0.3.0.dev4",
+    "publishedAt": "2026-04-20T00:39:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentgovern 0.1.0b7",
+    "translated_title": "代理管理0.1.0b7",
+    "publishedAt": "2026-04-20T00:36:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "datasight 0.3.1",
+    "translated_title": "数据洞察0.3.1",
+    "publishedAt": "2026-04-20T00:36:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "millrace-ai 0.12.2",
+    "translated_title": "millrace-ai 0.12.2",
+    "publishedAt": "2026-04-20T00:36:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
+    "translated_title": "恐怖谷和反人工智能情绪的高涨",
+    "publishedAt": "2026-04-20T00:34:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "9 Effective UX Design Trends that is Shaping the Future of User Experience",
+    "translated_title": "塑造用户体验未来的 9 个有效的用户体验设计趋势",
+    "publishedAt": "2026-04-20T00:34:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Ads on tap: Why Jaquar still values old-school marketing in the age of AI",
+    "translated_title": "即时广告：为什么 Jaquar 在人工智能时代仍然重视老派营销",
+    "publishedAt": "2026-04-20T00:30:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Voting for real life experiences (enthusiastically!)",
+    "translated_title": "为现实生活经历投票（热情！）",
+    "publishedAt": "2026-04-20T00:30:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "meeting-hive 1.0.0",
+    "translated_title": "会议蜂巢 1.0.0",
+    "publishedAt": "2026-04-20T00:30:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Canva is leaning on India and Brazil to drive up AI adoption",
+    "translated_title": "Canva 依靠印度和巴西来推动人工智能的采用",
+    "publishedAt": "2026-04-20T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Iran conflict and global risks slow GCC expansion in India",
+    "translated_title": "伊朗冲突和全球风险减缓了海湾合作委员会在印度的扩张",
+    "publishedAt": "2026-04-20T00:30:00Z"
+  },
+  {
     "keyword": "能源",
     "title": "Deepin: (中文) 应用更新| 三款开源设计软件升级，没有Adobe也能做设计",
     "translated_title": "Deepin: (中文) 应用更新| 三款开源设计软件升级，没有Adobe也能做设计",
