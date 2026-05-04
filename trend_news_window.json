@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "Batman/Static: Beyond #6 Preview: Lights Out, Aliens In",
+    "translated_title": "蝙蝠侠/静电：超越 #6 预览：熄灯，外星人进来",
+    "publishedAt": "2026-05-03T02:26:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "open-workspace-builder 1.18.2",
+    "translated_title": "开放工作空间生成器 1.18.2",
+    "publishedAt": "2026-05-03T02:24:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentguard-ai-muaz-iqubal-muaz added to PyPI",
+    "translated_title": "Agentguard-ai-muaz-iqubal-muaz 添加到 PyPI",
+    "publishedAt": "2026-05-03T02:23:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentguard-ai-muaz-iqubal-muaz 0.1.2",
+    "translated_title": "Agentguard-ai-muaz-iqubal-muaz 0.1.2",
+    "publishedAt": "2026-05-03T02:23:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Crypto News: Pepeto Presale Advancement Update Whilst Bitcoin Price Prediction Might Reach $100,000 Soon",
+    "translated_title": "加密货币新闻：Pepeto 预售进度更新，比特币价格预测可能很快达到 100,000 美元",
+    "publishedAt": "2026-05-03T02:14:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zero-api-key-web-search 22.1.0",
+    "translated_title": "零 API 密钥网络搜索 22.1.0",
+    "publishedAt": "2026-05-03T02:13:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Alphabet’s Q1 earnings boost investor confidence, Google Cloud revenue up 63%",
+    "translated_title": "Alphabet 第一季度财报提振投资者信心，谷歌云收入增长 63%",
+    "publishedAt": "2026-05-03T02:13:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zhanla 0.1.1",
+    "translated_title": "站啦 0.1.1",
+    "publishedAt": "2026-05-03T02:09:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sovyx 0.28.1",
+    "translated_title": "苏联0.28.1",
+    "publishedAt": "2026-05-03T02:08:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-slop-detector 3.7.1",
+    "translated_title": "ai-倾斜检测器 3.7.1",
+    "publishedAt": "2026-05-03T02:08:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CRM and Marketing Automation: How We Connect HubSpot and Salesforce for Seamless Growth | Vantage Point",
+    "translated_title": "CRM 和营销自动化：我们如何连接 HubSpot 和 Salesforce 以实现无缝增长 |制高点",
+    "publishedAt": "2026-05-03T02:07:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zhanla-sdk-py 0.1.1",
+    "translated_title": "站啦-赛德克-朋友 0.1.1",
+    "publishedAt": "2026-05-03T02:06:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fastaiagent 1.3.0",
+    "translated_title": "快泰代理1.3.0",
+    "publishedAt": "2026-05-03T02:05:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentfoundry 1.5.42",
+    "translated_title": "AgentFoundry 1.5.42",
+    "publishedAt": "2026-05-03T02:01:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llm-context-router added to PyPI",
+    "translated_title": "llm-context-router 添加到 PyPI",
+    "publishedAt": "2026-05-03T02:01:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llm-context-router 0.6.0",
+    "translated_title": "llm-上下文-路由器 0.6.0",
+    "publishedAt": "2026-05-03T02:01:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI spending is the only thing from keeping the US economy from falling off a cliff",
+    "translated_title": "人工智能支出是阻止美国经济跌入悬崖的唯一因素",
+    "publishedAt": "2026-05-03T01:57:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kynetic-agents 0.8.2",
+    "translated_title": "动力剂 0.8.2",
+    "publishedAt": "2026-05-03T01:55:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Pantr AI – Create and refine images on an infinite canvas with Gemini, no subscription",
+    "translated_title": "Pantr AI – 使用 Gemini 在无限画布上创建和优化图像，无需订阅",
+    "publishedAt": "2026-05-03T01:55:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kynetic-agents 0.8.2rc2",
+    "translated_title": "动力学代理 0.8.2rc2",
+    "publishedAt": "2026-05-03T01:54:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oscars organization addresses AI in new rules",
+    "translated_title": "奥斯卡组织在新规则中讨论人工智能问题",
+    "publishedAt": "2026-05-03T01:53:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "airbyte-agent-sdk 0.1.161",
+    "translated_title": "Airbyte-agent-sdk 0.1.161",
+    "publishedAt": "2026-05-03T01:51:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Chinese court rules firms can't lay off workers on AI grounds",
+    "translated_title": "中国法院裁定企业不得以人工智能为由解雇员工",
+    "publishedAt": "2026-05-03T01:50:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clampd 0.16.0",
+    "translated_title": "夹紧0.16.0",
+    "publishedAt": "2026-05-03T01:50:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Musk's AI told me people were coming to kill me. I grabbed a hammer and prepared for war",
+    "translated_title": "马斯克的人工智能告诉我有人要杀我。我拿起锤子准备战争",
+    "publishedAt": "2026-05-03T01:48:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jcode 0.1.8",
+    "translated_title": "jcode 0.1.8",
+    "publishedAt": "2026-05-03T01:48:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "airbyte-agent-sdk 0.1.160",
+    "translated_title": "空气字节代理-sdk 0.1.160",
+    "publishedAt": "2026-05-03T01:45:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Prego is selling a surveillance device that records your family dinner conversations and sends them to the Library of Congress. It sold out immediately.",
+    "translated_title": "Prego 正在销售一种监控设备，可以记录您的家庭晚餐谈话并将其发送到国会图书馆。它立即售空。",
+    "publishedAt": "2026-05-03T01:42:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tinder Is Using AI to Quietly ‘Fix’ Your Photos",
+    "translated_title": "Tinder 正在使用 AI 悄悄“修复”你的照片",
+    "publishedAt": "2026-05-03T01:39:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sage-ai-cli 1.18.13",
+    "translated_title": "sage-ai-cli 1.18.13",
+    "publishedAt": "2026-05-03T01:38:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "capitaine-agent 0.1.0",
+    "translated_title": "队长-特工 0.1.0",
+    "publishedAt": "2026-05-03T01:36:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "capitaine-agent added to PyPI",
+    "translated_title": "Captainine-agent 添加到 PyPI",
+    "publishedAt": "2026-05-03T01:36:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "molecule-ai-workspace-runtime 0.1.83",
+    "translated_title": "分子-ai-工作空间-运行时 0.1.83",
+    "publishedAt": "2026-05-03T01:35:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "airbyte-agent-sdk 0.1.159",
+    "translated_title": "Airbyte-agent-sdk 0.1.159",
+    "publishedAt": "2026-05-03T01:34:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jcode 0.1.7",
+    "translated_title": "jcode 0.1.7",
+    "publishedAt": "2026-05-03T01:34:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "molecule-ai-workspace-runtime 0.1.82",
+    "translated_title": "分子-ai-工作空间-运行时 0.1.82",
+    "publishedAt": "2026-05-03T01:33:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bulwark-agent-security added to PyPI",
+    "translated_title": "PyPI 中添加了 bulwark-agent-security",
+    "publishedAt": "2026-05-03T01:33:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bulwark-agent-security 0.1.0",
+    "translated_title": "堡垒代理安全 0.1.0",
+    "publishedAt": "2026-05-03T01:33:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cogmem-agent 0.32.0",
+    "translated_title": "cogmem-代理 0.32.0",
+    "publishedAt": "2026-05-03T01:24:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "meeting-helper 2.4.1",
+    "translated_title": "会议助手 2.4.1",
+    "publishedAt": "2026-05-03T01:20:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "WATCH: Passengers scramble after Spirit Airlines shutters",
+    "translated_title": "观看：精神航空关门后乘客争先恐后",
+    "publishedAt": "2026-05-03T01:17:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "linafish 1.3.0",
+    "translated_title": "利纳鱼1.3.0",
+    "publishedAt": "2026-05-03T01:16:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "WATCH: America Strong: Oldest TSA officer in the US",
+    "translated_title": "观看：美国强大：美国最年长的 TSA 官员",
+    "publishedAt": "2026-05-03T01:15:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cogmem-agent 0.31.1",
+    "translated_title": "cogmem-代理 0.31.1",
+    "publishedAt": "2026-05-03T01:13:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zero-api-key-web-search 22.0.0",
+    "translated_title": "零 API 密钥网络搜索 22.0.0",
+    "publishedAt": "2026-05-03T01:10:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Two Supplements For Menopause May Actually Help, Expert Reveals",
+    "translated_title": "专家透露，两种针对更年期的补充剂可能确实有帮助",
+    "publishedAt": "2026-05-03T01:00:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Climate Change Weekly # 578— Countries and Industries Are Abandoning or Reducing Net-Zero Commitments",
+    "translated_title": "气候变化周刊#578——国家和行业正在放弃或减少净零承诺",
+    "publishedAt": "2026-05-03T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Creative skills AI technology benefitted in March 2026",
+    "translated_title": "创意技能 AI 技术于 2026 年 3 月受益",
+    "publishedAt": "2026-05-03T00:58:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Becca Lindquist: Sales professionals must adapt to the AI boom, long tenures signal stagnation, and a compelling LinkedIn profile is essential for career growth | 20VC",
+    "translated_title": "Becca Lindquist：销售专业人士必须适应人工智能的繁荣，长期任职意味着停滞，引人注目的 LinkedIn 个人资料对于职业发展至关重要 |20V",
+    "publishedAt": "2026-05-03T00:57:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nvidia expands Asian partnerships, eyes largest market cap by June 30",
+    "translated_title": "英伟达扩大亚洲合作伙伴关系，预计到 6 月 30 日市值将达到最大",
+    "publishedAt": "2026-05-03T00:57:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memoir-ai 0.1.9",
+    "translated_title": "回忆录-ai 0.1.9",
+    "publishedAt": "2026-05-03T00:56:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aureka 0.2.0",
+    "translated_title": "奥里卡0.2.0",
+    "publishedAt": "2026-05-03T00:53:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IMO – The AI agent that tells you if a product is worth buying",
+    "translated_title": "IMO – 人工智能代理可以告诉您产品是否值得购买",
+    "publishedAt": "2026-05-03T00:50:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nvidia is losing ground as world's most valuable company, says report. Who can be the first to hit $6 trillion?",
+    "translated_title": "报告称，英伟达正在失去全球最有价值公司的地位。谁能第一个突破6万亿美元？",
+    "publishedAt": "2026-05-03T00:48:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Op-Ed: Removing US troops from Germany simply proves Trump is out of his depth",
+    "translated_title": "专栏：从德国撤军只是证明特朗普已经超出了他的能力范围",
+    "publishedAt": "2026-05-03T00:41:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "web-ui-component-spec-mcp 1.0.0",
+    "translated_title": "web-ui-组件规范-mcp 1.0.0",
+    "publishedAt": "2026-05-03T00:39:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Marketing Content Composer",
+    "translated_title": "营销内容创作者",
+    "publishedAt": "2026-05-03T00:38:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "newb 0.23.0",
+    "translated_title": "新0.23.0",
+    "publishedAt": "2026-05-03T00:36:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "waggle-chat 0.8.11",
+    "translated_title": "摇摆聊天 0.8.11",
+    "publishedAt": "2026-05-03T00:33:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google is now a glorified venture-capital fund thanks to its SpaceX and Anthropic stakes - MarketWatch",
+    "translated_title": "得益于 SpaceX 和 Anthropic 的股份，谷歌现已成为一家光荣的风险投资基金 - MarketWatch",
+    "publishedAt": "2026-05-03T00:32:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Magic: The Gathering Issues Statement On Copied Hobbit Artwork",
+    "translated_title": "万智牌就复制霍比特人艺术品发表声明",
+    "publishedAt": "2026-05-03T00:31:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cogmem-agent 0.30.2",
+    "translated_title": "cogmem-代理 0.30.2",
+    "publishedAt": "2026-05-03T00:28:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How to Maintain Control When Writing with AI",
+    "translated_title": "使用人工智能写作时如何保持控制",
+    "publishedAt": "2026-05-03T00:27:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How to Maintain Ownership When Writing with AI",
+    "translated_title": "使用人工智能写作时如何保持所有权",
+    "publishedAt": "2026-05-03T00:27:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Cyclops #4 Preview: Scott Summers Tries Kidnapping, Strategically",
+    "translated_title": "独眼巨人 #4 预览：斯科特·萨默斯战略性地尝试绑架",
+    "publishedAt": "2026-05-03T00:26:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Apostle Paul Didn’t Reject God’s Future Plans For Israel — Why Does A Large Segment The Church?",
+    "translated_title": "使徒保罗并没有拒绝神对以色列的未来计划——为什么教会要大分裂？",
+    "publishedAt": "2026-05-03T00:25:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "toposync-ext-ai added to PyPI",
+    "translated_title": "toposync-ext-ai 添加到 PyPI",
+    "publishedAt": "2026-05-03T00:21:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "arize-phoenix 15.2.0",
+    "translated_title": "arize-phoenix 15.2.0",
+    "publishedAt": "2026-05-03T00:20:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "feral-ai 2026.5.12",
+    "translated_title": "野性人工智能 2026.5.12",
+    "publishedAt": "2026-05-03T00:16:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "scitex-agent-container 0.13.0",
+    "translated_title": "scitex-代理容器 0.13.0",
+    "publishedAt": "2026-05-03T00:15:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "haystack-ai 2.29.0.dev20260503001420",
+    "translated_title": "haystack-ai 2.29.0.dev20260503001420",
+    "publishedAt": "2026-05-03T00:14:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta and Microsoft cut 81K jobs in Q1 2026 to fund AI infrastructure",
+    "translated_title": "Meta 和微软在 2026 年第一季度裁员 8.1 万人，为人工智能基础设施提供资金",
+    "publishedAt": "2026-05-03T00:07:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bashkit 0.3.0",
+    "translated_title": "直辖市0.3.0",
+    "publishedAt": "2026-05-03T00:02:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-memory-guard added to PyPI",
+    "translated_title": "Agent-Memory-Guard 添加到 PyPI",
+    "publishedAt": "2026-05-03T00:02:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How did Claude-backed tool delete backups? #tech",
+    "translated_title": "克劳德支持的工具如何删除备份？#科技",
+    "publishedAt": "2026-05-03T00:02:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "What did US Senate approve for AI safety? #tech",
+    "translated_title": "美国参议院批准了哪些人工智能安全措施？#科技",
+    "publishedAt": "2026-05-03T00:02:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sim-plugin-comsol added to PyPI",
+    "translated_title": "sim-plugin-comsol 添加到 PyPI",
+    "publishedAt": "2026-05-03T00:01:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Reliability and readability of five AI chatbots for concussion health advice across retrieval augmented and pretrained models",
+    "translated_title": "五个人工智能聊天机器人在检索增强和预训练模型中提供脑震荡健康建议的可靠性和可读性",
+    "publishedAt": "2026-05-03T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "China blocks Meta’s acquisition of Chinese-founded AI startup Manus",
+    "translated_title": "中国阻止 Meta 收购中国人工智能初创公司 Manus",
+    "publishedAt": "2026-05-03T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Avengers’ 10 Most Iconic Villains of the 1980s, Ranked by Importance",
+    "translated_title": "复仇者联盟 20 世纪 80 年代最具标志性的 10 个反派（按重要性排名）",
+    "publishedAt": "2026-05-03T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Truth About Health — Uncovering the Root Causes of Disease and Premature Death",
+    "translated_title": "关于健康的真相——揭示疾病和过早死亡的根本原因",
+    "publishedAt": "2026-05-03T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Daily Hacker News for 2026-05-02",
+    "translated_title": "2026 年 5 月 2 日每日黑客新闻",
+    "publishedAt": "2026-05-03T00:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fft-channel-vocoder added to PyPI",
+    "translated_title": "fft-channel-vocoder 添加到 PyPI",
+    "publishedAt": "2026-05-02T23:57:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Keeping African data on African soil",
+    "translated_title": "将非洲数据保存在非洲土地上",
+    "publishedAt": "2026-05-02T23:57:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "personal-slack-agent added to PyPI",
+    "translated_title": "个人松弛代理添加到 PyPI",
+    "publishedAt": "2026-05-02T23:56:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiking 1.1.0",
+    "translated_title": "我的1.1.0",
+    "publishedAt": "2026-05-02T23:54:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiking-core 1.1.0",
+    "translated_title": "aiking-core 1.1.0",
+    "publishedAt": "2026-05-02T23:50:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llmcode-cli 2.14.2",
+    "translated_title": "llmcode-cli 2.14.2",
+    "publishedAt": "2026-05-02T23:49:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cognitive-cell 0.9.4",
+    "translated_title": "认知细胞0.9.4",
+    "publishedAt": "2026-05-02T23:43:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "What Guides the International Olympic Committee (IOC) When Deciding the Fate of National Teams. Russia is the “Bad Guy”. No Restrictions against Israel and U.S.",
+    "translated_title": "国际奥委会 (IOC) 在决定国家队命运时遵循什么原则。俄罗斯是“坏人”。对以色列和美国没有限制",
+    "publishedAt": "2026-05-02T23:43:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Beyond Chatgpt: The hidden AI opportunities Nigeria is missing",
+    "translated_title": "超越 Chatgpt：尼日利亚缺失的隐藏人工智能机会",
+    "publishedAt": "2026-05-02T23:42:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "airbyte-agent-sdk 0.1.157",
+    "translated_title": "Airbyte-agent-sdk 0.1.157",
+    "publishedAt": "2026-05-02T23:41:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SAG-AFTRA Sets New Deal With Studios",
+    "translated_title": "SAG-AFTRA 与电影公司达成新协议",
+    "publishedAt": "2026-05-02T23:41:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "gseai 1.0.0",
+    "translated_title": "格赛AI 1.0.0",
+    "publishedAt": "2026-05-02T23:37:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "4 Nigerian tech Startups lead 10 others from Africa to 10th Google for Startups Accelerator",
+    "translated_title": "4 家尼日利亚科技初创公司领先非洲其他 10 家科技初创公司跻身第 10 名 Google 初创公司加速器",
+    "publishedAt": "2026-05-02T23:37:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nextcloud-mcp-server 0.79.0",
+    "translated_title": "nextcloud-mcp-服务器 0.79.0",
+    "publishedAt": "2026-05-02T23:34:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lobster-metabolomics 1.1.418",
+    "translated_title": "龙虾代谢组学 1.1.418",
+    "publishedAt": "2026-05-02T23:33:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lobster-research 1.1.418",
+    "translated_title": "龙虾研究 1.1.418",
+    "publishedAt": "2026-05-02T23:33:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lobster-ml 1.1.418",
+    "translated_title": "龙虾毫升1.1.418",
+    "publishedAt": "2026-05-02T23:33:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lobster-structural-viz 1.1.418",
+    "translated_title": "龙虾结构可视化 1.1.418",
+    "publishedAt": "2026-05-02T23:33:05Z"
+  },
+  {
     "keyword": "能源",
     "title": "イランに関する幾つかの所見",
     "translated_title": "关于伊朗的一些观察",
@@ -28,11 +628,5 @@
     "title": "技術と経済発展",
     "translated_title": "技术与经济发展",
     "publishedAt": "2026-04-07T14:59:00Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "Type-Cケーブルで充電・データ転送が可能になったnotta Memo AI Voice Recorder、AIもパワーアップしさらに頼もしく",
-    "translated_title": "notta Memo AI录音机现在可以使用Type-C线进行充电和数据传输，AI也已通电并且更加可靠",
-    "publishedAt": "2026-04-03T14:56:10Z"
   }
 ]
