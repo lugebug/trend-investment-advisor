@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "fincloak added to PyPI",
+    "translated_title": "fincloak 添加到 PyPI",
+    "publishedAt": "2026-05-23T02:43:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fincloak 1.0.0",
+    "translated_title": "鳍斗篷 1.0.0",
+    "publishedAt": "2026-05-23T02:43:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Roundhill files for Neocloud ETF targeting GPU-as-a-Service infrastructure",
+    "translated_title": "针对 GPU 即服务基础设施的 Neocloud ETF 的 Roundhill 文件",
+    "publishedAt": "2026-05-23T02:38:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Cerebras reports 981 tokens per second on Kimi K2.6 model, 6.7x faster than GPU cloud",
+    "translated_title": "Cerebras 报告 Kimi K2.6 模型每秒处理 981 个令牌，比 GPU 云快 6.7 倍",
+    "publishedAt": "2026-05-23T02:37:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic nears $30B funding round, one of the largest private financings in history",
+    "translated_title": "Anthropic 接近 300 亿美元融资，这是历史上最大的私人融资之一",
+    "publishedAt": "2026-05-23T02:36:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Twins 8, Red Sox 6: It’s an actual comeback win the bullpen held?",
+    "translated_title": "Twins 8，Red Sox 6：这真的是牛棚的逆转胜利吗？",
+    "publishedAt": "2026-05-23T02:35:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-tools-box 0.0.33",
+    "translated_title": "人工智能工具箱 0.0.33",
+    "publishedAt": "2026-05-23T02:34:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "piia-engram 3.20.1",
+    "translated_title": "piia-印迹 3.20.1",
+    "publishedAt": "2026-05-23T02:34:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "codenavigator 1.0.2",
+    "translated_title": "代码导航器 1.0.2",
+    "publishedAt": "2026-05-23T02:34:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "codenavigator added to PyPI",
+    "translated_title": "Codenavigator 添加到 PyPI",
+    "publishedAt": "2026-05-23T02:33:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Qualcomm shares soar 12%, boosted by AI device boom and Stellantis deal",
+    "translated_title": "受人工智能设备热潮和 Stellantis 交易推动，高通股价飙升 12%",
+    "publishedAt": "2026-05-23T02:33:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hive-vault 1.19.0",
+    "translated_title": "蜂巢保险库 1.19.0",
+    "publishedAt": "2026-05-23T02:29:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "synthpanel 1.5.0",
+    "translated_title": "合成面板1.5.0",
+    "publishedAt": "2026-05-23T02:29:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "xingzierai 0.129.7",
+    "translated_title": "星子艾莱0.129.7",
+    "publishedAt": "2026-05-23T02:28:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Batman #163 Preview: Hush's Revenge Forces Unlikely Alliances",
+    "translated_title": "蝙蝠侠 #163 预览：安静的复仇迫使不可能的联盟",
+    "publishedAt": "2026-05-23T02:26:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Spellbook CEO Scott Stevenson exposes inflated ARR practices among AI startups",
+    "translated_title": "Spellbook 首席执行官 Scott Stevenson 揭露了人工智能初创公司夸大的 ARR 做法",
+    "publishedAt": "2026-05-23T02:24:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft’s Fara1.5 AI outperforms OpenAI and Google in web tasks",
+    "translated_title": "微软的 Fara1.5 AI 在网络任务中优于 OpenAI 和 Google",
+    "publishedAt": "2026-05-23T02:22:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Defiance ETFs files for Nvidia and Google Ventures ETFs targeting portfolio companies of tech giants",
+    "translated_title": "Defiance ETF 为 Nvidia 和 Google Ventures ETF 提交文件，瞄准科技巨头的投资组合公司",
+    "publishedAt": "2026-05-23T02:22:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "beehiiv — agent-native CLI, skill and MCP server",
+    "translated_title": "beehiiv — 代理本机 CLI、技能和 MCP 服务器",
+    "publishedAt": "2026-05-23T02:18:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Gemini AI Pro plan for 6 people with 5 TB cloud storage - Verizon FIOS customers $10",
+    "translated_title": "Gemini AI Pro 套餐可供 6 人使用，配备 5 TB 云存储 - Verizon FIOS 客户 10 美元",
+    "publishedAt": "2026-05-23T02:18:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "What smart people are saying about the Trump administration's green card crackdown",
+    "translated_title": "聪明人对特朗普政府绿卡打击有何看法",
+    "publishedAt": "2026-05-23T02:17:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "widdx 1.14.1",
+    "translated_title": "维德克斯 1.14.1",
+    "publishedAt": "2026-05-23T02:17:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "X402 processes $50M in payments as OpenRouter transitions to the protocol for AI settlements",
+    "translated_title": "随着 OpenRouter 过渡到 AI 结算协议，X402 处理 5000 万美元的付款",
+    "publishedAt": "2026-05-23T02:16:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aetherion 0.6.0",
+    "translated_title": "以太离子0.6.0",
+    "publishedAt": "2026-05-23T02:11:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "plivo-test-cli added to PyPI",
+    "translated_title": "plivo-test-cli 添加到 PyPI",
+    "publishedAt": "2026-05-23T02:11:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "efinance-cli added to PyPI",
+    "translated_title": "efinance-cli 添加到 PyPI",
+    "publishedAt": "2026-05-23T02:10:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wrg-mcp-server 1.0.7",
+    "translated_title": "WRG-MCP-服务器 1.0.7",
+    "publishedAt": "2026-05-23T02:08:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "widdx 1.14.0",
+    "translated_title": "维德克斯 1.14.0",
+    "publishedAt": "2026-05-23T02:08:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why Marketing Localization Needs More Than Just Translation",
+    "translated_title": "为什么营销本地化需要的不仅仅是翻译",
+    "publishedAt": "2026-05-23T02:07:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "falsifyai 0.2.0",
+    "translated_title": "伪造0.2.0",
+    "publishedAt": "2026-05-23T02:06:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Entrepreneur says the rich should stop complaining about tax changes",
+    "translated_title": "企业家表示富人应该停止抱怨税收变化",
+    "publishedAt": "2026-05-23T02:04:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "licentric 0.3.0",
+    "translated_title": "双心0.3.0",
+    "publishedAt": "2026-05-23T02:02:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jannaauth 0.4.0",
+    "translated_title": "jnaut 0.4.0",
+    "publishedAt": "2026-05-23T02:02:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘They Never Bothered To Check’: Man Watches Kroger TV Commercial. Then He Notices Something Crawling Across The Steaks",
+    "translated_title": "“他们从来没有费心去检查”：一名男子观看克罗格电视广告。然后他注意到有东西爬过牛排",
+    "publishedAt": "2026-05-23T02:00:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SES AI Corporation Securities Fraud Class Action Result of Weak Revenue Guidance and 37% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC",
+    "translated_title": "SES AI Corporation 证券欺诈集体诉讼因收入指引疲软和股价下跌 37% 而导致 - 投资者可联系 Kahn Swick & Foti, LLC 的 Lewis Kahn 先生",
+    "publishedAt": "2026-05-23T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Elon Musk and Sam Altman's rivalry moves from the courtroom to Wall Street",
+    "translated_title": "埃隆·马斯克和萨姆·奥尔特曼的竞争从法庭转移到华尔街",
+    "publishedAt": "2026-05-23T01:59:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "THE MIND MACHINE (5)",
+    "translated_title": "心灵机器 (5)",
+    "publishedAt": "2026-05-23T01:57:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Re: Coordinated Disclosure in the LLM Age",
+    "translated_title": "回复：法学硕士时代的协调披露",
+    "publishedAt": "2026-05-23T01:57:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Quote of the Day by Mark Zuckerberg amid Meta layoffs: \"People don't care about what you say, they care about...\"",
+    "translated_title": "马克·扎克伯格在 Meta 裁员期间引用的每日名言：“人们并不关心你说什么，他们关心的是……”",
+    "publishedAt": "2026-05-23T01:56:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "astrocyte 0.14.2",
+    "translated_title": "星形胶质细胞0.14.2",
+    "publishedAt": "2026-05-23T01:54:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "rapid-mlx 0.6.66",
+    "translated_title": "快速MLX 0.6.66",
+    "publishedAt": "2026-05-23T01:54:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "adclaw 1.0.12",
+    "translated_title": "adclaw 1.0.12",
+    "publishedAt": "2026-05-23T01:53:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "'I got drafted': Inside Meta's push to move 7,000 staff into its AI task force - Business Insider",
+    "translated_title": "“我被征召入伍了”：Meta 推动 7,000 名员工加入其人工智能工作组的内部 - Business Insider",
+    "publishedAt": "2026-05-23T01:53:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "feral-ai 2026.5.40",
+    "translated_title": "野性人工智能 2026.5.40",
+    "publishedAt": "2026-05-23T01:52:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI boom complicates market navigation for active managers on Wall Street",
+    "translated_title": "人工智能的繁荣使华尔街主动管理者的市场导航变得复杂",
+    "publishedAt": "2026-05-23T01:52:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hive-vault 1.18.0",
+    "translated_title": "hive-vault 1.18.0",
+    "publishedAt": "2026-05-23T01:51:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump Is Still Fuming About Colbert On Social Media",
+    "translated_title": "特朗普仍在社交媒体上对科尔伯特感到愤怒",
+    "publishedAt": "2026-05-23T01:51:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The 10 Best Digital Marketing Tools for Startups in 2026",
+    "translated_title": "2026 年最适合初创公司的 10 个数字营销工具",
+    "publishedAt": "2026-05-23T01:51:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Quartz – AI-native email app that filters noise and writes like you",
+    "translated_title": "Quartz – 人工智能原生电子邮件应用程序，可过滤噪音并像您一样写作",
+    "publishedAt": "2026-05-23T01:50:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "xingzierai 0.129.6",
+    "translated_title": "星子艾莱0.129.6",
+    "publishedAt": "2026-05-23T01:48:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wrg-devguard 0.2.3",
+    "translated_title": "WRG-devguard 0.2.3",
+    "publishedAt": "2026-05-23T01:47:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wrg-mcp-server 1.0.6",
+    "translated_title": "WRG-MCP-服务器 1.0.6",
+    "publishedAt": "2026-05-23T01:46:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "65\" Samsung S95F 4K OLED Vision AI TV $1198 + Free S&H",
+    "translated_title": "65 英寸三星 S95F 4K OLED 视觉人工智能电视 1198 美元 + 免费 S&H",
+    "publishedAt": "2026-05-23T01:45:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "widdx 1.13.7",
+    "translated_title": "维德克斯 1.13.7",
+    "publishedAt": "2026-05-23T01:44:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-slim 2.0.0b3",
+    "translated_title": "pydantic-ai-slim 2.0.0b3",
+    "publishedAt": "2026-05-23T01:41:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-examples 2.0.0b3",
+    "translated_title": "pydantic-ai-示例 2.0.0b3",
+    "publishedAt": "2026-05-23T01:41:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai 2.0.0b3",
+    "translated_title": "pydantic-ai 2.0.0b3",
+    "publishedAt": "2026-05-23T01:41:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clai 2.0.0b3",
+    "translated_title": "粘土2.0.0b3",
+    "publishedAt": "2026-05-23T01:41:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Two men charged under Take It Down Act for AI deepfake porn targeting celebrities and politicians",
+    "translated_title": "两名男子因针对名人和政客的人工智能深度伪造色情内容而被《Take It Down Act》指控",
+    "publishedAt": "2026-05-23T01:40:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fo-core 2.0.0b7",
+    "translated_title": "fo-核心2.0.0b7",
+    "publishedAt": "2026-05-23T01:38:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic plans to close latest funding round ahead of IPO",
+    "translated_title": "Anthropic 计划在 IPO 前完成最新一轮融资",
+    "publishedAt": "2026-05-23T01:38:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kumoai 2.23.0.dev202605221835",
+    "translated_title": "云爱2.23.0.dev202605221835",
+    "publishedAt": "2026-05-23T01:38:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev28",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev28",
+    "publishedAt": "2026-05-23T01:33:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev27",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev27",
+    "publishedAt": "2026-05-23T01:33:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev26",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev26",
+    "publishedAt": "2026-05-23T01:33:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "widdx 1.13.6",
+    "translated_title": "维德克斯 1.13.6",
+    "publishedAt": "2026-05-23T01:33:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Social media changed society. AI changes everything.",
+    "translated_title": "社交媒体改变了社会。人工智能改变一切。",
+    "publishedAt": "2026-05-23T01:30:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Crypto News: AlphaPepe Presale Sees Whale Accumulation While Bitcoin Price Prediction Targets $250,000",
+    "translated_title": "加密货币新闻：AlphaPepe 预售看到鲸鱼积累，而比特币价格预测目标为 250,000 美元",
+    "publishedAt": "2026-05-23T01:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "osmosis-ai 0.2.22",
+    "translated_title": "渗透-ai 0.2.22",
+    "publishedAt": "2026-05-23T01:28:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump's Response to Colbert Finale: More AI Slop, Lame Rage-Posting",
+    "translated_title": "特朗普对科尔伯特结局的回应：更多人工智能废话、蹩脚的愤怒帖子",
+    "publishedAt": "2026-05-23T01:28:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "waveframe-guard 0.8.0",
+    "translated_title": "波框防护 0.8.0",
+    "publishedAt": "2026-05-23T01:28:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "omni-localizer 0.2.3",
+    "translated_title": "全向定位器 0.2.3",
+    "publishedAt": "2026-05-23T01:26:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "WATCH: America Strong: Colorado firefighters rescue family's dog trapped under deck",
+    "translated_title": "观看：美国强大：科罗拉多州消防队员营救被困在甲板下的家庭狗",
+    "publishedAt": "2026-05-23T01:25:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev24",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev24",
+    "publishedAt": "2026-05-23T01:25:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev25",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev25",
+    "publishedAt": "2026-05-23T01:25:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev23",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev23",
+    "publishedAt": "2026-05-23T01:24:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev22",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev22",
+    "publishedAt": "2026-05-23T01:24:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "widdx 1.13.5",
+    "translated_title": "维德克斯 1.13.5",
+    "publishedAt": "2026-05-23T01:23:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev21",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev21",
+    "publishedAt": "2026-05-23T01:23:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev20",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev20",
+    "publishedAt": "2026-05-23T01:22:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev19",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev19",
+    "publishedAt": "2026-05-23T01:22:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev18",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev18",
+    "publishedAt": "2026-05-23T01:21:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ag2 0.13.1",
+    "translated_title": "ag2 0.13.1",
+    "publishedAt": "2026-05-23T01:21:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ouroboros-ai 0.39.2.dev17",
+    "translated_title": "衔尾蛇-ai 0.39.2.dev17",
+    "publishedAt": "2026-05-23T01:21:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "widdx 1.13.4",
+    "translated_title": "维德克斯 1.13.4",
+    "publishedAt": "2026-05-23T01:18:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "millrace-ai 0.20.1",
+    "translated_title": "millrace-ai 0.20.1",
+    "publishedAt": "2026-05-23T01:17:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "openzim-mcp 2.0.0b9",
+    "translated_title": "openzim-MCP 2.0.0b9",
+    "publishedAt": "2026-05-23T01:17:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wrg-devguard 0.2.2",
+    "translated_title": "WRG-devguard 0.2.2",
+    "publishedAt": "2026-05-23T01:15:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "devhive 0.1.34",
+    "translated_title": "潜水 0.1.34",
+    "publishedAt": "2026-05-23T01:15:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "simmer-sdk 0.17.17",
+    "translated_title": "simmer-sdk 0.17.17",
+    "publishedAt": "2026-05-23T01:15:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-slim 1.102.0",
+    "translated_title": "pydantic-ai-slim 1.102.0",
+    "publishedAt": "2026-05-23T01:14:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-examples 1.102.0",
+    "translated_title": "pydantic-ai-示例 1.102.0",
+    "publishedAt": "2026-05-23T01:14:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai 1.102.0",
+    "translated_title": "pydantic-ai 1.102.0",
+    "publishedAt": "2026-05-23T01:14:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clai 1.102.0",
+    "translated_title": "粘土1.102.0",
+    "publishedAt": "2026-05-23T01:14:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "build-rapport 0.1.2",
+    "translated_title": "建立融洽关系 0.1.2",
+    "publishedAt": "2026-05-23T01:13:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NTSB suspends public access to crash database after AI users recreate cockpit audio from spectrograms",
+    "translated_title": "在人工智能用户从频谱图中重新创建驾驶舱音频后，NTSB 暂停了对事故数据库的公众访问",
+    "publishedAt": "2026-05-23T01:12:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Project Glasswing identifies over 10,000 critical vulnerabilities in first month using AI",
+    "translated_title": "Glasswing 项目使用 AI 在第一个月内识别了超过 10,000 个严重漏洞",
+    "publishedAt": "2026-05-23T01:12:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "onegenie 0.1.28",
+    "translated_title": "onegene 0.1.28",
+    "publishedAt": "2026-05-23T01:11:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta launches Forum app, driving Reddit shares down 6%",
+    "translated_title": "Meta 推出论坛应用程序，导致 Reddit 股价下跌 6%",
+    "publishedAt": "2026-05-23T01:09:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic plans to make Mythos-class AI models widely available",
+    "translated_title": "Anthropic 计划广泛使用 Mythos 级人工智能模型",
+    "publishedAt": "2026-05-23T01:09:33Z"
+  },
+  {
     "keyword": "能源",
     "title": "美空ひばり芸能生活８０周年　未発表のオリジナル音源を発掘！！！　　１８歳の若きひばりの歌声がよみがえる！！！",
     "translated_title": "美空云雀出道80周年，原音源出土！！！18岁少女云雀的歌声回来了！！！",
