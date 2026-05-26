@@ -1,603 +1,603 @@
 [
   {
     "keyword": "AI",
-    "title": "東南アジア・トップインターナショナルスクール「XCL Education」3校合同説明会を開催",
-    "translated_title": "东南亚顶级国际学校“XCL教育”与三所学校举行联合说明会",
-    "publishedAt": "2026-05-24T02:40:39Z"
+    "title": "あなたの1枚が、今日から物語を紡ぎはじめる。AIフォトストーリーアプリ「Framory（フレーモリー）」まもなくリリース！",
+    "translated_title": "从今天开始，你的照片将开始讲述一个故事。AI照片故事应用“Framory”即将发布！",
+    "publishedAt": "2026-05-25T02:40:40Z"
   },
   {
     "keyword": "AI",
-    "title": "Green Lantern #35 Preview: Odyssey's Hollywood Star Power",
-    "translated_title": "绿灯侠 #35 预览：奥德赛的好莱坞明星力量",
-    "publishedAt": "2026-05-24T02:27:09Z"
+    "title": "agent-first-data 0.9.0",
+    "translated_title": "代理优先数据 0.9.0",
+    "publishedAt": "2026-05-25T02:40:24Z"
   },
   {
     "keyword": "AI",
-    "title": "Github Copilot配置GPT5.5报错：'temperature' does not support 0.1 with this model. Only the default (1) value is supported. - Eric zhou",
-    "translated_title": "Github Copilot配置GPT5.5报错：'温度'不支持此模型的0.1。仅支持默认值 (1)。——埃里克·周",
-    "publishedAt": "2026-05-24T02:23:00Z"
+    "title": "franki-cli added to PyPI",
+    "translated_title": "Franki-cli 添加到 PyPI",
+    "publishedAt": "2026-05-25T02:37:55Z"
   },
   {
     "keyword": "AI",
-    "title": "OpenAI will pay ₹3.7 crore to worry about a problem that may not exist yet. The job? Stop AI from building itself",
-    "translated_title": "OpenAI 将支付 37 亿卢比来解决可能尚不存在的问题。工作？阻止人工智能自我构建",
-    "publishedAt": "2026-05-24T02:21:44Z"
+    "title": "US expresses regret on failure to get consensus in Nuclear Non-Proliferation Treaty",
+    "translated_title": "美方对核不扩散条约未能达成共识表示遗憾",
+    "publishedAt": "2026-05-25T02:36:46Z"
   },
   {
     "keyword": "AI",
-    "title": "annexkit 0.1.3",
-    "translated_title": "附件包0.1.3",
-    "publishedAt": "2026-05-24T02:18:04Z"
+    "title": "brack added to PyPI",
+    "translated_title": "PyPI 中添加了括号",
+    "publishedAt": "2026-05-25T02:35:40Z"
   },
   {
     "keyword": "AI",
-    "title": "anp2-cli 0.2.0",
-    "translated_title": "anp2-cli 0.2.0",
-    "publishedAt": "2026-05-24T02:15:50Z"
+    "title": "brack 0.5.0",
+    "translated_title": "支架0.5.0",
+    "publishedAt": "2026-05-25T02:35:40Z"
   },
   {
     "keyword": "AI",
-    "title": "anp2-cli added to PyPI",
-    "translated_title": "anp2-cli 添加到 PyPI",
-    "publishedAt": "2026-05-24T02:15:50Z"
+    "title": "Huawei plans 1.4nm chips by 2031 as China races to catch TSMC",
+    "translated_title": "华为计划到 2031 年推出 1.4 纳米芯片，中国竞相追赶台积电",
+    "publishedAt": "2026-05-25T02:34:47Z"
   },
   {
     "keyword": "AI",
-    "title": "Apple 13″ MacBook Air With M5 Chip, 16GB Memory, 512GB SSD For $899.99 Shipped From Amazon",
-    "translated_title": "Apple 13 英寸 MacBook Air，配备 M5 芯片、16GB 内存、512GB SSD，现价 899.99 美元，亚马逊发货",
-    "publishedAt": "2026-05-24T02:11:53Z"
+    "title": "gllm-inference-binary 0.6.56",
+    "translated_title": "gllm 推理二进制 0.6.56",
+    "publishedAt": "2026-05-25T02:34:41Z"
   },
   {
     "keyword": "AI",
-    "title": "【正論】ひろゆき、高市を論破「『原油は足りてる』と言うと嘘になるので『足りてるという認識』と言ってる」",
-    "translated_title": "[正确] Hiroyuki 反驳 Takaichi：“说‘有足够的原油’是一个谎言，所以我说‘我承认有足够的’。”",
-    "publishedAt": "2026-05-24T02:10:35Z"
+    "title": "Honor’s first robot smartphone revealed in high-resolution images",
+    "translated_title": "荣耀首款机器人智能手机以高分辨率图像亮相",
+    "publishedAt": "2026-05-25T02:33:17Z"
   },
   {
     "keyword": "AI",
-    "title": "mempalace-dashboard added to PyPI",
-    "translated_title": "mempalace-dashboard 添加到 PyPI",
-    "publishedAt": "2026-05-24T02:06:14Z"
+    "title": "sage-ai-cli 1.20.27",
+    "translated_title": "sage-ai-cli 1.20.27",
+    "publishedAt": "2026-05-25T02:33:16Z"
   },
   {
     "keyword": "AI",
-    "title": "adclaw 1.0.14",
-    "translated_title": "adclaw 1.0.14",
-    "publishedAt": "2026-05-24T02:05:24Z"
+    "title": "carros-ai-utils 0.4.0",
+    "translated_title": "卡罗-ai-utils 0.4.0",
+    "publishedAt": "2026-05-25T02:32:40Z"
   },
   {
     "keyword": "AI",
-    "title": "LiteLLMとLangGraphのFunctional API（@entrypoint / @task）でワークフローを素のPython関数として書いてみる",
-    "translated_title": "尝试使用 LiteLLM 和 LangGraph 的功能 API (@entrypoint / @task) 将工作流程编写为普通 Python 函数",
-    "publishedAt": "2026-05-24T02:00:09Z"
+    "title": "agentclub 0.1.52",
+    "translated_title": "代理俱乐部 0.1.52",
+    "publishedAt": "2026-05-25T02:32:39Z"
   },
   {
     "keyword": "AI",
-    "title": "C-Lingo: Transforming Chinese Language Learning in Vietnam with AI",
-    "translated_title": "C-Lingo：利用人工智能改变越南的汉语学习",
-    "publishedAt": "2026-05-24T02:00:00Z"
+    "title": "Huawei targets AI optical networking with InP chip startup investment",
+    "translated_title": "华为瞄准AI光网络投资InP芯片初创公司",
+    "publishedAt": "2026-05-25T02:32:08Z"
   },
   {
     "keyword": "AI",
-    "title": "50% Off Zebracat AI Promo Code \"ZEBRA50\" to All Customers",
-    "translated_title": "所有客户均可使用 Zebracat AI 促销代码“ZEBRA50”享受 50% 折扣",
-    "publishedAt": "2026-05-24T01:53:10Z"
+    "title": "台湾がNVIDIA製AI半導体密輸に対する初の本格的な取り締まりで12カ所を捜索、文書偽造と虚偽申告の容疑で逃亡中の3人を逮捕",
+    "translated_title": "台湾首次全面打击 NVIDIA AI 半导体走私行动，搜查 12 个地点，逮捕三名涉嫌伪造文件和虚假申报的逃犯",
+    "publishedAt": "2026-05-25T02:31:00Z"
   },
   {
     "keyword": "AI",
-    "title": "anporia-client 0.2.0",
-    "translated_title": "anporia-客户端 0.2.0",
-    "publishedAt": "2026-05-24T01:47:01Z"
+    "title": "FloorPlan AI – Turn text into 2D and 3D floor plans in seconds for home and real estate",
+    "translated_title": "FloorPlan AI – 在几秒钟内将文本转换为家庭和房地产的 2D 和 3D 平面图",
+    "publishedAt": "2026-05-25T02:30:00Z"
   },
   {
     "keyword": "AI",
-    "title": "David Pocock leaves door open to forming party of independents",
-    "translated_title": "大卫·波科克为组建独立党敞开大门",
-    "publishedAt": "2026-05-24T01:39:17Z"
+    "title": "EPA Head Says Southern California Chemical Tank Likely ‘Will Fail’",
+    "translated_title": "EPA 负责人表示南加州化学罐可能“会失败”",
+    "publishedAt": "2026-05-25T02:27:14Z"
   },
   {
     "keyword": "AI",
-    "title": "blindference-node 0.3.2",
-    "translated_title": "blindference-node 0.3.2",
-    "publishedAt": "2026-05-24T01:39:06Z"
+    "title": "Superman: Father of Tomorrow #1 Preview: Daddy's Home",
+    "translated_title": "超人：明日之父 #1 预览：爸爸的家",
+    "publishedAt": "2026-05-25T02:26:09Z"
   },
   {
     "keyword": "AI",
-    "title": "Tao Okamoto Wins Best Actress at Cannes",
-    "translated_title": "冈本多绪荣获戛纳最佳女主角奖",
-    "publishedAt": "2026-05-24T01:38:40Z"
+    "title": "EasyRerank 0.1.0",
+    "translated_title": "EasyRerank 0.1.0",
+    "publishedAt": "2026-05-25T02:26:08Z"
   },
   {
     "keyword": "AI",
-    "title": "sage-ai-cli 1.20.20",
-    "translated_title": "sage-ai-cli 1.20.20",
-    "publishedAt": "2026-05-24T01:38:28Z"
+    "title": "AI's role in fitness: Balancing benefits against potential risks",
+    "translated_title": "人工智能在健身中的作用：平衡收益与潜在风险",
+    "publishedAt": "2026-05-25T02:23:57Z"
   },
   {
     "keyword": "AI",
-    "title": "neuralbridge-sdk 1.6.7",
-    "translated_title": "Neurobridge-sdk 1.6.7",
-    "publishedAt": "2026-05-24T01:38:22Z"
+    "title": "crabagent 0.5.2",
+    "translated_title": "螃蟹代理0.5.2",
+    "publishedAt": "2026-05-25T02:21:51Z"
   },
   {
     "keyword": "AI",
-    "title": "Top 10 Browser AI Tools for Graphic Designers in 2026",
-    "translated_title": "2026 年面向平面设计师的 10 大浏览器 AI 工具",
-    "publishedAt": "2026-05-24T01:37:38Z"
+    "title": "Singapore launches physical AI testbed at Punggol Digital District",
+    "translated_title": "新加坡在榜鹅数字区推出物理人工智能测试平台",
+    "publishedAt": "2026-05-25T02:20:57Z"
   },
   {
     "keyword": "AI",
-    "title": "sage-ai-cli 1.20.19",
-    "translated_title": "sage-ai-cli 1.20.19",
-    "publishedAt": "2026-05-24T01:37:09Z"
+    "title": "mk-qa-master 0.7.4",
+    "translated_title": "mk-qa-master 0.7.4",
+    "publishedAt": "2026-05-25T02:19:42Z"
   },
   {
     "keyword": "AI",
-    "title": "Linus Torvalds on How AI is Impacting the Hunt for Linux Kernel Bugs",
-    "translated_title": "Linus Torvalds 谈人工智能如何影响 Linux 内核错误的搜寻",
-    "publishedAt": "2026-05-24T01:34:00Z"
+    "title": "tree-sitter-analyzer 1.15.0",
+    "translated_title": "树保姆分析器 1.15.0",
+    "publishedAt": "2026-05-25T02:19:10Z"
   },
   {
     "keyword": "AI",
-    "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC - MacRumors",
-    "translated_title": "苹果在 WWDC 之前准备新的“Gen AI”网站 - MacRumors",
-    "publishedAt": "2026-05-24T01:32:33Z"
+    "title": "riskratchet 0.2.3",
+    "translated_title": "风险棘轮0.2.3",
+    "publishedAt": "2026-05-25T02:16:01Z"
   },
   {
     "keyword": "AI",
-    "title": "The most honest market advice right now: ‘I don’t know’",
-    "translated_title": "目前最诚实的市场建议：“我不知道”",
-    "publishedAt": "2026-05-24T01:30:37Z"
+    "title": "declaw 1.2.0",
+    "translated_title": "去爪 1.2.0",
+    "publishedAt": "2026-05-25T02:10:52Z"
   },
   {
     "keyword": "AI",
-    "title": "How Rapido became Uber’s toughest challenger while Ola lost ground, explained in 5 charts",
-    "translated_title": "5 张图表解释了 Rapido 如何成为 Uber 最强劲的挑战者，而 Ola 却节节败退",
-    "publishedAt": "2026-05-24T01:30:17Z"
+    "title": "memwal 0.1.2rc0",
+    "translated_title": "内存瓦尔0.1.2rc0",
+    "publishedAt": "2026-05-25T02:10:40Z"
   },
   {
     "keyword": "AI",
-    "title": "omni-localizer 0.2.5",
-    "translated_title": "全向定位器 0.2.5",
-    "publishedAt": "2026-05-24T01:29:36Z"
+    "title": "gllm-inference-binary 0.6.55",
+    "translated_title": "gllm-推理-二进制 0.6.55",
+    "publishedAt": "2026-05-25T02:10:16Z"
   },
   {
     "keyword": "AI",
-    "title": "awb 1.3.0",
-    "translated_title": "运单1.3.0",
-    "publishedAt": "2026-05-24T01:25:25Z"
+    "title": "labs-mcp-server added to PyPI",
+    "translated_title": "Labs-mcp-server 添加到 PyPI",
+    "publishedAt": "2026-05-25T02:09:52Z"
   },
   {
     "keyword": "AI",
-    "title": "sage-ai-cli 1.20.18",
-    "translated_title": "sage-ai-cli 1.20.18",
-    "publishedAt": "2026-05-24T01:25:18Z"
+    "title": "labs-mcp-server 0.1.0",
+    "translated_title": "实验室-mcp-服务器 0.1.0",
+    "publishedAt": "2026-05-25T02:09:52Z"
   },
   {
     "keyword": "AI",
-    "title": "geoai-py 0.39.3",
-    "translated_title": "geoai-py 0.39.3",
-    "publishedAt": "2026-05-24T01:23:37Z"
+    "title": "India-Middle East-Europe corridor can still move ahead, says Israeli envoy",
+    "translated_title": "以色列特使表示，印度-中东-欧洲走廊仍然可以向前发展",
+    "publishedAt": "2026-05-25T02:08:19Z"
   },
   {
     "keyword": "AI",
-    "title": "turnstone 1.6.0a4",
-    "translated_title": "转石1.6.0a4",
-    "publishedAt": "2026-05-24T01:21:26Z"
+    "title": "The push for a smaller public service risks coming at a larger cost for New Zealanders",
+    "translated_title": "推动缩小公共服务规模可能会让新西兰人付出更大的代价",
+    "publishedAt": "2026-05-25T02:07:15Z"
   },
   {
     "keyword": "AI",
-    "title": "sage-ai-cli 1.20.17",
-    "translated_title": "sage-ai-cli 1.20.17",
-    "publishedAt": "2026-05-24T01:17:51Z"
+    "title": "memwal 0.1.2.dev3",
+    "translated_title": "内存瓦尔0.1.2.dev3",
+    "publishedAt": "2026-05-25T02:06:49Z"
   },
   {
     "keyword": "AI",
-    "title": "Why Almost No One Needs A Flagship Smartphone Anymore",
-    "translated_title": "为什么几乎没有人需要旗舰智能手机",
-    "publishedAt": "2026-05-24T01:17:00Z"
+    "title": "mk-qa-master 0.7.3",
+    "translated_title": "mk-qa-master 0.7.3",
+    "publishedAt": "2026-05-25T02:06:42Z"
   },
   {
     "keyword": "AI",
-    "title": "synthpanel 1.5.5",
-    "translated_title": "合成面板 1.5.5",
-    "publishedAt": "2026-05-24T01:15:52Z"
+    "title": "Stellantis and Qualcomm expand Snapdragon Digital Chassis deployment across global vehicle lines",
+    "translated_title": "Stellantis 和高通在全球汽车产品线中扩展 Snapdragon 数字底盘部署",
+    "publishedAt": "2026-05-25T02:06:09Z"
   },
   {
     "keyword": "AI",
-    "title": "agentguard-spend added to PyPI",
-    "translated_title": "Agentguard-spend 添加到 PyPI",
-    "publishedAt": "2026-05-24T01:14:55Z"
+    "title": "sage-agent-sdk 8.0.0",
+    "translated_title": "圣人代理 SDK 8.0.0",
+    "publishedAt": "2026-05-25T02:05:48Z"
   },
   {
     "keyword": "AI",
-    "title": "agentguard-spend 0.1.0",
-    "translated_title": "代理守卫花费 0.1.0",
-    "publishedAt": "2026-05-24T01:14:55Z"
+    "title": "fastaiagent 1.13.1",
+    "translated_title": "快泰代理1.13.1",
+    "publishedAt": "2026-05-25T02:04:24Z"
   },
   {
     "keyword": "AI",
-    "title": "Johnny Manziel vs Bob Menery live stream, fight card for Adin Ross MMA event",
-    "translated_title": "约翰尼·曼齐尔 (Johnny Manziel) 对阵鲍勃·梅内里 (Bob Menery) 直播，阿丁·罗斯 (Adin Ross) MMA 赛事战斗卡",
-    "publishedAt": "2026-05-24T01:14:44Z"
+    "title": "Baby boom: Andhra Pradesh's child incentives are a bold experiment with a slim chance of success",
+    "translated_title": "婴儿潮：安得拉邦的儿童激励措施是一项大胆的实验，成功的机会很小",
+    "publishedAt": "2026-05-25T02:00:58Z"
   },
   {
     "keyword": "AI",
-    "title": "Show HN: Play nbsdgames to increase your brain (exclamation mark)",
-    "translated_title": "Show HN：玩nbsdgames来增加你的大脑（感叹号）",
-    "publishedAt": "2026-05-24T01:13:12Z"
+    "title": "ai-tools-box 0.0.35",
+    "translated_title": "人工智能工具箱 0.0.35",
+    "publishedAt": "2026-05-25T02:00:38Z"
   },
   {
     "keyword": "AI",
-    "title": "Exhibition sheds fresh light on WA's pre-colonial history",
-    "translated_title": "展览为西澳前殖民历史提供了新的线索",
-    "publishedAt": "2026-05-24T01:02:28Z"
+    "title": "PROMISE Technology Brings Sustainability Focus to AI Storage at COMPUTEX 2026",
+    "translated_title": "乔鼎科技在 COMPUTEX 2026 上聚焦人工智能存储的可持续发展",
+    "publishedAt": "2026-05-25T02:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "The Stigma Around This Common Skin Condition Runs Deeper Than You Think",
-    "translated_title": "这种常见皮肤病的耻辱比您想象的要深",
-    "publishedAt": "2026-05-24T01:00:29Z"
+    "title": "日テレAI-HRがAIクリエイティブ制作受託をリリース",
+    "translated_title": "NTV AI-HR发布AI创意制作合同",
+    "publishedAt": "2026-05-25T02:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Crypto News Today: AlphaPepe AI DEX Hits 5,000 Users While Bitcoin Price Prediction Eyes $180,000",
-    "translated_title": "今日加密新闻：AlphaPepe AI DEX 用户数量达到 5,000 名，比特币价格预测为 180,000 美元",
-    "publishedAt": "2026-05-24T01:00:00Z"
+    "title": "星野リゾート、Workday でグループ横断で一貫した人事管理システムの運用を開始　Workday による人事データ統合と人材マネジメントの高度化を推進",
+    "translated_title": "星野集团开始利用Workday在整个集团内运行一致的人力资源管理系统，利用Workday促进人力资源数据的整合和人力资源管理的进步",
+    "publishedAt": "2026-05-25T02:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Trump postpones AI executive order after David Sacks warns of regulatory risks",
-    "translated_title": "大卫·萨克斯警告监管风险后，特朗普推迟人工智能行政命令",
-    "publishedAt": "2026-05-24T00:59:46Z"
+    "title": "約2ヶ月間の超集中アクセラレーションプログラム「K-NIC Startup Hands on Program」2026年度上期の募集を開始",
+    "translated_title": "为期2个月的超强化加速项目“K-NIC创业实践项目”将于2026年上半年开始招募",
+    "publishedAt": "2026-05-25T02:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "claude-mpm 6.4.6",
-    "translated_title": "克劳德-MPM 6.4.6",
-    "publishedAt": "2026-05-24T00:59:33Z"
+    "title": "Silicon Valley takes its AI pitch to the pope",
+    "translated_title": "硅谷向教皇推销人工智能",
+    "publishedAt": "2026-05-25T02:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "OpenAI opens first lab outside the US in Singapore as Google deepens government AI ties",
-    "translated_title": "随着谷歌加深与政府人工智能的联系，OpenAI 在新加坡开设了美国以外的第一个实验室",
-    "publishedAt": "2026-05-24T00:57:50Z"
+    "title": "LexinFintech Holdings Ltd. Reports First Quarter 2026 Unaudited Financial Results",
+    "translated_title": "乐信金融科技控股有限公司公布 2026 年第一季度未经审计财务业绩",
+    "publishedAt": "2026-05-25T02:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "AI server boom squeezes Samsung Electro-Mechanics' component supply",
-    "translated_title": "AI服务器热潮挤压三星电机零部件供应",
-    "publishedAt": "2026-05-24T00:56:45Z"
+    "title": "substrate-kb 0.2.1",
+    "translated_title": "底物-kb 0.2.1",
+    "publishedAt": "2026-05-25T01:58:54Z"
   },
   {
     "keyword": "AI",
-    "title": "faber-tessera 0.2.0",
-    "translated_title": "faber-tessera 0.2.0",
-    "publishedAt": "2026-05-24T00:54:31Z"
+    "title": "substrate-kb added to PyPI",
+    "translated_title": "底物-kb 添加到 PyPI",
+    "publishedAt": "2026-05-25T01:58:49Z"
   },
   {
     "keyword": "AI",
-    "title": "Jemele Hill tries using the race card to defend Abdul Carter for criticizing Jaxson Dart and Trump",
-    "translated_title": "杰梅勒·希尔试图用种族卡为阿卜杜勒·卡特辩护，因为他批评杰克森·达特和特朗普",
-    "publishedAt": "2026-05-24T00:53:45Z"
+    "title": "bashkit 0.7.0",
+    "translated_title": "市政府 0.7.0",
+    "publishedAt": "2026-05-25T01:58:41Z"
   },
   {
     "keyword": "AI",
-    "title": "aither-adk 1.7.0",
-    "translated_title": "艾瑟-adk 1.7.0",
-    "publishedAt": "2026-05-24T00:50:34Z"
+    "title": "StoryForge 0.0.9",
+    "translated_title": "StoryForge 0.0.9",
+    "publishedAt": "2026-05-25T01:58:35Z"
   },
   {
     "keyword": "AI",
-    "title": "Premium Lunar Lake laptops drop to $600 in China, joining budget Wildcat Lake to challenge Apple's MacBook Neo",
-    "translated_title": "高端 Lunar Lake 笔记本电脑在中国降价至 600 美元，与廉价版 Wildcat Lake 一起挑战苹果 MacBook Neo",
-    "publishedAt": "2026-05-24T00:50:05Z"
+    "title": "cleanvibe 1.10.1",
+    "translated_title": "清洁振动 1.10.1",
+    "publishedAt": "2026-05-25T01:58:21Z"
   },
   {
     "keyword": "AI",
-    "title": "bowerbot 1.9.0",
-    "translated_title": "鲍尔机器人 1.9.0",
-    "publishedAt": "2026-05-24T00:47:22Z"
+    "title": "Successful Launch Spurs China Toward Crucial First For Moon Landing",
+    "translated_title": "成功发射推动中国迈向至关重要的首次登月",
+    "publishedAt": "2026-05-25T01:57:19Z"
   },
   {
     "keyword": "AI",
-    "title": "sage-ai-cli 1.20.16",
-    "translated_title": "sage-ai-cli 1.20.16",
-    "publishedAt": "2026-05-24T00:44:55Z"
+    "title": "servonaut 2.12.0",
+    "translated_title": "伺服器 2.12.0",
+    "publishedAt": "2026-05-25T01:56:05Z"
   },
   {
     "keyword": "AI",
-    "title": "claude-mpm 6.4.4",
-    "translated_title": "克劳德-MPM 6.4.4",
-    "publishedAt": "2026-05-24T00:42:16Z"
+    "title": "U.S. Stock Market on Monday: Are S&P 500, Dow Jones, Nasdaq open on Memorial day?",
+    "translated_title": "周一美国股市：标准普尔 500 指数、道琼斯指数、纳斯达克指数在阵亡将士纪念日开市吗？",
+    "publishedAt": "2026-05-25T01:53:18Z"
   },
   {
     "keyword": "AI",
-    "title": "weaverx 0.1.2",
-    "translated_title": "织布机0.1.2",
-    "publishedAt": "2026-05-24T00:42:01Z"
+    "title": "bettermemory 2.7.2",
+    "translated_title": "更好的记忆2.7.2",
+    "publishedAt": "2026-05-25T01:53:16Z"
   },
   {
     "keyword": "AI",
-    "title": "vectora-agent 0.1.0rc4",
-    "translated_title": "矢量代理 0.1.0rc4",
-    "publishedAt": "2026-05-24T00:40:18Z"
+    "title": "lfx-nightly 0.5.0.dev46",
+    "translated_title": "lfx-每晚 0.5.0.dev46",
+    "publishedAt": "2026-05-25T01:52:53Z"
   },
   {
     "keyword": "AI",
-    "title": "synthpanel 1.5.4",
-    "translated_title": "合成面板 1.5.4",
-    "publishedAt": "2026-05-24T00:40:07Z"
+    "title": "xray-ien 1.0.0",
+    "translated_title": "X射线-ien 1.0.0",
+    "publishedAt": "2026-05-25T01:50:18Z"
   },
   {
     "keyword": "AI",
-    "title": "sourcecode 1.31.13",
-    "translated_title": "源代码 1.31.13",
-    "publishedAt": "2026-05-24T00:35:47Z"
+    "title": "xray-ien added to PyPI",
+    "translated_title": "xray-ien 添加到 PyPI",
+    "publishedAt": "2026-05-25T01:50:18Z"
   },
   {
     "keyword": "AI",
-    "title": "agent-migrator 0.1.1",
-    "translated_title": "移民代理0.1.1",
-    "publishedAt": "2026-05-24T00:35:21Z"
+    "title": "reflexio-ai 0.2.23",
+    "translated_title": "reflexio-ai 0.2.23",
+    "publishedAt": "2026-05-25T01:49:30Z"
   },
   {
     "keyword": "AI",
-    "title": "Silent panic alarm at health board office, Seattle WA | CrimeRadar",
-    "translated_title": "华盛顿州西雅图卫生局办公室无声恐慌警报犯罪雷达",
-    "publishedAt": "2026-05-24T00:35:04Z"
+    "title": "turnstone 1.6.0a5",
+    "translated_title": "转石1.6.0a5",
+    "publishedAt": "2026-05-25T01:48:07Z"
   },
   {
     "keyword": "AI",
-    "title": "agent-migrator 0.1.0",
-    "translated_title": "移民代理0.1.0",
-    "publishedAt": "2026-05-24T00:34:05Z"
+    "title": "muziqa 1.1.3",
+    "translated_title": "圈1.1.3",
+    "publishedAt": "2026-05-25T01:48:00Z"
   },
   {
     "keyword": "AI",
-    "title": "agent-migrator added to PyPI",
-    "translated_title": "代理迁移器添加到 PyPI",
-    "publishedAt": "2026-05-24T00:34:05Z"
+    "title": "kctl-claw 0.8.0",
+    "translated_title": "kctl-爪 0.8.0",
+    "publishedAt": "2026-05-25T01:44:28Z"
   },
   {
     "keyword": "AI",
-    "title": "embodik 0.20.11",
-    "translated_title": "嵌入0.20.11",
-    "publishedAt": "2026-05-24T00:33:20Z"
+    "title": "A Chinese AI Startup Claims It Can Translate Your Pet’s Speech With 95 Percent Accuracy",
+    "translated_title": "一家中国人工智能初创公司声称可以以 95% 的准确度翻译宠物的语音",
+    "publishedAt": "2026-05-25T01:41:49Z"
   },
   {
     "keyword": "AI",
-    "title": "sage-ai-cli 1.20.15",
-    "translated_title": "sage-ai-cli 1.20.15",
-    "publishedAt": "2026-05-24T00:31:04Z"
+    "title": "クオンタムソリューションズ、日本AIDC事業の推進を加速させるため、ファイナンス協業に関する MOU を締結",
+    "translated_title": "Quantum Solutions签署财务合作谅解备忘录，加速推进日本AIDC业务",
+    "publishedAt": "2026-05-25T01:40:36Z"
   },
   {
     "keyword": "AI",
-    "title": "openzim-mcp 2.0.0b12",
-    "translated_title": "openzim-MCP 2.0.0b12",
-    "publishedAt": "2026-05-24T00:30:24Z"
+    "title": "MICRODIA、ワイヤレスヘッドホン・TWS/OWSイヤホン・Bluetoothスピーカーなど音響製品を日本市場向けに提案開始",
+    "translated_title": "MICRODIA开始向日本市场提供无线耳机、TWS/OWS耳机和蓝牙扬声器等音频产品",
+    "publishedAt": "2026-05-25T01:40:36Z"
   },
   {
     "keyword": "AI",
-    "title": "aimfp 1.36.1",
-    "translated_title": "目标 1.36.1",
-    "publishedAt": "2026-05-24T00:28:48Z"
+    "title": "アンドエスティ、GROWTH VERSEのAI Agentを採用し、ECでの“発見型”体験を創出するプロジェクトを開始",
+    "translated_title": "ANDESTY采用GROWTH VERSE的AI Agent，启动项目打造EC“发现型”体验",
+    "publishedAt": "2026-05-25T01:40:36Z"
   },
   {
     "keyword": "AI",
-    "title": "capfence 0.8.3",
-    "translated_title": "卡芬斯 0.8.3",
-    "publishedAt": "2026-05-24T00:28:36Z"
+    "title": "Buzzing stocks: Anupam Rasayan, Bliss GVS, Oil India, NBCC, RVNL, Lupin, Aurobindo Pharma, Goodluck, PNC Infra, Sterlite Tech, CBI and others",
+    "translated_title": "热门股票：Anupam Rasayan、Bliss GVS、Oil India、NBCC、RVNL、Lupin、Aurobindo Pharma、Goodluck、PNC Infra、Sterlite Tech、CBI 等",
+    "publishedAt": "2026-05-25T01:39:23Z"
   },
   {
     "keyword": "AI",
-    "title": "Show HN: A platform to find people to jam on side projects with",
-    "translated_title": "Show HN：一个寻找人们一起参与业余项目的平台",
-    "publishedAt": "2026-05-24T00:28:13Z"
+    "title": "Udaan’s pre-IPO top-up; Tata’s Assam chip hub test run",
+    "translated_title": "Udaan 首次公开募股前充值；塔塔阿萨姆邦芯片集线器试运行",
+    "publishedAt": "2026-05-25T01:35:36Z"
   },
   {
     "keyword": "AI",
-    "title": "Star Wars: Galaxy's Edge – Echoes of the Empire #2 Preview",
-    "translated_title": "星球大战：银河边缘 – 帝国的回声 #2 预览",
-    "publishedAt": "2026-05-24T00:27:08Z"
+    "title": "AI 'Crashes the Party' at This Year's Cannes Film Festival - Including Multi-Year Meta Partnership",
+    "translated_title": "人工智能在今年的戛纳电影节上“搞砸了派对”——包括多年元合作伙伴关系",
+    "publishedAt": "2026-05-25T01:34:00Z"
   },
   {
     "keyword": "AI",
-    "title": "clibo 1.11.0",
-    "translated_title": "clibo 1.11.0",
-    "publishedAt": "2026-05-24T00:23:08Z"
+    "title": "modern-python-guidance 0.1.1",
+    "translated_title": "现代Python指南0.1.1",
+    "publishedAt": "2026-05-25T01:33:39Z"
   },
   {
     "keyword": "AI",
-    "title": "weaverx added to PyPI",
-    "translated_title": "weaverx 添加到 PyPI",
-    "publishedAt": "2026-05-24T00:22:47Z"
+    "title": "Dick’s Offers Athletes Access to an AI-Powered Coach",
+    "translated_title": "Dick's 为运动员提供人工智能教练服务",
+    "publishedAt": "2026-05-25T01:33:04Z"
   },
   {
     "keyword": "AI",
-    "title": "haystack-ai 2.30.0.dev20260524001927",
-    "translated_title": "haystack-ai 2.30.0.dev20260524001927",
-    "publishedAt": "2026-05-24T00:19:53Z"
+    "title": "bettermemory 2.7.1",
+    "translated_title": "更好的记忆2.7.1",
+    "publishedAt": "2026-05-25T01:29:23Z"
   },
   {
     "keyword": "AI",
-    "title": "adclaw 1.0.13",
-    "translated_title": "adclaw 1.0.13",
-    "publishedAt": "2026-05-24T00:16:05Z"
+    "title": "mk-qa-master 0.7.2",
+    "translated_title": "mk-qa-master 0.7.2",
+    "publishedAt": "2026-05-25T01:26:57Z"
   },
   {
     "keyword": "AI",
-    "title": "agntspace 1.97.0",
-    "translated_title": "代理空间1.97.0",
-    "publishedAt": "2026-05-24T00:04:57Z"
+    "title": "Inside Gurgaon’s private equity-backed schools: Why firms are investing and how classrooms are changing",
+    "translated_title": "古尔冈私募股权支持的学校内部：企业为何投资以及课堂如何变化",
+    "publishedAt": "2026-05-25T01:20:27Z"
   },
   {
     "keyword": "AI",
-    "title": "What’s the AI debate at Cannes 2026? #lifestyle",
-    "translated_title": "2026 年戛纳电影节的人工智能辩论是什么？＃生活方式",
-    "publishedAt": "2026-05-24T00:03:34Z"
+    "title": "agentbeacon 0.14.0",
+    "translated_title": "代理信标0.14.0",
+    "publishedAt": "2026-05-25T01:19:30Z"
   },
   {
     "keyword": "AI",
-    "title": "How did Steven Soderbergh defend AI use? #lifestyle",
-    "translated_title": "史蒂文·索德伯格如何捍卫人工智能的使用？＃生活方式",
-    "publishedAt": "2026-05-24T00:03:34Z"
+    "title": "The Clinical Platform Flywheel: What Doximity Teaches Health AI Companies About Products, Data and Partnerships",
+    "translated_title": "临床平台飞轮：Doximity 向健康人工智能公司提供有关产品、数据和合作伙伴关系的指导",
+    "publishedAt": "2026-05-25T01:18:32Z"
   },
   {
     "keyword": "AI",
-    "title": "Why did Stephen Colbert return so fast? #tabloid",
-    "translated_title": "为什么斯蒂芬·科尔伯特回来得这么快？#小报",
-    "publishedAt": "2026-05-24T00:02:27Z"
+    "title": "CNBC Daily Open: Trump keeps the world guessing with mixed messaging on Iran deal",
+    "translated_title": "CNBC 每日开盘：特朗普就伊朗协议传递出混杂的信息，让全世界都在猜测",
+    "publishedAt": "2026-05-25T01:09:58Z"
   },
   {
     "keyword": "AI",
-    "title": "Why did Google break AI Overviews for 'disregard'? #tech",
-    "translated_title": "谷歌为何以“无视”为由打破人工智能概述？#科技",
-    "publishedAt": "2026-05-24T00:02:17Z"
+    "title": "How APAC companies are rewiring their tech for the AI era",
+    "translated_title": "亚太地区公司如何为人工智能时代重塑技术",
+    "publishedAt": "2026-05-25T01:04:00Z"
   },
   {
     "keyword": "AI",
-    "title": "How did Linux get more root access flaws? #tech",
-    "translated_title": "Linux 为何会出现更多 root 访问缺陷？#科技",
-    "publishedAt": "2026-05-24T00:02:17Z"
+    "title": "LA Mayoral Candidate Raman Looks Like a Wet Noodle After CNN Journo Pushes Back on Pratt A.I. Ad Claims",
+    "translated_title": "CNN Journo 回击 Pratt A.I. 后，洛杉矶市长候选人拉曼看起来就像一根湿面条广告声明",
+    "publishedAt": "2026-05-25T01:03:26Z"
   },
   {
     "keyword": "AI",
-    "title": "SpaceX SHOCKING AI Revenue from Elon Web Services and Cursor Will be HUGE for the SPACEX IPO",
-    "translated_title": "SpaceX 令人震惊的 AI 来自 Elon Web Services 和 Cursor 的收入将为 SPACEX IPO 带来巨大收入",
-    "publishedAt": "2026-05-24T00:00:43Z"
+    "title": "Goldman Sachs Predicts AI Agents Will Increase Tech Cash Flow",
+    "translated_title": "高盛预测人工智能代理将增加科技现金流",
+    "publishedAt": "2026-05-25T01:03:24Z"
   },
   {
     "keyword": "AI",
-    "title": "bonito-cli 0.7.4",
-    "translated_title": "美丽-cli 0.7.4",
-    "publishedAt": "2026-05-24T00:00:03Z"
+    "title": "世界初の製法でローカフェインコーヒーを実現。自然界の微生物の力を使用「Wush Wush Botanical Sweet」誕生",
+    "translated_title": "使用世界上第一个制造方法实现低咖啡因咖啡。利用天然微生物的力量诞生“Wush Wush植物甜”",
+    "publishedAt": "2026-05-25T01:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "No signs of industrial degrowth in India; readying plan to spur investments in some sectors: Piyush Goyal",
-    "translated_title": "印度没有出现工业衰退的迹象；准备刺激某些行业投资的计划：Piyush Goyal",
-    "publishedAt": "2026-05-24T00:00:00Z"
+    "title": "From test case to control tower: How DXC and ServiceNow are governing enterprise AI at scale",
+    "translated_title": "从测试用例到控制塔：DXC 和 ServiceNow 如何大规模管理企业 AI",
+    "publishedAt": "2026-05-25T01:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "PM Modi gets invite to White House, holds talks with Marco Rubio",
-    "translated_title": "莫迪总理受邀前往白宫，与马可·卢比奥举行会谈",
-    "publishedAt": "2026-05-24T00:00:00Z"
+    "title": "Richard Dawkins renamed Claude ‘Claudia’ and wondered if it was conscious — and that emotionally charged reaction says something profound about modern AI",
+    "translated_title": "理查德·道金斯将克劳德重新命名为“克劳迪娅”，并想知道它是否有意识——这种情绪激动的反应说明了现代人工智能的深刻含义",
+    "publishedAt": "2026-05-25T01:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "Geometry-aware localization evaluation of grad-CAM for wafer map defect classification",
-    "translated_title": "用于晶圆图缺陷分类的 grad-CAM 的几何感知定位评估",
-    "publishedAt": "2026-05-24T00:00:00Z"
+    "title": "(Topics) Successful Demonstration of Stable, High-Capacity mmWave Communications for Multiple High-Speed Vehicles for the 6G Era",
+    "translated_title": "(专题) 成功演示6G时代多车高速稳定、大容量毫米波通信",
+    "publishedAt": "2026-05-25T01:00:00Z"
   },
   {
     "keyword": "AI",
-    "title": "The Mitochondrial Roots of Fatty Liver — and How Choline Helps",
-    "translated_title": "脂肪肝的线粒体根源——以及胆碱如何发挥作用",
-    "publishedAt": "2026-05-24T00:00:00Z"
+    "title": "Singapore upgrades 2026 exports growth forecast",
+    "translated_title": "新加坡上调2026年出口增长预测",
+    "publishedAt": "2026-05-25T00:55:38Z"
   },
   {
     "keyword": "AI",
-    "title": "Building Pi With Pi",
-    "translated_title": "用 Pi 构建 Pi",
-    "publishedAt": "2026-05-24T00:00:00Z"
+    "title": "attune-ai 7.1.0",
+    "translated_title": "attune-ai 7.1.0",
+    "publishedAt": "2026-05-25T00:50:14Z"
   },
   {
     "keyword": "AI",
-    "title": "Explainable AI for public health surveillance: investigating the persistent crisis of intentional injury mortality (suicide and homicide) in the Americas",
-    "translated_title": "用于公共卫生监测的可解释人工智能：调查美洲持续存在的故意伤害死亡率（自杀和他杀）危机",
-    "publishedAt": "2026-05-24T00:00:00Z"
+    "title": "High risk, high reward S Korea to debut AI-boom linked ETFs",
+    "translated_title": "高风险、高回报 韩国将推出与人工智能繁荣相关的 ETF",
+    "publishedAt": "2026-05-25T00:49:53Z"
   },
   {
     "keyword": "AI",
-    "title": "harness-maker 0.25.1",
-    "translated_title": "线束制造商 0.25.1",
-    "publishedAt": "2026-05-23T23:55:44Z"
+    "title": "maru-deep-pro-search 0.26.7",
+    "translated_title": "丸深专业搜索 0.26.7",
+    "publishedAt": "2026-05-25T00:47:36Z"
   },
   {
     "keyword": "AI",
-    "title": "Corsair has started sourcing Chinese RAM",
-    "translated_title": "海盗船已开始采购中国 RAM",
-    "publishedAt": "2026-05-23T23:55:00Z"
+    "title": "aksara-framework 0.5.49",
+    "translated_title": "脚本框架 0.5.49",
+    "publishedAt": "2026-05-25T00:46:12Z"
   },
   {
     "keyword": "AI",
-    "title": "sage-ai-cli 1.20.14",
-    "translated_title": "sage-ai-cli 1.20.14",
-    "publishedAt": "2026-05-23T23:52:19Z"
+    "title": "kiasumiles-mcp 0.1.3",
+    "translated_title": "kiasumiles-MCP 0.1.3",
+    "publishedAt": "2026-05-25T00:42:51Z"
   },
   {
     "keyword": "AI",
-    "title": "dadaia-workspace 0.1.1",
-    "translated_title": "达达亚工作区 0.1.1",
-    "publishedAt": "2026-05-23T23:50:35Z"
+    "title": "proofctl 0.5.5",
+    "translated_title": "证明ctl 0.5.5",
+    "publishedAt": "2026-05-25T00:42:04Z"
   },
   {
     "keyword": "AI",
-    "title": "Giants OL Takes Shots At Patriots Amid Jaxson Dart Controversy",
-    "translated_title": "巨人队OL在贾克森·达特争议中向爱国者队开枪",
-    "publishedAt": "2026-05-23T23:47:46Z"
+    "title": "agent-bom 0.88.3",
+    "translated_title": "代理-bom 0.88.3",
+    "publishedAt": "2026-05-25T00:41:41Z"
   },
   {
     "keyword": "AI",
-    "title": "pliuz 0.1.1",
-    "translated_title": "加0.1.1",
-    "publishedAt": "2026-05-23T23:42:01Z"
+    "title": "「重説4時間を1.6時間に」不動産営業の全業務にAIを実装する、業務分解型eラーニングを提供開始",
+    "translated_title": "“将4小时减少到1.6小时”开始提供业务分解电子学习，在所有房地产销售业务中实施人工智能",
+    "publishedAt": "2026-05-25T00:40:39Z"
   },
   {
     "keyword": "AI",
-    "title": "pliuz added to PyPI",
-    "translated_title": "pliuz 添加到 PyPI",
-    "publishedAt": "2026-05-23T23:41:56Z"
+    "title": "freebeat.ai、リアルタイムAI音楽ビデオ生成機能を発表。楽曲再生中にビジュアルをライブで演出可能に",
+    "translated_title": "freebeat.ai宣布实时AI音乐视频生成功能。可以在音乐播放的同时现场制作视觉效果",
+    "publishedAt": "2026-05-25T00:40:39Z"
   },
   {
     "keyword": "AI",
-    "title": "toposync-ext-ai 0.2.2",
-    "translated_title": "拓扑同步-ext-ai 0.2.2",
-    "publishedAt": "2026-05-23T23:39:38Z"
+    "title": "Merge branch 'jk/pretty-no-strbuf-presizing'",
+    "translated_title": "合并分支 'jk/pretty-no-strbuf-presizing'",
+    "publishedAt": "2026-05-25T00:40:08Z"
   },
   {
     "keyword": "AI",
-    "title": "entroly 1.0.4",
-    "translated_title": "熵1.0.4",
-    "publishedAt": "2026-05-23T23:38:43Z"
+    "title": "The 8th batch",
+    "translated_title": "第8批",
+    "publishedAt": "2026-05-25T00:40:08Z"
   },
   {
     "keyword": "AI",
-    "title": "myelinmod 0.1.1",
-    "translated_title": "髓鞘质调节剂0.1.1",
-    "publishedAt": "2026-05-23T23:38:20Z"
+    "title": "Merge branch 'ag/sequencer-remove-unused-struct-member'",
+    "translated_title": "合并分支 'ag/sequencer-remove-unused-struct-member'",
+    "publishedAt": "2026-05-25T00:40:07Z"
   },
   {
     "keyword": "AI",
-    "title": "helix-tel 2.0.1",
-    "translated_title": "螺旋电话 2.0.1",
-    "publishedAt": "2026-05-23T23:37:37Z"
+    "title": "Merge branch 'mm/diff-U-takes-no-negative-values'",
+    "translated_title": "合并分支 'mm/diff-U-takes-no-negative-values'",
+    "publishedAt": "2026-05-25T00:40:07Z"
   },
   {
     "keyword": "AI",
-    "title": "helix-tel 2.0.0",
-    "translated_title": "螺旋电话 2.0.0",
-    "publishedAt": "2026-05-23T23:25:41Z"
+    "title": "Merge branch 'dk/doc-exclude-is-shared-per-repo'",
+    "translated_title": "合并分支 'dk/doc-exclude-is-shared-per-repo'",
+    "publishedAt": "2026-05-25T00:40:07Z"
   },
   {
     "keyword": "AI",
-    "title": "helix-tel added to PyPI",
-    "translated_title": "helix-tel 添加到 PyPI",
-    "publishedAt": "2026-05-23T23:25:41Z"
+    "title": "Merge branch 'kk/paint-down-to-common-optim'",
+    "translated_title": "合并分支 'kk/paint-down-to-common-optim'",
+    "publishedAt": "2026-05-25T00:40:07Z"
   },
   {
     "keyword": "AI",
-    "title": "widdx 1.16.3",
-    "translated_title": "维德克斯 1.16.3",
-    "publishedAt": "2026-05-23T23:24:44Z"
+    "title": "ai-edge-quantizer-nightly 0.8.0.dev20260525",
+    "translated_title": "ai-edge-quantizer-nightly 0.8.0.dev20260525",
+    "publishedAt": "2026-05-25T00:38:54Z"
   },
   {
     "keyword": "AI",
-    "title": "Digital trust is Africa’s new tech lifestyle currency",
-    "translated_title": "数字信任是非洲新技术生活方式货币",
-    "publishedAt": "2026-05-23T23:24:40Z"
+    "title": "g8-mcp-server 0.9.0",
+    "translated_title": "g8-mcp-服务器 0.9.0",
+    "publishedAt": "2026-05-25T00:37:21Z"
   },
   {
     "keyword": "能源",
