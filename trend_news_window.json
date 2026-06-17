@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "neamt 0.1.0",
+    "translated_title": "德语0.1.0",
+    "publishedAt": "2026-06-16T03:31:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "neamt added to PyPI",
+    "translated_title": "neamt 添加到 PyPI",
+    "publishedAt": "2026-06-16T03:31:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "HCL Tech shares in focus after buying stake in Sarvam AI for Rs 1,427 crore",
+    "translated_title": "以 142.7 亿卢比收购 Sarvam AI 股份后，HCL Tech 股票成为焦点",
+    "publishedAt": "2026-06-16T03:30:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AMD is due to release a pair of CPUs based on an architecture released over 7 years ago, but are they interesting?",
+    "translated_title": "AMD 即将发布两款基于 7 年前发布的架构的 CPU，但它们有趣吗？",
+    "publishedAt": "2026-06-16T03:30:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Don't wait for FIIs: Nippon MF CIO Sailesh Raj Bhan on why market will rise before foreign money returns",
+    "translated_title": "不要等待外国投资者：日本 MF 首席信息官 Sailesh Raj Bhan 谈为何市场会在外国资金回流之前上涨",
+    "publishedAt": "2026-06-16T03:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Cybersecurity Vets Protest 'Dangerous' US Government Ban On Anthropic's Most Powerful Models",
+    "translated_title": "网络安全资深人士抗议美国政府对 Anthropic 最强大模型的“危险”禁令",
+    "publishedAt": "2026-06-16T03:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ETMarkets Smart Talk | Defence and electrification are multi-year structural themes for India: Prateek Agrawal",
+    "translated_title": "ETMarkets 智能讲座 |Prateek Agrawal：国防和电气化是印度多年的结构性主题",
+    "publishedAt": "2026-06-16T03:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mobileguard 1.0.0",
+    "translated_title": "移动卫士1.0.0",
+    "publishedAt": "2026-06-16T03:29:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mobileguard added to PyPI",
+    "translated_title": "mobileguard 添加到 PyPI",
+    "publishedAt": "2026-06-16T03:29:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Kioxia surpasses Toyota, eyes M&A push in face of AI boom",
+    "translated_title": "铠侠超越丰田，面对人工智能热潮着眼并购",
+    "publishedAt": "2026-06-16T03:28:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Facebookが新しい「AIモード」を導入、プラットフォーム全体から公開情報を取得する",
+    "translated_title": "Facebook推出新的“人工智能模式”，从整个平台提取公共信息",
+    "publishedAt": "2026-06-16T03:28:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "voxkage 1.1.9",
+    "translated_title": "蜡饼1.1.9",
+    "publishedAt": "2026-06-16T03:27:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Watch The Moon Cover Venus in a Rare Daytime Sky Event This Week",
+    "translated_title": "本周观看月球在白天罕见的天空事件中覆盖金星",
+    "publishedAt": "2026-06-16T03:26:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "thedriveai 1.4.0",
+    "translated_title": "驱动器 1.4.0",
+    "publishedAt": "2026-06-16T03:25:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI demands an identity reset",
+    "translated_title": "人工智能要求重置身份",
+    "publishedAt": "2026-06-16T03:24:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Corgi files for MANGOS ETF targeting AI leaders Meta, Google, Nvidia",
+    "translated_title": "Corgi 向 MANGOS ETF 提交文件，瞄准人工智能领导者 Meta、谷歌、Nvidia",
+    "publishedAt": "2026-06-16T03:20:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nbrag 0.6.0",
+    "translated_title": "布拉格0.6.0",
+    "publishedAt": "2026-06-16T03:18:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "soulacp 0.1.7",
+    "translated_title": "苏拉普0.1.7",
+    "publishedAt": "2026-06-16T03:18:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Excel's Copilot finally tackles the nightmare of sorting through your open-ended survey data",
+    "translated_title": "Excel 的 Copilot 终于解决了对开放式调查数据进行排序的噩梦",
+    "publishedAt": "2026-06-16T03:17:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aicorkit 0.1.4",
+    "translated_title": "阿基特0.1.4",
+    "publishedAt": "2026-06-16T03:15:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "resolve-nvs-mcp 0.1.0",
+    "translated_title": "解析-nvs-mcp 0.1.0",
+    "publishedAt": "2026-06-16T03:14:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "resolve-nvs-mcp added to PyPI",
+    "translated_title": "解析-nvs-mcp 添加到 PyPI",
+    "publishedAt": "2026-06-16T03:14:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dyadcore-mem 0.2.1",
+    "translated_title": "dyadcore-me 0.2.1",
+    "publishedAt": "2026-06-16T03:12:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "2sio 1.46.0",
+    "translated_title": "2sio 1.46.0",
+    "publishedAt": "2026-06-16T03:11:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Theorists",
+    "translated_title": "理论家",
+    "publishedAt": "2026-06-16T03:10:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Fact Check: Folarin Balogun Did NOT Unveil Charlie Kirk Shirt After Scoring For U.S. at The World Cup",
+    "translated_title": "事实核查：福拉林·巴洛贡 (Folarin Balogun) 在世界杯上为美国队进球后并未揭晓查理·柯克 (Charlie Kirk) 球衣",
+    "publishedAt": "2026-06-16T03:08:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Amazon EC2 P6-B200 instances are now available in the Asia Pacific (Mumbai) Region",
+    "translated_title": "Amazon EC2 P6-B200 实例现已在亚太地区（孟买）区域推出",
+    "publishedAt": "2026-06-16T03:08:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dyadcore-mem added to PyPI",
+    "translated_title": "dyadcore-mem 添加到 PyPI",
+    "publishedAt": "2026-06-16T03:07:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dyadcore-mem 0.2.0",
+    "translated_title": "dyadcore-me 0.2.0",
+    "publishedAt": "2026-06-16T03:07:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "alpi-agent 0.9.10",
+    "translated_title": "alpi-代理 0.9.10",
+    "publishedAt": "2026-06-16T03:04:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "simmer-sdk 0.19.2",
+    "translated_title": "simmer-sdk 0.19.2",
+    "publishedAt": "2026-06-16T03:02:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "common-ai 0.1.21",
+    "translated_title": "通用人工智能 0.1.21",
+    "publishedAt": "2026-06-16T03:00:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ミエルカGEO・ミエルカSEO「AI検索シェアモニタリング」にて「週次計測」を提供開始",
+    "translated_title": "Mieruka GEO/Mieruka SEO“人工智能搜索份额监控”现在提供“每周测量”",
+    "publishedAt": "2026-06-16T03:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "New Crypto: Pepeto Confirms DeFi Progress Following Shiba Inu Success While Tom Lee's Ethereum Price Prediction Targets $12,000",
+    "translated_title": "新加密货币：继 Shiba Inu 成功之后，Pepeto 确认 DeFi 取得进展，而 Tom Lee 的以太坊价格预测目标为 12,000 美元",
+    "publishedAt": "2026-06-16T03:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Supply security over cost: Google leads CSP charge to diversify InP substrate sourcing",
+    "translated_title": "供应安全高于成本：Google 引领 CSP 费用以实现 InP 衬底采购多元化",
+    "publishedAt": "2026-06-16T02:59:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Inside the fight over Claude Mythos 5",
+    "translated_title": "克劳德神话 5 之争的内部",
+    "publishedAt": "2026-06-16T02:59:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mindroom 2026.6.153",
+    "translated_title": "心灵空间2026.6.153",
+    "publishedAt": "2026-06-16T02:59:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pawnlogic 0.1.1",
+    "translated_title": "当当逻辑0.1.1",
+    "publishedAt": "2026-06-16T02:59:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "blaxx-memory 0.1.0",
+    "translated_title": "blaxx-内存 0.1.0",
+    "publishedAt": "2026-06-16T02:58:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "blaxx-memory added to PyPI",
+    "translated_title": "blaxx-内存添加到 PyPI",
+    "publishedAt": "2026-06-16T02:58:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "optix-ai added to PyPI",
+    "translated_title": "optix-ai 添加到 PyPI",
+    "publishedAt": "2026-06-16T02:58:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "optix-ai 0.1.0",
+    "translated_title": "optix-ai 0.1.0",
+    "publishedAt": "2026-06-16T02:58:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mindroom 2026.6.152",
+    "translated_title": "心灵空间2026.6.152",
+    "publishedAt": "2026-06-16T02:58:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Soars 13.8% on AI Sector Rally",
+    "translated_title": "人工智能板块上涨，股价飙升 13.8%",
+    "publishedAt": "2026-06-16T02:57:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Gina Rinehart just made US$425 million from SpaceX shares in 2 days",
+    "translated_title": "吉娜·莱因哈特 (Gina Rinehart) 两天内从 SpaceX 股票中赚了 4.25 亿美元",
+    "publishedAt": "2026-06-16T02:56:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hyper-sentinel 0.8.8",
+    "translated_title": "超级哨兵0.8.8",
+    "publishedAt": "2026-06-16T02:53:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Popular 'Ice' Vape Flavors May Have a Hidden Effect on Your Heart",
+    "translated_title": "流行的“冰”电子烟口味可能对你的心脏有隐藏的影响",
+    "publishedAt": "2026-06-16T02:53:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SurvivalBlog Readers’ & Editors’ Snippets",
+    "translated_title": "生存博客读者和编辑的片段",
+    "publishedAt": "2026-06-16T02:53:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ET Graphics: Sorry, your passport decides your AI privileges",
+    "translated_title": "ET Graphics：抱歉，你的护照决定你的 AI 权限",
+    "publishedAt": "2026-06-16T02:52:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lore-ai 0.1.5",
+    "translated_title": "绝杀人工智能 0.1.5",
+    "publishedAt": "2026-06-16T02:52:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The New Ringgit Savvy ‘AI Neko Sensei’ Is Here To Help Solve Your Financial Puzzle",
+    "translated_title": "新的精通令吉的“AI Neko Sensei”来帮助解决您的财务难题",
+    "publishedAt": "2026-06-16T02:51:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "MiMo Code Is the Open Source Answer to Claude Code",
+    "translated_title": "MiMo 代码是 Claude 代码的开源答案",
+    "publishedAt": "2026-06-16T02:51:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Monthly Interview: Margaret Johnson",
+    "translated_title": "每月专访：玛格丽特·约翰逊",
+    "publishedAt": "2026-06-16T02:50:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dhee 7.2.3",
+    "translated_title": "和7.2.3",
+    "publishedAt": "2026-06-16T02:50:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "China monthly retail sales fall for first time in over 3 years",
+    "translated_title": "中国月度零售额三年多来首次下降",
+    "publishedAt": "2026-06-16T02:49:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UROVO DT610 Pro: The Rugged AI Terminal Redefining Frontline Productivity",
+    "translated_title": "UROVO DT610 Pro：坚固耐用的人工智能终端，重新定义一线生产力",
+    "publishedAt": "2026-06-16T02:48:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UROVO DT610 Pro: The Rugged AI Terminal Redefining Frontline Productivity",
+    "translated_title": "UROVO DT610 Pro：坚固耐用的人工智能终端，重新定义一线生产力",
+    "publishedAt": "2026-06-16T02:48:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sello 0.1.13",
+    "translated_title": "密封0.1.13",
+    "publishedAt": "2026-06-16T02:47:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "equimed-dss 1.5.3",
+    "translated_title": "Equimed-DSS 1.5.3",
+    "publishedAt": "2026-06-16T02:45:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "odoo-addon-ai-oca-mcp 16.0.1.0.0.6",
+    "translated_title": "odoo-addon-ai-oca-mcp 16.0.1.0.0.6",
+    "publishedAt": "2026-06-16T02:42:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "odoo-addon-ai-oca-bridge-document-page 16.0.2.0.0.1",
+    "translated_title": "odoo-addon-ai-oca-bridge-文档页 16.0.2.0.0.1",
+    "publishedAt": "2026-06-16T02:42:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "odoo-addon-ai-tool 16.0.1.0.0.6",
+    "translated_title": "odoo-addon-ai-工具 16.0.1.0.0.6",
+    "publishedAt": "2026-06-16T02:42:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SpaceX raises a record $75 billion in its Nasdaq debut, with rockets, satellites and AI compute named as where the money goes",
+    "translated_title": "SpaceX在纳斯达克首次亮相筹集了创纪录的750亿美元资金，火箭、卫星和人工智能计算被称为资金流向",
+    "publishedAt": "2026-06-16T02:40:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI検索の勝者は店舗ではなかった。5業種調査で見えた「業界インフラが推薦を支配する時代」",
+    "translated_title": "人工智能搜索的赢家不是商店。一项针对五个行业的调查揭示了一个行业基础设施主导推荐的时代。",
+    "publishedAt": "2026-06-16T02:40:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anaplan、企業の意思決定を推進する最新の AI を活用したイノベーションとアプリケーションを発表",
+    "translated_title": "Anaplan 推出最新的人工智能创新和应用程序，以推动企业决策",
+    "publishedAt": "2026-06-16T02:40:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "equimed-dss 1.5.2",
+    "translated_title": "Equimed-DSS 1.5.2",
+    "publishedAt": "2026-06-16T02:38:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-booster 0.2.28",
+    "translated_title": "代理助推器 0.2.28",
+    "publishedAt": "2026-06-16T02:37:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump’s AI oversight promise lasts only 2 weeks",
+    "translated_title": "特朗普的人工智能监督承诺仅持续两周",
+    "publishedAt": "2026-06-16T02:37:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "story-lifecycle 0.11.4",
+    "translated_title": "故事生命周期 0.11.4",
+    "publishedAt": "2026-06-16T02:36:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lfx 1.11.0.dev9",
+    "translated_title": "lfx 1.11.0.dev9",
+    "publishedAt": "2026-06-16T02:35:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Light at the end of the tunnel? Gautam Shah sees Nifty eyeing 25,500, bets on smallcaps, pharma and Adani stocks",
+    "translated_title": "隧道尽头有光明吗？Gautam Shah 认为 Nifty 着眼于 25,500 点，押注小型股、制药和阿达尼股票",
+    "publishedAt": "2026-06-16T02:31:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-booster 0.2.27",
+    "translated_title": "代理助推器 0.2.27",
+    "publishedAt": "2026-06-16T02:30:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Java News Roundup: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle",
+    "translated_title": "Java 新闻综述：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+    "publishedAt": "2026-06-16T02:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "securevector-ai-monitor 4.7.1",
+    "translated_title": "securevector-ai-监视器 4.7.1",
+    "publishedAt": "2026-06-16T02:29:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Salesforce agrees to buy Fin in US$3.6 billion AI customer service deal",
+    "translated_title": "Salesforce 同意以 36 亿美元的人工智能客户服务交易收购 Fin",
+    "publishedAt": "2026-06-16T02:29:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentcrew-ai 0.16.7",
+    "translated_title": "Agentcrew-ai 0.16.7",
+    "publishedAt": "2026-06-16T02:29:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "blockfill 1.1.1",
+    "translated_title": "块填充1.1.1",
+    "publishedAt": "2026-06-16T02:29:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "simba-ai 0.8.2",
+    "translated_title": "辛巴人工智能 0.8.2",
+    "publishedAt": "2026-06-16T02:27:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Delhi techie found dead in Mussoorie homestay; husband’s night-out claim, naked body and booze raise questions",
+    "translated_title": "德里技术人员被发现死于穆苏里寄宿家庭；丈夫夜间外出声称赤裸身体和酗酒引发质疑",
+    "publishedAt": "2026-06-16T02:27:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-assembly 0.0.1b3",
+    "translated_title": "代理程序集 0.0.1b3",
+    "publishedAt": "2026-06-16T02:26:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ethan-agent 0.1.2",
+    "translated_title": "乙烷剂 0.1.2",
+    "publishedAt": "2026-06-16T02:26:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-booster 0.2.26",
+    "translated_title": "代理助推器 0.2.26",
+    "publishedAt": "2026-06-16T02:26:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The pitch for a European AI ‘Plan B’",
+    "translated_title": "欧洲人工智能“B 计划”的宣传",
+    "publishedAt": "2026-06-16T02:26:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+    "translated_title": "人类仍与白宫就《克劳德寓言5》发生争执",
+    "publishedAt": "2026-06-16T02:26:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "X-Men United #4 Preview: Mutant Relationship Drama and D&D",
+    "translated_title": "X 战警联合 #4 预览：变种人关系剧和 D&D",
+    "publishedAt": "2026-06-16T02:26:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "notte 1.8.23",
+    "translated_title": "晚上 1.8.23",
+    "publishedAt": "2026-06-16T02:25:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "transpilatron 10.0.0",
+    "translated_title": "转译器 10.0.0",
+    "publishedAt": "2026-06-16T02:23:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Speediance Becomes Official Smart Fitness Equipment Partner of ATHX",
+    "translated_title": "Speediance成为ATHX官方智能健身器材合作伙伴",
+    "publishedAt": "2026-06-16T02:22:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Washington Post on the EU’s DMA Folly",
+    "translated_title": "《华盛顿邮报》评论欧盟 DMA 的愚蠢行为",
+    "publishedAt": "2026-06-16T02:20:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nvidia reportedly tightens grip on AI inference market despite growing competition",
+    "translated_title": "据报道，尽管竞争日益激烈，英伟达仍加强了对人工智能推理市场的控制",
+    "publishedAt": "2026-06-16T02:19:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Smartphone Free Childhood puts 2026 twist on a 90s video shop",
+    "translated_title": "《无智能手机童年》给 90 年代音像店带来了 2026 年的变化",
+    "publishedAt": "2026-06-16T02:17:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentgrep 0.1.0a23",
+    "translated_title": "代理grep 0.1.0a23",
+    "publishedAt": "2026-06-16T02:16:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Fieldays 2026: Indian agribusinesses look to benefit from New Zealand innovations",
+    "translated_title": "Fieldays 2026：印度农业企业希望从新西兰创新中受益",
+    "publishedAt": "2026-06-16T02:15:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "chatybot 0.5.2",
+    "translated_title": "聊天机器人 0.5.2",
+    "publishedAt": "2026-06-16T02:13:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "immunity-agent 1.7.0",
+    "translated_title": "免疫剂1.7.0",
+    "publishedAt": "2026-06-16T02:13:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hol-guard 2.0.740",
+    "translated_title": "霍尔守卫 2.0.740",
+    "publishedAt": "2026-06-16T02:13:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "China economy weakens further in May as retail sales post first drop in over three years",
+    "translated_title": "中国经济5月进一步疲软，零售额三年多来首次下降",
+    "publishedAt": "2026-06-16T02:12:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Deepin: (中文) WHLUG回顾 | 从Agent OS到Vibe Coding实战，AI时代开发者的新篇章才刚刚开启",
+    "translated_title": "Deepin: (中文) WHLUG回顾 | 从Agent OS到Vibe Coding实战，AI时代开发者的新篇章才刚刚开启",
+    "publishedAt": "2026-06-16T02:12:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DA Davidson Boosts Oracle (ORCL) Price Target Following Q4 Report",
+    "translated_title": "DA Davidson 在第四季度报告后提高了 Oracle (ORCL) 的价格目标",
+    "publishedAt": "2026-06-16T02:12:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Stocks in news: HCL Tech, Bharti Airtel, SBI, Adani Enterprises, GMR Airports",
+    "translated_title": "新闻股票：HCL Tech、Bharti Airtel、SBI、Adani Enterprises、GMR Airports",
+    "publishedAt": "2026-06-16T02:12:16Z"
+  },
+  {
     "keyword": "能源",
     "title": "JVNDB-2026-017358:networktocodeのnautobotにおける複数の脆弱性",
     "translated_title": "JVNDB-2026-017358：networktocode 的 nautobot 中存在多个漏洞",
