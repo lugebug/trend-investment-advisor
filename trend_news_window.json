@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "South Korea making its own security-centric AI model",
+    "translated_title": "韩国正在制定自己的以安全为中心的人工智能模型",
+    "publishedAt": "2026-07-17T01:56:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Climbing mortgage rates, brain health, celebrity ‘sex pass’: Catch up on the day’s stories",
+    "translated_title": "抵押贷款利率攀升、大脑健康、名人“性通行证”：了解当天的故事",
+    "publishedAt": "2026-07-17T01:55:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI電話受付「ロカオプデスク」、Webで申込から利用開始まで完結するセルフサーブ申込を提供開始",
+    "translated_title": "AI电话接待“Loca Op Desk”开始提供自助申请，从申请到开始使用均可在线完成",
+    "publishedAt": "2026-07-17T01:50:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【新刊案内】ナフサショック完全シナリオ ～ AI・半導体・EV時代に始まる化学産業大再編 ～　 発行：（株）シーエムシー・リサーチ",
+    "translated_title": "【新发表信息】石脑油冲击的完整情景～人工智能、半导体、EV时代开始的化学工业大重组～发表：CMC Research Co., Ltd.",
+    "publishedAt": "2026-07-17T01:50:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memini-ai-dev 1.0.4",
+    "translated_title": "记住-ai-dev 1.0.4",
+    "publishedAt": "2026-07-17T01:49:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "raidex 0.1.4",
+    "translated_title": "雷迪克斯 0.1.4",
+    "publishedAt": "2026-07-17T01:47:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Infinix HOT 70 Series Review: Designed Like a Flagship, Not Priced Like One",
+    "translated_title": "Infinix HOT 70 系列评测：设计像旗舰，价格却不像旗舰",
+    "publishedAt": "2026-07-17T01:45:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Singapore’s key exports rise 20.7% in June, miss forecasts despite strong AI demand",
+    "translated_title": "尽管人工智能需求强劲，新加坡 6 月主要出口增长 20.7%，未达预期",
+    "publishedAt": "2026-07-17T01:45:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "FreeBSD Released the Most Security Advisories in Project History in June 2026",
+    "translated_title": "FreeBSD 在 2026 年 6 月发布了项目历史上最多的安全公告",
+    "publishedAt": "2026-07-17T01:43:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Element Labs、オープンモデルを利用しコーディングや文章作成などを行えるAIエージェント「LM Studio Bionic」をリリース。",
+    "translated_title": "Element Labs 发布了“LM Studio Bionic”，这是一种人工智能代理，可以使用开放模型执行编码和文本创建。",
+    "publishedAt": "2026-07-17T01:42:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "『【再放送】AI普及で変わる、BtoBリード獲得戦略』というテーマのウェビナーを開催",
+    "translated_title": "举办主题为“[转播]BtoB 领先收购策略随着人工智能的传播而改变”的网络研讨会",
+    "publishedAt": "2026-07-17T01:41:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI駆動開発フレームワーク「LAF」提供開始 ― 株式会社LEGAREA、低コスト・高品質を両立する受託開発の新基盤を発表",
+    "translated_title": "推出人工智能驱动的开发框架“LAF” - LEGAREA Co., Ltd.宣布推出新的合约开发平台，实现低成本和高品质",
+    "publishedAt": "2026-07-17T01:41:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【人事研修担当者様向けウェビナー】2026年8月4日（火）開催　　　AI時代になぜ「人の英語力」が必要なのか？",
+    "translated_title": "【人才培养人员网络研讨会】2026年8月4日星期二举行 AI时代为何需要“人类英语能力”？",
+    "publishedAt": "2026-07-17T01:41:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "フォーエム、新たに2名の執行役員が就任",
+    "translated_title": "4M 任命两名新执行官",
+    "publishedAt": "2026-07-17T01:41:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Agent開発のGROWTH VERSE、東京本社を約1.6倍に増床",
+    "translated_title": "AI Agent 开发的 GROWTH VERSE 将东京总部扩大约 1.6 倍",
+    "publishedAt": "2026-07-17T01:41:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "argosvix 0.5.5",
+    "translated_title": "阿尔戈斯维克斯 0.5.5",
+    "publishedAt": "2026-07-17T01:40:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【日本初】世界的権威Dr.ジョン・ディマティーニが、佐賀の公立高校で講演 ─ 全校生徒600名＋全国へYouTubeライブ配信",
+    "translated_title": "【日本首例】世界知名权威Dr. John DeMartini在佐贺公立高中演讲 - YouTube向全600名学生直播+全国",
+    "publishedAt": "2026-07-17T01:39:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lfx 1.11.0.dev46",
+    "translated_title": "lfx 1.11.0.dev46",
+    "publishedAt": "2026-07-17T01:38:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bingo-ai 6.2.160",
+    "translated_title": "宾果游戏你有 6.2.160",
+    "publishedAt": "2026-07-17T01:38:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "raidex 0.1.3",
+    "translated_title": "雷迪克斯 0.1.3",
+    "publishedAt": "2026-07-17T01:37:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+    "translated_title": "埃隆·马斯克的孟菲斯人工智能帝国是数据中心反弹的中心",
+    "publishedAt": "2026-07-17T01:37:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Stock Gets Fair Value Boost As Analysts Raise AI And Security Targets",
+    "translated_title": "随着分析师提高人工智能和安全目标，股票公允价值上涨",
+    "publishedAt": "2026-07-17T01:37:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Jabil opens automated logistics hub in Penang to support global supply chains",
+    "translated_title": "捷普在槟城开设自动化物流中心以支持全球供应链",
+    "publishedAt": "2026-07-17T01:37:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’",
+    "translated_title": "富士通和日本领先的机器人公司将英伟达技术用于“物理人工智能”",
+    "publishedAt": "2026-07-17T01:37:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kumoai 3.0.0.dev202607161833",
+    "translated_title": "云爱3.0.0.dev202607161833",
+    "publishedAt": "2026-07-17T01:36:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Global Times: 300 plus AI products set to make their global debuts at WAIC with strong focus on practical applications",
+    "translated_title": "环球时报：300余款人工智能产品全球首发 聚焦实际应用",
+    "publishedAt": "2026-07-17T01:34:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zra-mcp 0.4.5",
+    "translated_title": "zra-MCP 0.4.5",
+    "publishedAt": "2026-07-17T01:32:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Instacart Acquires Arpalus to Move Intelligence In Store",
+    "translated_title": "Instacart 收购 Arpalus 以转移商店情报",
+    "publishedAt": "2026-07-17T01:32:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "話題のエージェント型AIを解説本著者から学ぶ！『Claude Code入門』オープン講座を2026年8月に2日程で開催決定",
+    "translated_title": "向本书作者了解代理型AI的主题！2026年8月举办“克劳德代码入门”公开课，为期2天",
+    "publishedAt": "2026-07-17T01:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Databricks secures funding round at $188 billion valuation",
+    "translated_title": "Databricks 完成一轮融资，估值达 1880 亿美元",
+    "publishedAt": "2026-07-17T01:28:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "San Francisco’s crumbling buildings are creating $130K jobs",
+    "translated_title": "旧金山摇摇欲坠的建筑创造了 13 万美元的就业机会",
+    "publishedAt": "2026-07-17T01:26:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "microscopy-llm-profiler 0.3.0",
+    "translated_title": "显微镜-llm-轮廓仪 0.3.0",
+    "publishedAt": "2026-07-17T01:26:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Investor sentiment on China technology hardware hits four-year low as chip rally unravels",
+    "translated_title": "随着芯片涨势瓦解，投资者对中国科技硬件的信心跌至四年低点",
+    "publishedAt": "2026-07-17T01:25:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hyodo 3.1.8",
+    "translated_title": "孝度3.1.8",
+    "publishedAt": "2026-07-17T01:25:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Potts Law Firm Announces Investigation Following Arrest of Bentonville Photographer on Allegations of AI-Generated Child Sexual Abuse Material",
+    "translated_title": "Potts 律师事务所宣布对本顿维尔摄影师因人工智能生成儿童性虐待材料的指控而被捕进行调查",
+    "publishedAt": "2026-07-17T01:25:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "stapel-translate 0.5.1",
+    "translated_title": "堆栈翻译 0.5.1",
+    "publishedAt": "2026-07-17T01:23:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Supervest Explores How AI Could Reshape Private Credit Investing",
+    "translated_title": "Supervest 探索人工智能如何重塑私人信贷投资",
+    "publishedAt": "2026-07-17T01:23:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "gristle 0.5.0",
+    "translated_title": "软骨0.5.0",
+    "publishedAt": "2026-07-17T01:22:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Banco Bilbao Viscaya Argentaria Maps Growth Risks as Spain, Mexico and Turkey Diverge",
+    "translated_title": "毕尔巴鄂比斯开银行绘制西班牙、墨西哥和土耳其分歧的增长风险图",
+    "publishedAt": "2026-07-17T01:22:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Chip-Stock Slide Isn’t Over. The AI Trade Is Still Under Pressure. But ‘No One Is Short’",
+    "translated_title": "芯片库存下滑尚未结束。人工智能贸易仍面临压力。但“没有人矮”",
+    "publishedAt": "2026-07-17T01:22:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SoftBank sinks 8% as Japanese chip stocks track Wall Street AI sell-off",
+    "translated_title": "日本芯片股追随华尔街人工智能抛售潮，软银股价下跌 8%",
+    "publishedAt": "2026-07-17T01:21:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "loopy-loop 0.7.0",
+    "translated_title": "循环 0.7.0",
+    "publishedAt": "2026-07-17T01:21:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Moonshot’s Kimi K3 pushes Chinese AI into Fable-level territory",
+    "translated_title": "Moonshot的Kimi K3将中国人工智能推向寓言级领域",
+    "publishedAt": "2026-07-17T01:21:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zra-mcp 0.4.4",
+    "translated_title": "zra-MCP 0.4.4",
+    "publishedAt": "2026-07-17T01:20:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Moonshot AI unveils Kimi K3, the largest open-weight AI model at 2.7 trillion parameters",
+    "translated_title": "Moonshot AI 推出 Kimi K3，最大的开放权重 AI 模型，拥有 2.7 万亿个参数",
+    "publishedAt": "2026-07-17T01:19:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "3tears-models 0.17.3",
+    "translated_title": "3tears-模型 0.17.3",
+    "publishedAt": "2026-07-17T01:18:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "gladekit-mcp 0.7.15",
+    "translated_title": "Gladekit-MCP 0.7.15",
+    "publishedAt": "2026-07-17T01:18:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: NexSub – 100% offline real-time translation tool using local Whisper",
+    "translated_title": "Show HN：NexSub – 使用本地 Whisper 的 100% 离线实时翻译工具",
+    "publishedAt": "2026-07-17T01:16:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Tim Ferriss Show Transcripts: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday” (#875)",
+    "translated_title": "蒂姆·费里斯 (Tim Ferriss) 秀文字记录：随机秀 — 蒂姆 (Tim) 和凯文 (Kevin) 谈论静修、死亡率、人工智能预测、补充剂、（几乎）50 岁时攀岩，以及不等待“有一天”(#875)",
+    "publishedAt": "2026-07-17T01:13:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bingo-ai 6.2.159",
+    "translated_title": "宾果游戏你有 6.2.159",
+    "publishedAt": "2026-07-17T01:13:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "show hn: mobile-first ide with live testing. no laptop",
+    "translated_title": "show hn：带有实时测试的移动优先 IDE。没有笔记本电脑",
+    "publishedAt": "2026-07-17T01:12:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "EU lags in critical raw materials as AI, EV and SDV demand rises",
+    "translated_title": "随着人工智能、电动汽车和 SDV 需求的增长，欧盟在关键原材料方面落后",
+    "publishedAt": "2026-07-17T01:11:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Moonshot’s Kimi K3 pushes Chinese AI into Fable-level territory",
+    "translated_title": "Moonshot的Kimi K3将中国人工智能推向寓言级领域",
+    "publishedAt": "2026-07-17T01:10:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Sensex today | Stock Market Live: Stock to buy today: HEG",
+    "translated_title": "今日Sensex |股市实时：今日买入股票：HEG",
+    "publishedAt": "2026-07-17T01:09:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "raidex 0.1.2",
+    "translated_title": "雷迪克斯 0.1.2",
+    "publishedAt": "2026-07-17T01:09:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "South Korea’s chip boom drives record growth and forces the central bank’s hand",
+    "translated_title": "韩国芯片热潮推动创纪录增长并迫使央行出手",
+    "publishedAt": "2026-07-17T01:09:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenJarvis 1.0.4.dev903",
+    "translated_title": "OpenJarvis 1.0.4.dev903",
+    "publishedAt": "2026-07-17T01:09:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Netflix Used Generative AI in Almost 300 Titles",
+    "translated_title": "Netflix 在近 300 部影片中使用了生成式 AI",
+    "publishedAt": "2026-07-17T01:08:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "astromesh 0.33.0",
+    "translated_title": "星网 0.33.0",
+    "publishedAt": "2026-07-17T01:08:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SoftBank sinks 8% as Japanese chip stocks track Wall Street AI sell-off",
+    "translated_title": "日本芯片股追随华尔街人工智能抛售潮，软银股价下跌 8%",
+    "publishedAt": "2026-07-17T01:07:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
+    "translated_title": "Alphabet 股价下跌，因报告称其最强大的人工智能模型 Gemini 3.5 Pro 被推迟",
+    "publishedAt": "2026-07-17T01:05:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI-driven chip price increases put automakers on alert as shortages stay limited",
+    "translated_title": "由于短缺仍然有限，人工智能驱动的芯片价格上涨使汽车制造商保持警惕",
+    "publishedAt": "2026-07-17T01:04:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google Kills Custom Search API on Jan 1, 2027",
+    "translated_title": "Google 将于 2027 年 1 月 1 日终止自定义搜索 API",
+    "publishedAt": "2026-07-17T01:03:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UnitedHealth Says AI Now Runs Every Function of Its Business",
+    "translated_title": "UnitedHealth 表示人工智能现在运行其业务的所有功能",
+    "publishedAt": "2026-07-17T01:01:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UnitedHealth’s AI Bet Paid Off. Now It Is Selling the Playbook",
+    "translated_title": "UnitedHealth 的 AI 赌注得到了回报。现在它正在出售剧本",
+    "publishedAt": "2026-07-17T01:01:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "olav 0.22.1",
+    "translated_title": "奥拉夫0.22.1",
+    "publishedAt": "2026-07-17T01:00:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "PKSHA Algorithm Fund、大手企業開拓支援AI「Sales Retriever」を提供するSales Retriever株式会社へ出資",
+    "translated_title": "PKSHA算法基金投资销售检索器有限公司，提供AI“销售检索器”，支持各大企业发展",
+    "publishedAt": "2026-07-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "スケールアップソリューションズと「AXによる企業変革」推進に向けた業務提携契約を締結しました",
+    "translated_title": "我们与 Scale Up Solutions 签署业务合作协议，推动“通过 AX 实现企业转型”",
+    "publishedAt": "2026-07-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "合作株式会社、設立6周年。個の力から「チームの合作」へ進化し、AI時代も“現場の手触り感”を大切に歩む。",
+    "translated_title": "京作株式会社庆祝成立六周年。我们从个人力量进化到“团队协作”，即使在AI时代也继续珍惜“职场的触感和感觉”。",
+    "publishedAt": "2026-07-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "オプト、「潜在層の需要を喚起する独自ワード開発」に専用AIエージェントを実装。開発速度を従来比約11倍に向上",
+    "translated_title": "OPT 实施了一个专门的人工智能代理，用于“开发刺激潜在群体需求的独特单词”。与之前的型号相比，开发速度提高约 11 倍",
+    "publishedAt": "2026-07-17T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "compass-kb-validation 2.1.0",
+    "translated_title": "指南针-kb-验证 2.1.0",
+    "publishedAt": "2026-07-17T00:59:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI app architecture for startups: Build faster apps on Azure",
+    "translated_title": "面向初创公司的 AI 应用架构：在 Azure 上构建更快的应用",
+    "publishedAt": "2026-07-17T00:58:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "baremetalrt 0.23.5",
+    "translated_title": "裸金属 0.23.5",
+    "publishedAt": "2026-07-17T00:57:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hyodo 3.1.7",
+    "translated_title": "孝度3.1.7",
+    "publishedAt": "2026-07-17T00:55:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "You Can Now Star in Your Own AI Videos Using Google Vids",
+    "translated_title": "您现在可以使用 Google Vids 在自己的 AI 视频中担任主角",
+    "publishedAt": "2026-07-17T00:55:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ifm-ai added to PyPI",
+    "translated_title": "ifm-ai 添加到 PyPI",
+    "publishedAt": "2026-07-17T00:53:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ifm-ai 0.0.1",
+    "translated_title": "易福门-ai 0.0.1",
+    "publishedAt": "2026-07-17T00:53:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nebius lands $1 billion AI deal as one major risk looms",
+    "translated_title": "Nebius 达成 10 亿美元人工智能交易，重大风险迫在眉睫",
+    "publishedAt": "2026-07-17T00:52:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IBM’s worst day since 1968 handed Micron a gift - thestreet.com",
+    "translated_title": "IBM 自 1968 年以来最糟糕的一天给了美光一份礼物 - thestreet.com",
+    "publishedAt": "2026-07-17T00:52:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "It’s official: EU will force Google to share search data and open up AI on Android - Ars Technica",
+    "translated_title": "官方消息：欧盟将迫使谷歌共享搜索数据并在 Android 上开放人工智能 - Ars Technica",
+    "publishedAt": "2026-07-17T00:52:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "grantry 0.10.0",
+    "translated_title": "赠款0.10.0",
+    "publishedAt": "2026-07-17T00:50:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI chatbots at risk of fueling government restrictions on online speech, new study says",
+    "translated_title": "新研究称人工智能聊天机器人面临加剧政府对在线言论限制的风险",
+    "publishedAt": "2026-07-17T00:50:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Amazon’s chip business secures $225B in commitments as Trainium demand outpaces supply",
+    "translated_title": "由于 Trainium 供不应求，亚马逊的芯片业务获得了 225B 美元的承诺",
+    "publishedAt": "2026-07-17T00:50:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+    "translated_title": "埃隆·马斯克的孟菲斯人工智能帝国是数据中心反弹的中心",
+    "publishedAt": "2026-07-17T00:50:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tampa General Hospital First in the Nation to Sign Nutrition Pledge",
+    "translated_title": "坦帕总医院是全国第一家签署营养承诺的医院",
+    "publishedAt": "2026-07-17T00:49:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agledger 1.2.2",
+    "translated_title": "账本1.2.2",
+    "publishedAt": "2026-07-17T00:48:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Slow Letter: July 17, 2026.",
+    "translated_title": "慢信：2026 年 7 月 17 日。",
+    "publishedAt": "2026-07-17T00:47:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "raidex 0.1.1",
+    "translated_title": "雷迪克斯 0.1.1",
+    "publishedAt": "2026-07-17T00:46:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoft’s MDASH AI beats Anthropic’s Mythos in bug detection, finds 16 new Windows flaws",
+    "translated_title": "微软的 MDASH AI 在错误检测方面击败了 Anthropic 的 Mythos，发现了 16 个新的 Windows 缺陷",
+    "publishedAt": "2026-07-17T00:46:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ppt-master 0.1.47",
+    "translated_title": "PPT大师0.1.47",
+    "publishedAt": "2026-07-17T00:45:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "PraisonAI 4.6.151",
+    "translated_title": "监狱4.6.151",
+    "publishedAt": "2026-07-17T00:44:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "devr-codeguard 1.1.0",
+    "translated_title": "devr-代码卫士 1.1.0",
+    "publishedAt": "2026-07-17T00:43:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenJarvis 1.0.4.dev901",
+    "translated_title": "OpenJarvis 1.0.4.dev901",
+    "publishedAt": "2026-07-17T00:43:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "praisonaiagents 1.6.154",
+    "translated_title": "praisonaiagents 1.6.154",
+    "publishedAt": "2026-07-17T00:42:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【調査レポート】既存クライアントの20％が広告運用でAIを活用、または活用を希望",
+    "translated_title": "【调查报告】20%现有客户在广告运营中使用或希望使用AI",
+    "publishedAt": "2026-07-17T00:41:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bingo-ai 6.2.158",
+    "translated_title": "宾果游戏你有 6.2.158",
+    "publishedAt": "2026-07-17T00:39:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tesla driver fully pressed accelerator before crash, according to preliminary findings",
+    "translated_title": "初步调查结果显示，特斯拉司机在撞车前完全踩下了油门",
+    "publishedAt": "2026-07-17T00:39:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google engineers hit computing power wall as AI code generation eats internal resources",
+    "translated_title": "由于人工智能代码生成消耗内部资源，谷歌工程师遭遇计算能力瓶颈",
+    "publishedAt": "2026-07-17T00:38:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Netflix uses AI to cut documentary production costs in half, and the implications ripple far beyond Hollywood",
+    "translated_title": "Netflix 利用人工智能将纪录片制作成本削减一半，其影响远远超出了好莱坞",
+    "publishedAt": "2026-07-17T00:37:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "incident-ledger added to PyPI",
+    "translated_title": "事件分类帐添加到 PyPI",
+    "publishedAt": "2026-07-17T00:36:25Z"
+  },
+  {
     "keyword": "芯片",
     "title": "melon-lua 5.1.1",
     "translated_title": "瓜-lua 5.1.1",
