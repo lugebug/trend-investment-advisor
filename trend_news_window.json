@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "AMD moves beyond challenger status in the race for AI platform leadership",
+    "translated_title": "AMD 在 AI 平台领导地位的争夺中超越了挑战者地位",
+    "publishedAt": "2026-07-25T02:12:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "havfrys 0.3.5",
+    "translated_title": "海冰冻0.3.5",
+    "publishedAt": "2026-07-25T02:12:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: AI Meter – Local token usage with energy and water estimates",
+    "translated_title": "Show HN：AI Meter – 本地代币使用情况以及能源和水的估算",
+    "publishedAt": "2026-07-25T02:11:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The hardest people to walk away from aren’t always the obviously toxic ones, according to two studies: research found people’s blood pressure spiked highest specifically around “ambivalent” friends, sometimes warm and sometimes upsetting, more than around consistently negative ones, and a separate study found one person’s negative mood spread through an entire group just as powerfully as a positive mood did",
+    "translated_title": "两项研究表明，最难摆脱的人并不总是那些明显有毒的人：研究发现，人们的血压在“矛盾”的朋友周围尤其升高，这些朋友有时热情，有时令人不安，比周围一贯消极的朋友更严重，而另一项研究发现，一个人的消极情绪在整个群体中的传播力与积极情绪一样强大",
+    "publishedAt": "2026-07-25T02:09:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "baucli 1.0.16",
+    "translated_title": "鲍克利 1.0.16",
+    "publishedAt": "2026-07-25T02:08:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livekit-plugins-upliftai 1.6.7",
+    "translated_title": "livekit-插件-upliftai 1.6.7",
+    "publishedAt": "2026-07-25T02:07:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livekit-plugins-trugen 1.6.7",
+    "translated_title": "livekit-插件-磨损 1.6.7",
+    "publishedAt": "2026-07-25T02:07:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livekit-plugins-smallestai 1.6.7",
+    "translated_title": "livekit-插件-smallestai 1.6.7",
+    "publishedAt": "2026-07-25T02:06:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livekit-plugins-resemble 1.6.7",
+    "translated_title": "livekit-插件-类似 1.6.7",
+    "publishedAt": "2026-07-25T02:06:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livekit-plugins-mistralai 1.6.7",
+    "translated_title": "livekit-插件-mistralai 1.6.7",
+    "publishedAt": "2026-07-25T02:05:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livekit-plugins-fireworksai 1.6.7",
+    "translated_title": "livekit-插件-fireworksai 1.6.7",
+    "publishedAt": "2026-07-25T02:05:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "havfrys 0.3.4",
+    "translated_title": "海冰冻0.3.4",
+    "publishedAt": "2026-07-25T02:04:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livekit-agents 1.6.7",
+    "translated_title": "livekit-代理 1.6.7",
+    "publishedAt": "2026-07-25T02:04:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "toolbase 0.6.1",
+    "translated_title": "工具库0.6.1",
+    "publishedAt": "2026-07-25T02:02:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mlx-memo 4.3.0",
+    "translated_title": "MLX-备忘录 4.3.0",
+    "publishedAt": "2026-07-25T02:01:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "orthosec 0.8.3",
+    "translated_title": "正射0.8.3",
+    "publishedAt": "2026-07-25T02:01:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI just disclosed something genuinely alarming",
+    "translated_title": "OpenAI 刚刚披露了一些真正令人震惊的事情",
+    "publishedAt": "2026-07-25T02:00:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "GeneDx Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against GeneDx Holdings Corp. - WGS",
+    "translated_title": "GeneDx 股东提醒：ClaisFiler 提醒投资者在针对 GeneDx Holdings Corp. 的集体诉讼中损失超过 100,000 美元的主要原告截止日期 - WGS",
+    "publishedAt": "2026-07-25T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livespec-mcp 0.23.0",
+    "translated_title": "livespec-mcp 0.23.0",
+    "publishedAt": "2026-07-25T01:59:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "abi-agent 1.5.7.1",
+    "translated_title": "abi-代理 1.5.7.1",
+    "publishedAt": "2026-07-25T01:58:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AMD’s Helios strategy turns the GPU battle into a systems contest",
+    "translated_title": "AMD 的 Helios 战略将 GPU 之战转变为系统之争",
+    "publishedAt": "2026-07-25T01:57:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sulci 0.8.3",
+    "translated_title": "脑沟0.8.3",
+    "publishedAt": "2026-07-25T01:56:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "archsteer 0.9.1",
+    "translated_title": "拱舵 0.9.1",
+    "publishedAt": "2026-07-25T01:55:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Naver to triple facility size with Nvidia partnership as it eyes $6.8B in AI funding",
+    "translated_title": "Naver 与 Nvidia 合作将设施规模扩大三倍，因为它希望获得 6.8B 美元的人工智能资金",
+    "publishedAt": "2026-07-25T01:55:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "stashai 0.1.330",
+    "translated_title": "斯塔沙伊 0.1.330",
+    "publishedAt": "2026-07-25T01:54:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "livespec-mcp 0.22.0",
+    "translated_title": "livespec-mcp 0.22.0",
+    "publishedAt": "2026-07-25T01:51:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "boost-skill-cli 1.0.207",
+    "translated_title": "boost-skill-cli 1.0.207",
+    "publishedAt": "2026-07-25T01:49:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: RMCP.dev – An MCP server that finds other MCP servers",
+    "translated_title": "显示 HN：RMCP.dev – 查找其他 MCP 服务器的 MCP 服务器",
+    "publishedAt": "2026-07-25T01:47:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why Verizon Stock Climbed Today",
+    "translated_title": "为什么 Verizon 股价今天上涨",
+    "publishedAt": "2026-07-25T01:46:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "obsideo-cli 0.4.0",
+    "translated_title": "块-cli 0.4.0",
+    "publishedAt": "2026-07-25T01:45:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lfx 1.12.0.dev5",
+    "translated_title": "lfx 1.12.0.dev5",
+    "publishedAt": "2026-07-25T01:43:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Complete Guide to Email Marketing Automation for Small Business Growth - The Conversion Feed",
+    "translated_title": "促进小型企业发展的电子邮件营销自动化完整指南 - 转化源",
+    "publishedAt": "2026-07-25T01:39:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mcp-aichat 2026.7.25.0",
+    "translated_title": "mcp-aichat 2026.7.25.0",
+    "publishedAt": "2026-07-25T01:38:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "remedy-ai 0.10.45",
+    "translated_title": "补救-ai 0.10.45",
+    "publishedAt": "2026-07-25T01:38:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘Biohacker’ Bryan Johnson claims he cloned himself as a newborn to harvest ograns",
+    "translated_title": "“生物黑客”布莱恩·约翰逊声称他在新生儿时克隆了自己以获取器官",
+    "publishedAt": "2026-07-25T01:37:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "enforce-cpg added to PyPI",
+    "translated_title": "强制CPG添加到PyPI",
+    "publishedAt": "2026-07-25T01:37:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Guillermo del Toro said ‘Absolutely No Goddamn AI’ in ‘Pan’s Labyrinth’ 3D Re-Release: ‘We’re Protecting a Lineage of Art’",
+    "translated_title": "吉列尔莫·德尔·托罗在《潘神的迷宫》3D 重制版中表示“绝对没有该死的人工智能”：“我们正在保护艺术的传承”",
+    "publishedAt": "2026-07-25T01:37:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "langchain-serpdive 0.2.0",
+    "translated_title": "langchain-serpdive 0.2.0",
+    "publishedAt": "2026-07-25T01:36:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llama-index-tools-serpdive 0.2.0",
+    "translated_title": "骆驼索引工具-serpdive 0.2.0",
+    "publishedAt": "2026-07-25T01:36:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "serpdive 0.2.0",
+    "translated_title": "蛇潜0.2.0",
+    "publishedAt": "2026-07-25T01:36:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "A study found children who watched an adult tell just one small lie were significantly more likely to cheat on a test and then lie about it themselves, even though every child had heard the exact same rules about honesty beforehand, while a separate study tracking actual activity levels found children with two physically active parents were 5.8 times as likely to be active themselves",
+    "translated_title": "一项研究发现，即使每个孩子事先都听过关于诚实的完全相同的规则，但观看成人只说一个小谎言的孩子更有可能在测试中作弊，然后自己撒谎，而另一项追踪实际活动水平的独立研究发现，有两个经常锻炼身体的父母的孩子自己也很活跃的可能性是其他孩子的 5.8 倍",
+    "publishedAt": "2026-07-25T01:35:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI's AI agent spent days hacking a company; it went unnoticed for a week",
+    "translated_title": "OpenAI 的人工智能代理花了几天时间入侵一家公司；一周内没有引起人们的注意",
+    "publishedAt": "2026-07-25T01:35:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "baucli 1.0.15",
+    "translated_title": "鲍克利 1.0.15",
+    "publishedAt": "2026-07-25T01:34:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI vs Traditional Email Marketing: Which Drives More B2B Sales?",
+    "translated_title": "人工智能与传统电子邮件营销：哪个能推动更多 B2B 销售？",
+    "publishedAt": "2026-07-25T01:33:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AbstractIntegratedModule 1.1.1",
+    "translated_title": "抽象集成模块1.1.1",
+    "publishedAt": "2026-07-25T01:32:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "I nearly fired my AI chatbot yesterday",
+    "translated_title": "昨天我差点解雇了我的人工智能聊天机器人",
+    "publishedAt": "2026-07-25T01:30:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Will IEA/OECD countries release more strategic oil stocks?",
+    "translated_title": "IEA/OECD国家是否会释放更多战略石油库存？",
+    "publishedAt": "2026-07-25T01:29:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
+    "translated_title": "Anthropic 推出 Claude Opus 5，提高效率和安全性",
+    "publishedAt": "2026-07-25T01:29:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-bom 0.98.0",
+    "translated_title": "代理-bom 0.98.0",
+    "publishedAt": "2026-07-25T01:29:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "World Foundation Raises $52 Million as AI Drives Demand for ID Solutions",
+    "translated_title": "人工智能推动 ID 解决方案需求，世界基金会筹集 5200 万美元",
+    "publishedAt": "2026-07-25T01:29:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "At eighteen months, a child’s brain is forming roughly a million new neural connections every second, and by age three that pace begins to slow as the brain starts pruning away the pathways it decided not to use.",
+    "translated_title": "十八个月时，孩子的大脑每秒形成大约一百万个新的神经连接，到三岁时，随着大脑开始修剪它决定不使用的通路，这一速度开始减慢。",
+    "publishedAt": "2026-07-25T01:23:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Aftershoot up to 40% off sale (discount code included)",
+    "translated_title": "售后高达 40% 折扣（包含折扣码）",
+    "publishedAt": "2026-07-25T01:21:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memtomem-stm 0.1.42",
+    "translated_title": "memtomem-stm 0.1.42",
+    "publishedAt": "2026-07-25T01:21:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-harness 0.11.0",
+    "translated_title": "pydantic-ai-harness 0.11.0",
+    "publishedAt": "2026-07-25T01:21:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-slim 2.18.0",
+    "translated_title": "pydantic-ai-slim 2.18.0",
+    "publishedAt": "2026-07-25T01:20:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai-examples 2.18.0",
+    "translated_title": "pydantic-ai-示例 2.18.0",
+    "publishedAt": "2026-07-25T01:20:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pydantic-ai 2.18.0",
+    "translated_title": "pydantic-ai 2.18.0",
+    "publishedAt": "2026-07-25T01:20:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clai 2.18.0",
+    "translated_title": "粘土2.18.0",
+    "publishedAt": "2026-07-25T01:20:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mlx-memo 4.2.0",
+    "translated_title": "MLX-备忘录 4.2.0",
+    "publishedAt": "2026-07-25T01:20:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Paper",
+    "translated_title": "人工智能纸",
+    "publishedAt": "2026-07-25T01:20:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dejima-sdk 0.8.52",
+    "translated_title": "安装-sdk 0.8.52",
+    "publishedAt": "2026-07-25T01:20:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "irrevon 0.1.0",
+    "translated_title": "不可逆转0.1.0",
+    "publishedAt": "2026-07-25T01:18:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "conduct-cli 0.8.4",
+    "translated_title": "行为-cli 0.8.4",
+    "publishedAt": "2026-07-25T01:18:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "irrevon added to PyPI",
+    "translated_title": "irrevon 添加到 PyPI",
+    "publishedAt": "2026-07-25T01:18:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "boost-skill-cli 1.0.206",
+    "translated_title": "boost-skill-cli 1.0.206",
+    "publishedAt": "2026-07-25T01:17:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "chalkruntime 3.39.8",
+    "translated_title": "查尔卡兰泰姆 3.39.8",
+    "publishedAt": "2026-07-25T01:16:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "isa-agent-sdk 0.3.71",
+    "translated_title": "isa-agent-sdk 0.3.71",
+    "publishedAt": "2026-07-25T01:16:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "compass-kb-validation 2.6.1",
+    "translated_title": "指南针-kb-验证 2.6.1",
+    "publishedAt": "2026-07-25T01:15:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "boost-skill-cli 1.0.205",
+    "translated_title": "boost-skill-cli 1.0.205",
+    "publishedAt": "2026-07-25T01:15:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Keke Palmer Will Get a Star on the Hollywood Walk of Fame in 2027, and Her Reaction Was Pure Disbelief",
+    "translated_title": "柯柯·帕尔默 (Keke Palmer) 将于 2027 年在好莱坞星光大道上获得一颗星，她的反应纯粹是难以置信",
+    "publishedAt": "2026-07-25T01:14:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "South Korea President Lee looking to open new era of AI in with global tech companies",
+    "translated_title": "韩国总统李明博希望与全球科技公司一起开启人工智能新时代",
+    "publishedAt": "2026-07-25T01:12:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "graflet 0.2.0",
+    "translated_title": "格拉夫莱特0.2.0",
+    "publishedAt": "2026-07-25T01:09:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "continuum-mcp 2.0.4",
+    "translated_title": "连续体-MCP 2.0.4",
+    "publishedAt": "2026-07-25T01:07:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "crumb-attest 0.1.1",
+    "translated_title": "面包屑证明 0.1.1",
+    "publishedAt": "2026-07-25T01:07:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "nous-lang 5.78.0",
+    "translated_title": "美国语言 5.78.0",
+    "publishedAt": "2026-07-25T01:05:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Black Lagoon Director Says Many Anime Colleagues Died in Their 50s",
+    "translated_title": "《黑湖》导演称许多动漫同事在 50 多岁就去世了",
+    "publishedAt": "2026-07-25T01:00:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "'MacBook Ultra' Coming Soon With These 12 New Features",
+    "translated_title": "“MacBook Ultra”即将推出 12 项新功能",
+    "publishedAt": "2026-07-25T01:00:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "RoboRP – Chat with customizable AI characters for private multi-person roleplay",
+    "translated_title": "RoboRP – 与可定制的 AI 角色聊天，进行私人多人角色扮演",
+    "publishedAt": "2026-07-25T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "From drones to data: How AI is transforming New Zealand farming",
+    "translated_title": "从无人机到数据：人工智能如何改变新西兰农业",
+    "publishedAt": "2026-07-25T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tech Now",
+    "translated_title": "现在科技",
+    "publishedAt": "2026-07-25T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why Wall Street Trusts Some CEOs and Doubts Others With the Same Balance Sheet",
+    "translated_title": "为什么华尔街在相同的资产负债表上信任一些首席执行官而怀疑其他首席执行官",
+    "publishedAt": "2026-07-25T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "johnston 0.1.2",
+    "translated_title": "约翰斯顿0.1.2",
+    "publishedAt": "2026-07-25T00:59:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "stashai 0.1.329",
+    "translated_title": "斯塔沙伊 0.1.329",
+    "publishedAt": "2026-07-25T00:59:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kontinuum-AI-anomaly 0.1.0b1",
+    "translated_title": "kontinuum-AI-异常 0.1.0b1",
+    "publishedAt": "2026-07-25T00:58:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI's Rogue Agent Went Unnoticed For a Week",
+    "translated_title": "OpenAI 的流氓代理一周未被注意到",
+    "publishedAt": "2026-07-25T00:56:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "devr-codeguard 1.2.2",
+    "translated_title": "devr-代码卫士 1.2.2",
+    "publishedAt": "2026-07-25T00:55:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "conduct-cli 0.8.3",
+    "translated_title": "行为-cli 0.8.3",
+    "publishedAt": "2026-07-25T00:53:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "johnston 0.1.1",
+    "translated_title": "约翰斯顿0.1.1",
+    "publishedAt": "2026-07-25T00:52:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "havfrys 0.3.3",
+    "translated_title": "海冰冻0.3.3",
+    "publishedAt": "2026-07-25T00:51:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bpsai-pair 2.37.0",
+    "translated_title": "bpsai-pair 2.37.0",
+    "publishedAt": "2026-07-25T00:50:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "litdata 0.2.65",
+    "translated_title": "利特数据 0.2.65",
+    "publishedAt": "2026-07-25T00:50:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "chitra-monitor added to PyPI",
+    "translated_title": "chitra-monitor 添加到 PyPI",
+    "publishedAt": "2026-07-25T00:49:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "chitra-monitor 0.8.2.7",
+    "translated_title": "chitra-监视器 0.8.2.7",
+    "publishedAt": "2026-07-25T00:49:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "inspeximus 1.49.0",
+    "translated_title": "我们查看了1.49.0",
+    "publishedAt": "2026-07-25T00:49:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dejima-sdk 0.8.51",
+    "translated_title": "安装-sdk 0.8.51",
+    "publishedAt": "2026-07-25T00:49:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "stashai 0.1.328",
+    "translated_title": "斯塔沙伊 0.1.328",
+    "publishedAt": "2026-07-25T00:48:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "promptcheck-drift 0.1.0",
+    "translated_title": "提示检查漂移 0.1.0",
+    "publishedAt": "2026-07-25T00:47:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "promptcheck-drift added to PyPI",
+    "translated_title": "提示检查漂移添加到 PyPI",
+    "publishedAt": "2026-07-25T00:47:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "johnston added to PyPI",
+    "translated_title": "约翰斯顿添加到 PyPI",
+    "publishedAt": "2026-07-25T00:46:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "johnston 0.1.0",
+    "translated_title": "约翰斯顿0.1.0",
+    "publishedAt": "2026-07-25T00:46:07Z"
+  },
+  {
     "keyword": "芯片",
     "title": "melon-lua 5.2.3",
     "translated_title": "瓜-lua 5.2.3",
@@ -64,47 +664,5 @@
     "title": "melon-lua added to PyPI",
     "translated_title": "Melon-lua 添加到 PyPI",
     "publishedAt": "2026-06-27T15:36:59Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "銀河の中心から糖分子が初めて発見される、生命の起源の手がかりとなる可能性",
-    "translated_title": "首次在星系中心发现糖分子，可为生命起源提供线索",
-    "publishedAt": "2026-07-14T05:00:00Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "自家源泉の美肌温泉と旬の京料理を堪能する「夏の宴会プラン」を販売開始！京都駅近くで本格会席宴会が叶う希少な体験をご提案。",
-    "translated_title": "现在正在发售可以享受自家源泉美肤温泉和京都时令美食的“夏季宴会方案”！我们为您提供在京都站附近享用正宗怀石料理的难得体验。",
-    "publishedAt": "2026-07-11T02:40:40Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "【10%OFF！】Yundoo ZYC17 － AC×4、USB A×2、USB C搭載マルチタップ2mが882円送料無料 - 安値世界一への挑戦",
-    "translated_title": "[10% 折扣！] Yundoo ZYC17 - Multi-tap 2m 带 AC x 4、USB A x 2、USB C 免运费 882 日元 - 挑战成为全球最低价格",
-    "publishedAt": "2026-07-08T13:00:15Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "【期間限定セール】BIWIN NV7200 － NVMe2.0 M.2 Type 2280 PCIe Gen4×4 SSD 2TB/4TBが38,621円/74,501円送料無料 - 安値世界一への挑戦",
-    "translated_title": "【限时促销】BIWIN NV7200 - NVMe2.0 M.2 Type 2280 PCIe Gen4×4 SSD 2TB/4TB 38,621日元/74,501日元包邮 - 挑战全球最低价",
-    "publishedAt": "2026-07-08T01:00:31Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "【期間限定セール】WAVLINK DisplayLink対応 15-in-1 ユニバーサルドッキングステーション － 130W AC電源付属モデルが20,799円送料無料 - 安値世界一への挑戦",
-    "translated_title": "[限时促销] WAVLINK DisplayLink 兼容 15 合 1 通用扩展坞 - 含 130W 交流电源型号免运费 20,799 日元 - 挑战成为全球最低价格",
-    "publishedAt": "2026-07-07T12:00:10Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "Plane flies into Beijing’s tallest building; More export controls on Japanese firms; Pause in march towards EU-China trade war?; Premier Li on AI",
-    "translated_title": "飞机撞上北京第一高楼；对日本企业实施更多出口管制；中欧贸易战暂停？；李克强谈人工智能",
-    "publishedAt": "2026-06-29T21:14:27Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "Hermes Agent 新增 /learn 指令：讓任何資料都能變成可重複使用的 AI 技能",
-    "translated_title": "Hermes Agent 新增 /learn 指令：让任何资料都能变成可重复使用的 AI 技能",
-    "publishedAt": "2026-06-26T23:04:01Z"
   }
 ]
