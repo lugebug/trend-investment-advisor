@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "entelligence-cli 0.1.152",
+    "translated_title": "智能-cli 0.1.152",
+    "publishedAt": "2026-08-06T02:22:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tai42-kit 0.5.1",
+    "translated_title": "tai42-套件 0.5.1",
+    "publishedAt": "2026-08-06T02:21:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memman 0.19.0",
+    "translated_title": "妈妈0.19.0",
+    "publishedAt": "2026-08-06T02:21:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Machvision July revenue hits record as AI and PCB demand strengthens",
+    "translated_title": "随着人工智能和 PCB 需求增强，Machvision 7 月收入创历史新高",
+    "publishedAt": "2026-08-06T02:20:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "gllm-core-binary 0.4.42",
+    "translated_title": "gllm 核心二进制 0.4.42",
+    "publishedAt": "2026-08-06T02:18:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta chases OpenAI, Anthropic with new AI coding app Muse Code",
+    "translated_title": "Meta 推出新 AI 编码应用 Muse Code 追赶 OpenAI 和 Anthropic",
+    "publishedAt": "2026-08-06T02:17:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "oubliette-barbican added to PyPI",
+    "translated_title": "oublitte-barbican 添加到 PyPI",
+    "publishedAt": "2026-08-06T02:16:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pykosis added to PyPI",
+    "translated_title": "PyPI 中添加了 Pykosis",
+    "publishedAt": "2026-08-06T02:15:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Three’s company: Meta says its AI agents went rogue during testing, too",
+    "translated_title": "Three 的公司：Meta 表示其人工智能代理在测试过程中也出现了失控行为",
+    "publishedAt": "2026-08-06T02:15:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "China Is Betting AI, Hypersonic Missiles And Quantum Technology Will Define The Next Era Of Warfare",
+    "translated_title": "中国押注人工智能、高超音速导弹和量子技术将定义下一个战争时代",
+    "publishedAt": "2026-08-06T02:15:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta AI model hacks another company during testing",
+    "translated_title": "Meta AI 模型在测试期间攻击了另一家公司",
+    "publishedAt": "2026-08-06T02:14:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Panthers vs Cardinals AI Predictions: NFL Hall of Fame Game Score & Projected Stats",
+    "translated_title": "黑豹队 vs 红雀队 AI 预测：NFL 名人堂比赛得分和预计统计数据",
+    "publishedAt": "2026-08-06T02:14:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "xdog-claw 0.57.2",
+    "translated_title": "xdog-爪 0.57.2",
+    "publishedAt": "2026-08-06T02:13:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-forge-cli 3.1.0",
+    "translated_title": "ai-forge-cli 3.1.0",
+    "publishedAt": "2026-08-06T02:12:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ETMarkets NRI Talk| The question is no longer 'Why India?' but 'At what valuation?': Bhaskar Hazra",
+    "translated_title": "ETMarkets NRI 讲座|问题不再是“为什么是印度？”但“估值是多少？”：Bhaskar Hazra",
+    "publishedAt": "2026-08-06T02:11:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "etna-mcp 1.0.0b31",
+    "translated_title": "etna-MCP 1.0.0b31",
+    "publishedAt": "2026-08-06T02:11:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Israel's 'Alligator Alcatraz' prison moat plan challenged in the courts",
+    "translated_title": "以色列“鳄鱼恶魔岛”监狱护城河计划在法庭上受到质疑",
+    "publishedAt": "2026-08-06T02:10:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "請求書受領システム「フリコム」α版をリリース。請求書をアップするだけでAIが振込データを自動作成・効率化まで実現！",
+    "translated_title": "发布账单接收系统“Furicom”的alpha版本。只需上传您的发票，人工智能就会自动创建并简化转账数据！",
+    "publishedAt": "2026-08-06T02:10:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-toolkit-cli 1.4.1",
+    "translated_title": "代理工具包-cli 1.4.1",
+    "publishedAt": "2026-08-06T02:08:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lfx 1.12.0.dev18",
+    "translated_title": "lfx 1.12.0.dev18",
+    "publishedAt": "2026-08-06T02:08:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kiss-agent-framework 2026.8.2",
+    "translated_title": "Kiss-代理框架 2026.8.2",
+    "publishedAt": "2026-08-06T02:08:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-anthropology-toolkit 3.3.0",
+    "translated_title": "人工智能人类学工具包 3.3.0",
+    "publishedAt": "2026-08-06T02:08:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "xdog-claw 0.57.1",
+    "translated_title": "xdog-爪 0.57.1",
+    "publishedAt": "2026-08-06T02:07:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Chinese Renewable Energy Giant Envision Launches Data Center",
+    "translated_title": "中国可再生能源巨头远景集团推出数据中心",
+    "publishedAt": "2026-08-06T02:07:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Defining ethical design for machines",
+    "translated_title": "定义机器的道德设计",
+    "publishedAt": "2026-08-06T02:06:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pyobfus 0.5.12",
+    "translated_title": "pyobfus 0.5.12",
+    "publishedAt": "2026-08-06T02:06:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fusion-mlx 0.7.11",
+    "translated_title": "融合-mlx 0.7.11",
+    "publishedAt": "2026-08-06T02:04:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "オプト、インハウス化時代の新たな広告運用モデル「アド・インフラパック(TM)」の提供を開始",
+    "translated_title": "OPT推出In-house时代全新广告运营模式Ad Infrapack(TM)",
+    "publishedAt": "2026-08-06T02:03:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "helen-lang 1.38.1",
+    "translated_title": "海伦朗 1.38.1",
+    "publishedAt": "2026-08-06T02:02:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "autotest-agent added to PyPI",
+    "translated_title": "自动测试代理添加到 PyPI",
+    "publishedAt": "2026-08-06T02:02:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "autotest-agent 0.2.0",
+    "translated_title": "自动测试代理 0.2.0",
+    "publishedAt": "2026-08-06T02:02:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google rejigs AI leadership as DeepMind CEO shifts role",
+    "translated_title": "随着 DeepMind 首席执行官角色转变，谷歌重新调整人工智能领导地位",
+    "publishedAt": "2026-08-06T02:02:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+    "translated_title": "克劳德寓言 5 AI 发现一个小公式推翻 87 年前的数学猜想",
+    "publishedAt": "2026-08-06T02:02:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+    "translated_title": "摩根大通的杰米戴蒙警告高杠杆：“有人会扰乱市场”",
+    "publishedAt": "2026-08-06T02:02:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta says AI model accessed the internet and hacked another firm",
+    "translated_title": "Meta 称人工智能模型访问了互联网并入侵了另一家公司",
+    "publishedAt": "2026-08-06T02:02:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ByteDance's new \"watch and listen\" AI signals a broader Chinese push beyond chatbots",
+    "translated_title": "字节跳动的新“观看和聆听”人工智能标志着中国在聊天机器人之外更广泛的推动",
+    "publishedAt": "2026-08-06T02:02:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Three’s company: Meta says its AI agents went rogue during testing, too",
+    "translated_title": "Three 的公司：Meta 表示其人工智能代理在测试过程中也出现了失控行为",
+    "publishedAt": "2026-08-06T02:02:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UC Regent Scott Galloway gets first-hand lesson in socialism",
+    "translated_title": "加州大学摄政斯科特·加洛韦获得社会主义的第一手教训",
+    "publishedAt": "2026-08-06T02:01:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NXP FRDM i.MX 95 Pro Pairs Six Cortex-A55 Cores with 8 eTOPS AI Acceleration",
+    "translated_title": "NXP FRDM i.MX 95 Pro 将 6 个 Cortex-A55 内核与 8 个 eTOPS AI 加速配对",
+    "publishedAt": "2026-08-06T02:01:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Asia mostly lower after yesterday's gains",
+    "translated_title": "亚洲股市在昨天上涨后大多走低",
+    "publishedAt": "2026-08-06T02:00:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google's AI shake-up: 3 things Gemini needs",
+    "translated_title": "谷歌的人工智能变革：双子座需要的三件事",
+    "publishedAt": "2026-08-06T02:00:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Woman Orders Panda Express. Her Packaged Fortune Cookie Comes With An Eight-Legged Creature",
+    "translated_title": "一位女士订购了熊猫快递。她包装的幸运饼干上有一个八足生物",
+    "publishedAt": "2026-08-06T02:00:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Could Meta Ray-Bans be banned in Europe? EU regulators dial up the pressure on smart glasses — and the rest of the world is watching",
+    "translated_title": "Meta Ray-Ban 眼镜会在欧洲被禁止吗？欧盟监管机构加大了对智能眼镜的压力——世界其他地区都在关注",
+    "publishedAt": "2026-08-06T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "アソビシステム株式会社、Activ8株式会社をグループに迎え入れさらなる連携強化へ",
+    "translated_title": "欢迎Asobi System Co., Ltd.和Activ8 Co., Ltd.加入集团，进一步加强合作",
+    "publishedAt": "2026-08-06T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Finatextとナウキャスト、みずほ証券のデータ・AI活用を包括的に支援",
+    "translated_title": "Finatext和Nowcast全面支持瑞穗证券的数据和人工智能利用",
+    "publishedAt": "2026-08-06T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Indian stocks to hold ground despite weak global sentiment",
+    "translated_title": "尽管全球情绪疲软，印度股市仍坚守阵地",
+    "publishedAt": "2026-08-06T01:59:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "reveal-cli 0.114.0",
+    "translated_title": "Reveal-cli 0.114.0",
+    "publishedAt": "2026-08-06T01:58:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "isa-agent-sdk 0.5.29",
+    "translated_title": "isa-agent-sdk 0.5.29",
+    "publishedAt": "2026-08-06T01:57:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "orq-ai-sdk 4.13.0rc46",
+    "translated_title": "orq-ai-sdk 4.13.0rc46",
+    "publishedAt": "2026-08-06T01:56:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bettermemory 3.41.0",
+    "translated_title": "更好的记忆3.41.0",
+    "publishedAt": "2026-08-06T01:55:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "qirabot 3.1.1",
+    "translated_title": "阅读3.1.1",
+    "publishedAt": "2026-08-06T01:54:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DAILY MAIL COMMENT: With the scares and near-misses increasing in both frequency and seriousness, it is time for the world to finally wake up to the dangers of AI",
+    "translated_title": "《每日邮报》评论：随着恐慌和未遂事件的发生频率和严重性不断增加，世界是时候最终认识到人工智能的危险了",
+    "publishedAt": "2026-08-06T01:54:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Impact of MDR’s return; KKR veterans to anchor new fund",
+    "translated_title": "MDR 回归的影响；KKR 退伍军人将主持新基金",
+    "publishedAt": "2026-08-06T01:54:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-visualizations 0.1.33",
+    "translated_title": "ai-鹦鹉-可视化 0.1.33",
+    "publishedAt": "2026-08-06T01:54:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-tools 0.1.86",
+    "translated_title": "ai-鹦鹉工具 0.1.86",
+    "publishedAt": "2026-08-06T01:54:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-server 0.25.32",
+    "translated_title": "ai-鹦鹉-服务器 0.25.32",
+    "publishedAt": "2026-08-06T01:54:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-pipelines 0.1.85",
+    "translated_title": "ai-鹦鹉-管道 0.1.85",
+    "publishedAt": "2026-08-06T01:54:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-loaders 0.1.87",
+    "translated_title": "ai-鹦鹉-装载机 0.1.87",
+    "publishedAt": "2026-08-06T01:54:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-integrations 0.0.34",
+    "translated_title": "ai-鹦鹉-集成 0.0.34",
+    "publishedAt": "2026-08-06T01:54:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-embeddings 0.1.33",
+    "translated_title": "ai-鹦鹉-嵌入 0.1.33",
+    "publishedAt": "2026-08-06T01:54:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-advisors 0.1.31",
+    "translated_title": "ai-鹦鹉-顾问 0.1.31",
+    "publishedAt": "2026-08-06T01:54:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot 0.25.32",
+    "translated_title": "艾鹦鹉 0.25.32",
+    "publishedAt": "2026-08-06T01:53:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llmsentinel 0.3.0",
+    "translated_title": "哨兵0.3.0",
+    "publishedAt": "2026-08-06T01:53:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llmsentinel added to PyPI",
+    "translated_title": "llmsentinel 添加到 PyPI",
+    "publishedAt": "2026-08-06T01:53:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta takes on Anthropic and OpenAI with its first AI coding agent, Muse Code",
+    "translated_title": "Meta 推出首款 AI 编码代理 Muse Code，与 Anthropic 和 OpenAI 展开竞争",
+    "publishedAt": "2026-08-06T01:52:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-venture-studio 0.71.0",
+    "translated_title": "人工智能创业工作室 0.71.0",
+    "publishedAt": "2026-08-06T01:52:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google’s DeepMind Shakeup Reveals a Compute Landlord Betting on Infrastructure Over Research",
+    "translated_title": "谷歌的 DeepMind 重组揭示了计算业主将赌注押在基础设施而非研究上",
+    "publishedAt": "2026-08-06T01:52:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "What Champions are doing differently with segmentation, send strategy, and list health | Klaviyo Community",
+    "translated_title": "冠军在细分、发送策略和列表健康方面采取了哪些不同的做法 |克拉维约社区",
+    "publishedAt": "2026-08-06T01:50:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta AI agent latest model to hack external company during testing",
+    "translated_title": "Meta AI 代理最新模型在测试期间攻击外部公司",
+    "publishedAt": "2026-08-06T01:50:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus",
+    "translated_title": "亚洲股市因科技股回调而走软，油价稳定，因伊朗谈判仍是焦点",
+    "publishedAt": "2026-08-06T01:48:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta says AI model accessed the internet and hacked another firm",
+    "translated_title": "Meta 称人工智能模型访问了互联网并入侵了另一家公司",
+    "publishedAt": "2026-08-06T01:47:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta says AI model accessed the internet and hacked another firm",
+    "translated_title": "Meta 称人工智能模型访问了互联网并入侵了另一家公司",
+    "publishedAt": "2026-08-06T01:47:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
+    "translated_title": "OpenAI 透露其流氓代理群比 Hugging Face 黑客攻击领先一点 Borg",
+    "publishedAt": "2026-08-06T01:47:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Bharti Singh on reuniting with husband Haarsh Limbachiyaa as host after six years: It makes this journey even more special",
+    "translated_title": "巴蒂·辛格 (Bharti Singh) 与丈夫哈什·林巴奇亚 (Haarsh Limbachiyaa) 时隔六年重聚，担任主持人：这让这段旅程变得更加特别",
+    "publishedAt": "2026-08-06T01:47:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How OpenAI's agents broke out of testing to hack Hugging Face",
+    "translated_title": "OpenAI 的代理如何突破测试来破解 Hugging Face",
+    "publishedAt": "2026-08-06T01:45:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Y Combinator CEO ゲーリー・タンが日本の大学で登壇！Transpose主催、立命館大学共催、OUVC協力で開催した関西初AIハッカソン「c0mpiled」",
+    "translated_title": "Y Combinator 首席执行官 Gary Tan 在日本大学发表演讲！由 Transpose 主办、立命馆大学协办、OUVC 合作的关西首届 AI 黑客马拉松“c0mpiled”",
+    "publishedAt": "2026-08-06T01:43:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
+    "translated_title": "由于星链业务的强劲增长，SpaceX 首次公布的季度收入大幅增长",
+    "publishedAt": "2026-08-06T01:43:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "鳥取市後援｜LIVTO TOTTORI不動産、「AIを活用したスマホ不動産教室」鳥取市役所2階 鳥取市民交流センター「麒麟square(キリンスクエア)」多目的室１にて　令和8年9月25日（金)　開催",
+    "translated_title": "鸟取市主办｜LIVTO鸟取不动产“利用AI的智能手机房地产课堂”于2020年9月25日星期五在鸟取市役所2楼鸟取市民交流中心“麒麟广场”多功能室1举办",
+    "publishedAt": "2026-08-06T01:42:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "会計AI「Zeimee」、顧問先1,000件超の成和税理士法人へ導入",
+    "translated_title": "拥有 1,000 多家客户的 Seiwa 税务会计师事务所引入会计人工智能“Zeimee”",
+    "publishedAt": "2026-08-06T01:40:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Stocks to watch: Oil India, Infosys, NBCC, Zee, Cohance Life, Gland Pharma, Neuland Lab, Monarch Surveyors, RMC Switchgears",
+    "translated_title": "值得关注的股票：印度石油公司、印孚瑟斯、NBCC、Zee、Cohance Life、Gland Pharma、Neuland Lab、Monarch Surveyors、RMC Switchgears",
+    "publishedAt": "2026-08-06T01:37:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Are Top AI Talent Leaving Google to Apply AGI and ASI for Giant Leaps in Science",
+    "translated_title": "顶尖人工智能人才离开谷歌，应用 AGI 和 ASI 实现科学的巨大飞跃",
+    "publishedAt": "2026-08-06T01:36:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Sandisk leans on multi-year supply deals as it bets on AI-driven NAND supercycle",
+    "translated_title": "Sandisk 依靠多年供应协议押注人工智能驱动的 NAND 超级周期",
+    "publishedAt": "2026-08-06T01:35:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "terse-mcp 0.21.5",
+    "translated_title": "简洁-MCP 0.21.5",
+    "publishedAt": "2026-08-06T01:34:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
+    "translated_title": "Block 上调 2026 年强劲季度前景，称人工智能几乎涉及所有代码",
+    "publishedAt": "2026-08-06T01:33:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "YouTube’s new video ideation tool has two “massive” features for creators",
+    "translated_title": "YouTube 的新视频创意工具为创作者提供了两项“海量”功能",
+    "publishedAt": "2026-08-06T01:33:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AMD Stock Drops 6.9% Despite Record $11.5 Billion Revenue - Yahoo Finance",
+    "translated_title": "AMD 营收创纪录 115 亿美元，股价仍下跌 6.9% - 雅虎财经",
+    "publishedAt": "2026-08-06T01:32:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Mysten Labs tech chief joins Anthropic to work on AI security",
+    "translated_title": "Mysten Labs 技术主管加入 Anthropic 致力于人工智能安全",
+    "publishedAt": "2026-08-06T01:31:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Confirming rumors, Anthropic reveals plan to develop custom chip",
+    "translated_title": "Anthropic 证实了谣言，透露了开发定制芯片的计划",
+    "publishedAt": "2026-08-06T01:31:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Pattern Leverages AI and Data to Fuel eCommerce Growth",
+    "translated_title": "Pattern 利用人工智能和数据推动电子商务增长",
+    "publishedAt": "2026-08-06T01:30:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI",
+    "translated_title": "CNBC 每日公开赛：伊朗、阿曼就霍尔木兹海峡问题进行谈判；SpaceX 在 AI 领域忠于 Nvidia",
+    "publishedAt": "2026-08-06T01:30:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "EBay Rides Luxury, Collectibles and AI to 15% Growth in Q2",
+    "translated_title": "eBay 第二季度奢侈品、收藏品和人工智能增长 15%",
+    "publishedAt": "2026-08-06T01:30:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Block’s AI Overhaul Starts Showing Up in Results",
+    "translated_title": "Block 的人工智能改革开始显现成效",
+    "publishedAt": "2026-08-06T01:30:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nine Unusual Ways My Clients Use AI With SQL Server",
+    "translated_title": "我的客户将 AI 与 SQL Server 结合使用的九种不同寻常的方式",
+    "publishedAt": "2026-08-06T01:30:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus",
+    "translated_title": "亚洲股市因科技股回调而走软，油价稳定，因伊朗谈判仍是焦点",
+    "publishedAt": "2026-08-06T01:27:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Uh-Oh. Which Company’s AI Model Is Reportedly a Hacker Now, Too?",
+    "translated_title": "呃哦。据报道，哪家公司的人工智能模型现在也是黑客？",
+    "publishedAt": "2026-08-06T01:27:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Stocks mixed with tech firms back under pressure",
+    "translated_title": "科技公司股票涨跌互现，面临压力",
+    "publishedAt": "2026-08-06T01:27:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "abstractvoice 0.11.1",
+    "translated_title": "抽象语音0.11.1",
+    "publishedAt": "2026-08-06T01:25:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "BMX releases colorful GaNsta Pixel USB chargers",
+    "translated_title": "BMX 发布多彩 GaNsta Pixel USB 充电器",
+    "publishedAt": "2026-08-06T01:24:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "KAYTUS Delivers a 400-Rack High-Density Air-Cooled Compute Cluster Within 72 Days, Cutting Deployment Time by 60%",
+    "translated_title": "KAYTUS 在 72 天内交付 400 机架高密度风冷计算集群，部署时间缩短 60%",
+    "publishedAt": "2026-08-06T01:23:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9",
+    "translated_title": "三星正式推出 Galaxy Z Fold8 Ultra、Fold8、Flip8、Watch Ultra2 和 Watch9",
+    "publishedAt": "2026-08-06T01:22:07Z"
+  },
+  {
     "keyword": "芯片",
     "title": "melon-lua 5.2.4",
     "translated_title": "瓜-lua 5.2.4",
@@ -37,6 +637,12 @@
   },
   {
     "keyword": "能源",
+    "title": "ABP 应用服务源码解读：ApplicationService 基类内置了哪些能力 - DLForge",
+    "translated_title": "ABP 应用服务源码解读：ApplicationService 基类内置了哪些能力 - DLForge",
+    "publishedAt": "2026-08-05T02:37:00Z"
+  },
+  {
+    "keyword": "能源",
     "title": "Deepin: (中文) deepin 开发者必备！官方技能库 deepin-skills 正式开源",
     "translated_title": "Deepin: (中文) deepin 开发者必备！官方技能库 deepin-skills 正式开源",
     "publishedAt": "2026-07-31T02:55:08Z"
@@ -62,7 +668,7 @@
   {
     "keyword": "能源",
     "title": "自家源泉の美肌温泉と旬の京料理を堪能する「夏の宴会プラン」を販売開始！京都駅近くで本格会席宴会が叶う希少な体験をご提案。",
-    "translated_title": "现在正在发售可以享受自家源泉的美肤温泉和京都时令美食的“夏季宴会方案”！我们为您提供在京都站附近享用正宗怀石料理的难得体验。",
+    "translated_title": "现在正在发售可以享受自家源泉美肤温泉和京都时令美食的“夏季宴会方案”！我们为您提供在京都站附近享用正宗怀石料理的难得体验。",
     "publishedAt": "2026-07-11T02:40:40Z"
   },
   {
@@ -76,11 +682,5 @@
     "title": "【期間限定セール】BIWIN NV7200 － NVMe2.0 M.2 Type 2280 PCIe Gen4×4 SSD 2TB/4TBが38,621円/74,501円送料無料 - 安値世界一への挑戦",
     "translated_title": "【限时促销】BIWIN NV7200 - NVMe2.0 M.2 Type 2280 PCIe Gen4×4 SSD 2TB/4TB 38,621日元/74,501日元包邮 - 挑战全球最低价",
     "publishedAt": "2026-07-08T01:00:31Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "【期間限定セール】WAVLINK DisplayLink対応 15-in-1 ユニバーサルドッキングステーション － 130W AC電源付属モデルが20,799円送料無料 - 安値世界一への挑戦",
-    "translated_title": "[限时促销] WAVLINK DisplayLink 兼容 15 合 1 通用扩展坞 - 含 130W 交流电源型号免运费 20,799 日元 - 挑战成为全球最低价格",
-    "publishedAt": "2026-07-07T12:00:10Z"
   }
 ]
