@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "Supermicro's margin rebound and bullish outlook ease investor doubts on AI server orders",
+    "translated_title": "美超微的利润率反弹和乐观的前景缓解了投资者对人工智能服务器订单的疑虑",
+    "publishedAt": "2026-08-12T01:23:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "andromity 0.1.0",
+    "translated_title": "男女性0.1.0",
+    "publishedAt": "2026-08-12T01:22:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "andromity added to PyPI",
+    "translated_title": "PyPI 中添加了男性性",
+    "publishedAt": "2026-08-12T01:22:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "自動化が進むホテルに、\"人の温もり\"という差別化を。ホテル向け顧客体験改善サービス「ホテルCXリサーチ＆コンシェルジュ」を提供開始",
+    "translated_title": "随着自动化的进步，酒店以“人性化的温暖”脱颖而出。推出“Hotel CX Research & Concierge”酒店客户体验改善服务",
+    "publishedAt": "2026-08-12T01:22:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "全国から若き挑戦者7名が佐賀に集結！「RYO-FU BASE ビジネスプランコンテストU-30」最終審査会及び授賞式を開催します",
+    "translated_title": "7位来自全国各地的年轻挑战者齐聚佐贺！举办“凉府基地创业计划大赛U-30”最终评审及颁奖典礼",
+    "publishedAt": "2026-08-12T01:21:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Elon Musk says every future Tesla will have Starlink, starting with the Cybercab",
+    "translated_title": "埃隆·马斯克表示，从 Cyber​​cab 开始，未来的每辆特斯拉都将配备 Starlink",
+    "publishedAt": "2026-08-12T01:21:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Are creator AI disclosures going to be a thing?",
+    "translated_title": "人工智能创造者的披露会成为一件事吗？",
+    "publishedAt": "2026-08-12T01:20:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lfx 1.12.0.dev24",
+    "translated_title": "lfx 1.12.0.dev24",
+    "publishedAt": "2026-08-12T01:20:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Server maker Supermicro’s stock soars on crushing earnings results and soaring profits",
+    "translated_title": "服务器制造商美超微的股价因盈利业绩惨淡和利润飙升而飙升",
+    "publishedAt": "2026-08-12T01:19:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Server maker Supermicro’s stock soars on crushed earnings results and soaring profits",
+    "translated_title": "服务器制造商美超微因盈利惨淡和利润飙升而股价飙升",
+    "publishedAt": "2026-08-12T01:19:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mlpal-gateway 0.2.0",
+    "translated_title": "mlpal-网关 0.2.0",
+    "publishedAt": "2026-08-12T01:18:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mlpal-gateway added to PyPI",
+    "translated_title": "mlpal-gateway 添加到 PyPI",
+    "publishedAt": "2026-08-12T01:18:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "India’s central bank wants AI to approve loans that humans would reject",
+    "translated_title": "印度央行希望人工智能批准人类会拒绝的贷款",
+    "publishedAt": "2026-08-12T01:18:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "proofline 0.1.1",
+    "translated_title": "证明线0.1.1",
+    "publishedAt": "2026-08-12T01:17:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "proofline added to PyPI",
+    "translated_title": "PyPI 中添加了proofline",
+    "publishedAt": "2026-08-12T01:17:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why Are So Many US States Trying To Ban Data Centers?",
+    "translated_title": "为什么美国这么多州试图禁止数据中心？",
+    "publishedAt": "2026-08-12T01:17:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-batch 0.2.2",
+    "translated_title": "矩阵批量 0.2.2",
+    "publishedAt": "2026-08-12T01:14:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-ai 0.5.10",
+    "translated_title": "matrx-ai 0.5.10",
+    "publishedAt": "2026-08-12T01:14:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zanii 0.19.0",
+    "translated_title": "知识0.19.0",
+    "publishedAt": "2026-08-12T01:13:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Authors Face Backlash For Participation In 2022 Google AI Study - Engadget",
+    "translated_title": "作者因参与 2022 年 Google AI 研究而面临强烈反对 - Engadget",
+    "publishedAt": "2026-08-12T01:12:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-guardian-aiops 0.10.0",
+    "translated_title": "人工智能守护者 aiops 0.10.0",
+    "publishedAt": "2026-08-12T01:12:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "minio-aiops 0.11.0",
+    "translated_title": "minio-aiops 0.11.0",
+    "publishedAt": "2026-08-12T01:11:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "overleaf-comments-export 0.8.0",
+    "translated_title": "背面评论导出 0.8.0",
+    "publishedAt": "2026-08-12T01:11:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "octop 0.9.22",
+    "translated_title": "章鱼0.9.22",
+    "publishedAt": "2026-08-12T01:11:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IT Outsourcing And Cybersecurity Habits Of Thriving Businesses",
+    "translated_title": "蓬勃发展的企业的 IT 外包和网络安全习惯",
+    "publishedAt": "2026-08-12T01:11:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "apala-api 3.0.0",
+    "translated_title": "apala-api 3.0.0",
+    "publishedAt": "2026-08-12T01:10:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【2026年最新のSEO・AIO対応】Google生成AI検索時代に向けた『無料SEO・Webサイト診断サービス』を静岡浜松ホームページ戦略研究所が本格スタート！",
+    "translated_title": "【2026年最新SEO/AIO兼容】静冈滨松主页策略研究所已开始为Google生成的AI搜索时代正式推出“免费SEO/网站诊断服务”！",
+    "publishedAt": "2026-08-12T01:10:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "If Hollywood studios flee California, a disaster movie will follow",
+    "translated_title": "如果好莱坞电影公司逃离加州，一部灾难片将会随之而来",
+    "publishedAt": "2026-08-12T01:07:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Leefy – Plan AI products visually and hand off clean work to Claude Code",
+    "translated_title": "Leefy – 直观地规划人工智能产品，并将干净的工作交给 Claude Code",
+    "publishedAt": "2026-08-12T01:05:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentic-sidecar 0.0.1",
+    "translated_title": "代理边车 0.0.1",
+    "publishedAt": "2026-08-12T01:04:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentic-sidecar added to PyPI",
+    "translated_title": "Agentic-sidecar 添加到 PyPI",
+    "publishedAt": "2026-08-12T01:04:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "respan-ai 4.2.3",
+    "translated_title": "答案4.2.3",
+    "publishedAt": "2026-08-12T01:04:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Op-Ed: AI in consumer dispute resolution? Unexpected upsides",
+    "translated_title": "专栏：人工智能在消费者纠纷解决中的应用？意想不到的好处",
+    "publishedAt": "2026-08-12T01:00:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Synnex sees strong growth in value-added commercial IT, semiconductors",
+    "translated_title": "Synnex 看到增值商业 IT、半导体领域强劲增长",
+    "publishedAt": "2026-08-12T01:00:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Python Bytes: #491 Feeling Judged",
+    "translated_title": "Python 字节：#491 感觉被评判",
+    "publishedAt": "2026-08-12T01:00:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【9/3開催】AI時代のEC・CX戦略を紐解く「EC Customer Experience Summit 2026」開催決定",
+    "translated_title": "【9月3日举办】“EC客户体验峰会2026”将召开，揭秘AI时代EC/CX策略",
+    "publishedAt": "2026-08-12T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "電球交換から、「もう一度出かけたい」まで。シニアの暮らしを支える地域の担い手が、まもなく5,000人へ。",
+    "translated_title": "从换灯泡到想再次出去。当地支持老年人生活的人数很快将达到5000人。",
+    "publishedAt": "2026-08-12T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CNBC Daily Open: Big Tech wants to tap Wall Street's big wallets",
+    "translated_title": "CNBC 每日开盘：大型科技公司希望利用华尔街的大钱",
+    "publishedAt": "2026-08-12T00:59:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "MacBreak Weekly 1037: Mechanical Donut",
+    "translated_title": "MacBreak 周刊 1037：机械甜甜圈",
+    "publishedAt": "2026-08-12T00:59:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Askance, a human-in-the-loop GUI for agentic coding",
+    "translated_title": "Show HN：Askance，用于代理编码的人机交互 GUI",
+    "publishedAt": "2026-08-12T00:57:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pf2e-mcp added to PyPI",
+    "translated_title": "pf2e-mcp 添加到 PyPI",
+    "publishedAt": "2026-08-12T00:57:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Run AI Models on Your Own Machine: A Practical Guide to Open-Weight Models with LM Studio, Ollama, and OpenCode",
+    "translated_title": "在您自己的机器上运行 AI 模型：使用 LM Studio、Ollama 和 OpenCode 进行开放权重模型的实用指南",
+    "publishedAt": "2026-08-12T00:56:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CNBC Daily Open: Big Tech wants to tap Wall Street's big wallets",
+    "translated_title": "CNBC 每日开盘：大型科技公司希望利用华尔街的大钱",
+    "publishedAt": "2026-08-12T00:53:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenJarvis 1.0.4.dev962",
+    "translated_title": "OpenJarvis 1.0.4.dev962",
+    "publishedAt": "2026-08-12T00:50:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "basecradle-harness 0.99.0",
+    "translated_title": "底座安全带 0.99.0",
+    "publishedAt": "2026-08-12T00:50:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Never-Before-Seen Type of Amyloid May Explain a Devastating Form of Alzheimer's",
+    "translated_title": "前所未见的淀粉样蛋白类型可能解释了一种毁灭性的阿尔茨海默病",
+    "publishedAt": "2026-08-12T00:48:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "overpower 0.2.0",
+    "translated_title": "压倒性0.2.0",
+    "publishedAt": "2026-08-12T00:48:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hol-guard 3.0.0a97",
+    "translated_title": "霍尔卫士 3.0.0a97",
+    "publishedAt": "2026-08-12T00:48:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tako-vm 0.2.0",
+    "translated_title": "so-vm 0.2.0",
+    "publishedAt": "2026-08-12T00:47:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Bank Of America: The US Unemployment Rate Is Falling Because Americans Are Too Rich",
+    "translated_title": "美国银行：美国失业率下降是因为美国人太富有",
+    "publishedAt": "2026-08-12T00:45:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "MegazoneCloud Selected as Amazon Quick SI Partner by AWS Generative AI Innovation Center",
+    "translated_title": "MegazoneCloud 被 AWS Generative AI 创新中心选为 Amazon Quick SI 合作伙伴",
+    "publishedAt": "2026-08-12T00:45:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+    "translated_title": "Sabre 否认用 ChatGPT 取代 Rideshare Stimulator 的编剧",
+    "publishedAt": "2026-08-12T00:44:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tai42-kit 1.6.0",
+    "translated_title": "tai42-套件 1.6.0",
+    "publishedAt": "2026-08-12T00:41:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【赤字覚悟30％OFF】DOOGEEEco、革新的な骨気デュアルスピーカー搭載「BONEAIRSWIM」骨伝導イヤホンを期間限定12,900円で販売開始",
+    "translated_title": "【30%折扣，为赤字做准备】DOOGEEEco限时开始销售配备创新BONEAIR双扬声器的“BONEAIRSWIM”骨传导耳机，售价12,900日元",
+    "publishedAt": "2026-08-12T00:40:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+    "translated_title": "Sabre 否认用 ChatGPT 取代 Rideshare Stimulator 的编剧",
+    "publishedAt": "2026-08-12T00:40:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentforge-secure 0.1.0a1",
+    "translated_title": "Agentforge 安全 0.1.0a1",
+    "publishedAt": "2026-08-12T00:40:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentforge-secure added to PyPI",
+    "translated_title": "Agentforge-secure 添加到 PyPI",
+    "publishedAt": "2026-08-12T00:40:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Slow Letter: August 12, 2026.",
+    "translated_title": "慢信：2026 年 8 月 12 日。",
+    "publishedAt": "2026-08-12T00:40:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "translated_title": "NVIDIA AI 工厂计算正在成为可投资的资产类别",
+    "publishedAt": "2026-08-12T00:38:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IBM inks $240M infrastructure deal with AI-optimized cloud operator Together AI",
+    "translated_title": "IBM 与 AI 优化云运营商 Together AI 签署价值 2.4 亿美元的基础设施协议",
+    "publishedAt": "2026-08-12T00:36:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "1claw-crewai-tools 0.2.0",
+    "translated_title": "1claw-crewai-工具 0.2.0",
+    "publishedAt": "2026-08-12T00:32:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Accel returns to India market with $550 million fund, betting on AI-led startup wave",
+    "translated_title": "Accel携5.5亿美元基金重返印度市场，押注AI引领的创业浪潮",
+    "publishedAt": "2026-08-12T00:30:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Accel bets $550 million on India's next wave of founders for AI era",
+    "translated_title": "Accel 向印度人工智能时代的下一波创始人押注 5.5 亿美元",
+    "publishedAt": "2026-08-12T00:30:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Accel raises $550 million ninth India fund",
+    "translated_title": "Accel 筹集 5.5 亿美元第九期印度基金",
+    "publishedAt": "2026-08-12T00:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Brunello Cucinelli Builds a Different Store for Every Shopper",
+    "translated_title": "Brunello Cucinelli 为每位购物者打造不同的商店",
+    "publishedAt": "2026-08-12T00:29:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Banking’s Next AI Risk Is Cyber Autonomy",
+    "translated_title": "银行业的下一个人工智能风险是网络自治",
+    "publishedAt": "2026-08-12T00:29:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "HappyRobot Vaults to $1.2 Billion Valuation as Enterprise Demand for AI Automation Soars",
+    "translated_title": "随着企业对人工智能自动化的需求飙升，HappyRobot 估值飙升至 12 亿美元",
+    "publishedAt": "2026-08-12T00:29:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Sony and TSMC Invest 1 Trillion Yen in Next-Generation Sensors",
+    "translated_title": "索尼和台积电投资 1 万亿日元开发下一代传感器",
+    "publishedAt": "2026-08-12T00:28:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CoreWeave coasts to a solid earnings beat, sending its stock higher after-hours",
+    "translated_title": "CoreWeave 盈利稳健，盘后股价走高",
+    "publishedAt": "2026-08-12T00:28:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hol-guard 3.0.0a96",
+    "translated_title": "霍尔卫士 3.0.0a96",
+    "publishedAt": "2026-08-12T00:28:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Gargoyles #1 Preview: Stone Cold Heroes Hunt Missing Egg",
+    "translated_title": "石像鬼 #1 预览：冷酷英雄寻找失踪的蛋",
+    "publishedAt": "2026-08-12T00:26:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "overleaf-comments-export 0.7.0",
+    "translated_title": "背面评论导出 0.7.0",
+    "publishedAt": "2026-08-12T00:22:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cai-mcp-server 0.2.1",
+    "translated_title": "cai-mcp-服务器 0.2.1",
+    "publishedAt": "2026-08-12T00:22:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Post-5G slowdown: AI and automation are reshaping India's telecom workforce, hiring trends",
+    "translated_title": "5G 后放缓：人工智能和自动化正在重塑印度电信劳动力、招聘趋势",
+    "publishedAt": "2026-08-12T00:21:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Emergency Alignment for Human-AI Teams",
+    "translated_title": "人类与人工智能团队的紧急协调",
+    "publishedAt": "2026-08-12T00:17:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Not Samsung, Not Google: Users Say This Brand Makes The Best Android Phone For Gaming",
+    "translated_title": "不是三星，不是谷歌：用户称这个品牌制造了最好的 Android 游戏手机",
+    "publishedAt": "2026-08-12T00:17:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Here's How the AI Trade Blows Up (Hint: It Has to Do With OpenAI, Anthropic, and China)",
+    "translated_title": "人工智能贸易是如何爆发的（提示：它与 OpenAI、Anthropic 和中国有关）",
+    "publishedAt": "2026-08-12T00:16:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trust Issues Are Holding Back AI Adoption Among Supply Chain Leaders",
+    "translated_title": "信任问题阻碍了供应链领导者采用人工智能",
+    "publishedAt": "2026-08-12T00:16:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vionaai added to PyPI",
+    "translated_title": "vionaai 添加到 PyPI",
+    "publishedAt": "2026-08-12T00:15:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "BofA sends strong message on Nvidia's weak spot",
+    "translated_title": "美国银行就英伟达的弱点发出强烈信息",
+    "publishedAt": "2026-08-12T00:14:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "forcedream 0.3.0",
+    "translated_title": "强迫梦想0.3.0",
+    "publishedAt": "2026-08-12T00:12:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "haystack-ai 3.1.0.dev20260812001116",
+    "translated_title": "haystack-ai 3.1.0.dev20260812001116",
+    "publishedAt": "2026-08-12T00:11:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-ai 0.5.9",
+    "translated_title": "matrx-ai 0.5.9",
+    "publishedAt": "2026-08-12T00:11:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dejima-sdk 0.8.61",
+    "translated_title": "安装-sdk 0.8.61",
+    "publishedAt": "2026-08-12T00:10:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pyroboreplay 2.9.1",
+    "translated_title": "火爆游戏 2.9.1",
+    "publishedAt": "2026-08-12T00:09:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Creative sector seeks stronger investment to unlock growth",
+    "translated_title": "创意产业寻求更强劲的投资以释放增长",
+    "publishedAt": "2026-08-12T00:09:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Silicon Motion raises private placement to US$1B, targets agentic AI",
+    "translated_title": "慧荣科技将私募增至10亿美元，瞄准代理人工智能",
+    "publishedAt": "2026-08-12T00:08:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "baissarienterprises-llm-wiki 0.6.1",
+    "translated_title": "baissarienterprises-llm-wiki 0.6.1",
+    "publishedAt": "2026-08-12T00:07:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI server tracker: King Slide, Quanta and AIC lead July growth",
+    "translated_title": "AI服务器追踪：King Slide、Quanta和AIC引领7月增长",
+    "publishedAt": "2026-08-12T00:06:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "TSMC tackles CoWoS material risks while cutting 3DIC development cycle to one year",
+    "translated_title": "台积电解决 CoWoS 材料风险，同时将 3DIC 开发周期缩短至一年",
+    "publishedAt": "2026-08-12T00:02:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Panel makers turn to AI packaging as old fabs gain value",
+    "translated_title": "随着旧晶圆厂价值的增加，面板制造商转向人工智能封装",
+    "publishedAt": "2026-08-12T00:02:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OCP APAC 2026: Murata upgrades power, optical products as AI data centers strain global infrastructure",
+    "translated_title": "OCP APAC 2026：随着人工智能数据中心对全球基础设施造成压力，村田升级电源、光学产品",
+    "publishedAt": "2026-08-12T00:01:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OCP: Murata upgrades power, optical products as AI data centers strain global infrastructure",
+    "translated_title": "OCP：随着人工智能数据中心对全球基础设施造成压力，村田升级电源、光学产品",
+    "publishedAt": "2026-08-12T00:01:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The choices we all end up regretting are more predictable than they feel: research shows that over a lifetime we regret the things we did not do more than the things we did, and that the sharpest regrets cluster where we saw the most opportunity",
+    "translated_title": "我们最终后悔的选择比他们感觉的更容易预测：研究表明，在一生中，我们对没有做的事情的后悔比我们做了的事情更多，而且最强烈的遗憾集中在我们看到最多机会的地方",
+    "publishedAt": "2026-08-12T00:01:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pxx-orchestrator 2.4.1",
+    "translated_title": "pxx-协调器 2.4.1",
+    "publishedAt": "2026-08-12T00:01:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Select Areas: LG Partner: 77\" C6H OLED 4K TV + S6FTR Soundbar + $200 Fanatics $1980 + Free S&H",
+    "translated_title": "部分区域：LG 合作伙伴：77 英寸 C6H OLED 4K 电视 + S6FTR Soundbar + 200 美元 Fanatics 1980 美元 + 免费 S&H",
+    "publishedAt": "2026-08-12T00:01:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "open-edit added to PyPI",
+    "translated_title": "PyPI 中添加了开放编辑功能",
+    "publishedAt": "2026-08-12T00:01:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Compal doubles AI server capacity, targets 30–40% revenue share by 2027",
+    "translated_title": "仁宝将 AI 服务器容量翻倍，目标到 2027 年收入份额达到 30-40%",
+    "publishedAt": "2026-08-12T00:01:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Agentic AI is advancing faster than enterprises can absorb it",
+    "translated_title": "代理人工智能的发展速度超出了企业的吸收速度",
+    "publishedAt": "2026-08-12T00:01:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Daily Hacker News for 2026-08-11",
+    "translated_title": "2026 年 8 月 11 日每日黑客新闻",
+    "publishedAt": "2026-08-12T00:00:00Z"
+  },
+  {
     "keyword": "芯片",
     "title": "melon-lua 5.2.4",
     "translated_title": "瓜-lua 5.2.4",
