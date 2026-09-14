@@ -1,5 +1,611 @@
 [
   {
+    "keyword": "AI",
+    "title": "darknet-mcp-server",
+    "translated_title": "暗网 mcp 服务器",
+    "publishedAt": "2026-09-13T02:55:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "guaardvark 2.9.0",
+    "translated_title": "土豚2.9.0",
+    "publishedAt": "2026-09-13T02:53:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kepil 0.2.1",
+    "translated_title": "保证0.2.1",
+    "publishedAt": "2026-09-13T02:51:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Is SEO Dead in SEMRush? Exploring Its Ongoing Importance in Digital Marketing - Experiments In Search",
+    "translated_title": "SEMRush 中的 SEO 已死吗？探索其在数字营销中的持续重要性 - 搜索实验",
+    "publishedAt": "2026-09-13T02:47:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "translated_title": "Sam Altman 表示 OpenAI 在 2026 年上市将是“不明智的”",
+    "publishedAt": "2026-09-13T02:44:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "People Wash Their Car as the Rubble of the World Trade Center Looms in the Background Shortly After the September 11 Attacks",
+    "translated_title": "9 月 11 日袭击发生后不久，人们在洗车，背景中世贸中心的废墟若隐若现",
+    "publishedAt": "2026-09-13T02:43:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-batch 0.2.75",
+    "translated_title": "矩阵批次 0.2.75",
+    "publishedAt": "2026-09-13T02:40:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-ai 0.5.289",
+    "translated_title": "矩阵-ai 0.5.289",
+    "publishedAt": "2026-09-13T02:40:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-visualizations 1.0.1",
+    "translated_title": "ai-鹦鹉-可视化 1.0.1",
+    "publishedAt": "2026-09-13T02:39:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-tools 1.0.1",
+    "translated_title": "ai-鹦鹉-工具 1.0.1",
+    "publishedAt": "2026-09-13T02:39:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-integrations 1.0.1",
+    "translated_title": "ai-鹦鹉-集成 1.0.1",
+    "publishedAt": "2026-09-13T02:38:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "All eyes on Warsh as rate-hike fever spreads across G7 central banks",
+    "translated_title": "随着七国集团央行加息热潮蔓延，所有人的目光都集中在沃什身上",
+    "publishedAt": "2026-09-13T02:38:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Can friendship survive the class war? South Korea's Oscar pick has an electrifying answer",
+    "translated_title": "友谊能经受住阶级战争的考验吗？韩国奥斯卡奖得主给出了令人振奋的答案",
+    "publishedAt": "2026-09-13T02:38:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "yueying 0.2.1",
+    "translated_title": "月影 0.2.1",
+    "publishedAt": "2026-09-13T02:34:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "A Dick Smith VZ200 without the Dick Smith",
+    "translated_title": "没有迪克·史密斯的迪克·史密斯 VZ200",
+    "publishedAt": "2026-09-13T02:33:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "STMicroelectronics Sees AI Data-Center Revenue Surging Past $2 Billion in 2027",
+    "translated_title": "意法半导体预计 2027 年 AI 数据中心收入将突破 20 亿美元",
+    "publishedAt": "2026-09-13T02:30:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Don't call yourself an artisanal programmer",
+    "translated_title": "不要称自己为手工程序员",
+    "publishedAt": "2026-09-13T02:29:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "translated_title": "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司",
+    "publishedAt": "2026-09-13T02:29:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Dark Knights of Steel II #3 Preview: Waller's Power Play",
+    "translated_title": "《黑暗钢铁骑士 II》#3 预览：沃勒的权力游戏",
+    "publishedAt": "2026-09-13T02:26:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Harsh Goenka warns of an AI threat to children that could be far bigger than job loss and it could shape their emotions, relationships and minds",
+    "translated_title": "Harsh Goenka 警告说，人工智能对儿童的威胁可能远远大于失业，它可能会影响他们的情绪、人际关系和思想",
+    "publishedAt": "2026-09-13T02:25:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "South Korea tests global investor appetite with longer trading hours",
+    "translated_title": "韩国延长交易时间考验全球投资者的胃口",
+    "publishedAt": "2026-09-13T02:21:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Swedish Political Advertising, 9/11 CIA Documents, WordPress, More: Saturday ResearchBuzz, September 12, 2026",
+    "translated_title": "瑞典政治广告，9/11 中央情报局文件，WordPress，更多：周六 ResearchBuzz，2026 年 9 月 12 日",
+    "publishedAt": "2026-09-13T02:18:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bonnet 0.1.98.post2",
+    "translated_title": "无檐小便帽 0.1.98.post2",
+    "publishedAt": "2026-09-13T02:15:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "monai-weekly 1.7.dev2637",
+    "translated_title": "莫奈周刊 1.7.dev2637",
+    "publishedAt": "2026-09-13T02:15:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sage-agent-sdk 11.19.21",
+    "translated_title": "圣人代理 SDK 11.19.21",
+    "publishedAt": "2026-09-13T02:15:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Musk: I've been sounding alarm on AI for a long time",
+    "translated_title": "马斯克：长期以来我一直对人工智能敲响警钟",
+    "publishedAt": "2026-09-13T02:14:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "No IPO in 2026, firm to prioritise safety, says OpenAI CEO Sam Altman",
+    "translated_title": "OpenAI 首席执行官山姆·奥尔特曼 (Sam Altman) 表示，2026 年不会进行 IPO，安全优先",
+    "publishedAt": "2026-09-13T02:10:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI safety advocate applauds ‘sea change’ within industry",
+    "translated_title": "人工智能安全倡导者赞扬行业内的“巨变”",
+    "publishedAt": "2026-09-13T02:10:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vdb-mcp 0.2.0",
+    "translated_title": "vdb-mcp 0.2.0",
+    "publishedAt": "2026-09-13T02:08:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hol-guard 3.0.165",
+    "translated_title": "霍尔守卫 3.0.165",
+    "publishedAt": "2026-09-13T02:08:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memvara 0.13.0",
+    "translated_title": "梅姆瓦拉 0.13.0",
+    "publishedAt": "2026-09-13T02:07:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Current inflation shock likely to last longer than expected: ECB president",
+    "translated_title": "欧洲央行行长：当前通胀冲击可能持续时间长于预期",
+    "publishedAt": "2026-09-13T02:05:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mcp-maestro 2026.9.13.0",
+    "translated_title": "mcp-大师 2026.9.13.0",
+    "publishedAt": "2026-09-13T02:05:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: Open-Sourced Chrome Extension to Save, Organize and Switch Bookmarks",
+    "translated_title": "Show HN：用于保存、组织和切换书签的开源 Chrome 扩展",
+    "publishedAt": "2026-09-13T02:05:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "corent 0.6.0",
+    "translated_title": "核心0.6.0",
+    "publishedAt": "2026-09-13T02:05:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "switchboard-agents 0.1.0",
+    "translated_title": "总机代理 0.1.0",
+    "publishedAt": "2026-09-13T02:01:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "switchboard-agents added to PyPI",
+    "translated_title": "PyPI 中添加了总机代理",
+    "publishedAt": "2026-09-13T02:01:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Cathie Wood sells $28.7 million of megacap tech stock",
+    "translated_title": "Cathie Wood 出售价值 2870 万美元的大型科技股",
+    "publishedAt": "2026-09-13T02:00:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Researchers Discover a Green Hydrogen 'Goldmine' Beneath Australia's Red Dirt",
+    "translated_title": "研究人员在澳大利亚红土下发现了绿色氢“金矿”",
+    "publishedAt": "2026-09-13T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Top A.I. Leaders Call for Slowing Down A.I. Development",
+    "translated_title": "顶级人工智能领导人呼吁放慢人工智能速度发展",
+    "publishedAt": "2026-09-13T01:57:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "weiser-ai 0.3.2",
+    "translated_title": "智慧人工智能0.3.2",
+    "publishedAt": "2026-09-13T01:55:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mcp-jupyter-notebook 0.8.0",
+    "translated_title": "mcp-jupyter-笔记本 0.8.0",
+    "publishedAt": "2026-09-13T01:49:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aipass 2.8.7",
+    "translated_title": "艾通2.8.7",
+    "publishedAt": "2026-09-13T01:46:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "baiduan-router added to PyPI",
+    "translated_title": "baiduan-router 添加到 PyPI",
+    "publishedAt": "2026-09-13T01:46:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "baiduan-router 1.0.0",
+    "translated_title": "百度路由器1.0.0",
+    "publishedAt": "2026-09-13T01:46:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Asia-Pacific Media Forum calls for stronger regional media cooperation",
+    "translated_title": "亚太媒体论坛呼吁加强区域媒体合作",
+    "publishedAt": "2026-09-13T01:45:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Exclusive: OpenAI's Sam Altman hints at pact with other AI companies to address safety risks - fortune.com",
+    "translated_title": "独家：OpenAI 的 Sam Altman 暗示将与其他人工智能公司达成协议以解决安全风险 - Fortune.com",
+    "publishedAt": "2026-09-13T01:33:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Three Actors Who Could Play Mordecai in Peacock’s Dungeon Crawler Carl TV Series",
+    "translated_title": "三位可以在《孔雀地城探索者卡尔》电视剧中扮演莫迪凯的演员",
+    "publishedAt": "2026-09-13T01:32:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Wells willing to change digital harm proposal to win Coalition support",
+    "translated_title": "威尔斯愿意改变数字危害提案以赢得联盟支持",
+    "publishedAt": "2026-09-13T01:31:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    "translated_title": "前人类研究人员告诉 BBC，人工智能工作人员“真正害怕”人类的未来",
+    "publishedAt": "2026-09-13T01:30:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DeepSeek Cut Its KV-Cache HBM Need 75% and SSD Need 87.5%. Micron and Sandisk Investors Should Pay Attention",
+    "translated_title": "DeepSeek 将其 KV 缓存 HBM 需求削减了 75%，SSD 需求削减了 87.5%。美光和Sandisk投资者应注意",
+    "publishedAt": "2026-09-13T01:30:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Long-Term Treasury Yields Spike, 1- to 7-Year Yields Explode, Mortgage Rates Hit 7.12%, Bond Market Gets Spooked",
+    "translated_title": "长期国债收益率飙升，1至7年期收益率爆发，抵押贷款利率触及7.12%，债券市场受到惊吓",
+    "publishedAt": "2026-09-13T01:29:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How the AI apocalypse story escaped containment",
+    "translated_title": "人工智能末日故事如何逃脱遏制",
+    "publishedAt": "2026-09-13T01:29:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "How the AI apocalypse story escaped containment",
+    "translated_title": "人工智能末日故事如何逃脱遏制",
+    "publishedAt": "2026-09-13T01:27:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Bessent’s attempts to suppress interest rates could spark a recession",
+    "translated_title": "贝森特压制利率的尝试可能引发经济衰退",
+    "publishedAt": "2026-09-13T01:27:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "3tears-models 0.39.0",
+    "translated_title": "3tears-模型 0.39.0",
+    "publishedAt": "2026-09-13T01:26:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "China’s AI Entertainment Revolution Offers Hollywood a Warning From the Future - Tallwire",
+    "translated_title": "中国的人工智能娱乐革命给好莱坞带来了未来的警告 - Tallwire",
+    "publishedAt": "2026-09-13T01:26:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mfai-viewer added to PyPI",
+    "translated_title": "mfai-viewer 添加到 PyPI",
+    "publishedAt": "2026-09-13T01:26:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tyrese Haliburton Trolls Alleged 49ers Impostor With Custom Jersey",
+    "translated_title": "泰瑞斯·哈利伯顿 (Tyrese Haliburton) 涉嫌使用定制球衣冒充 49 人队",
+    "publishedAt": "2026-09-13T01:23:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Ancient Egypt Misinformation, California Fairground Data Centers, Colorado Data Centers, More: ResearchBuzz AI Update, September 12, 2026",
+    "translated_title": "古埃及错误信息、加州 Fairground 数据中心、科罗拉多数据中心、更多：ResearchBuzz AI 更新，2026 年 9 月 12 日",
+    "publishedAt": "2026-09-13T01:23:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "translated_title": "为什么人工智能代理会撒谎、欺骗和协调？",
+    "publishedAt": "2026-09-13T01:22:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bonnet 0.1.98.post1",
+    "translated_title": "无檐小便帽 0.1.98.post1",
+    "publishedAt": "2026-09-13T01:21:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ticketwright 4.1.0",
+    "translated_title": "售票员 4.1.0",
+    "publishedAt": "2026-09-13T01:20:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "A(I) bigger, richer economy — but will you belong?",
+    "translated_title": "一个更大、更富裕的经济体——但你会属于吗？",
+    "publishedAt": "2026-09-13T01:17:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Dell Booked More AI Server Orders in 3 Months Than It Recorded in Total Revenue",
+    "translated_title": "戴尔在三个月内预订的人工智能服务器订单量超过其总收入记录",
+    "publishedAt": "2026-09-13T01:16:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    "translated_title": "前人类研究人员告诉 BBC，人工智能工作人员“真正害怕”人类的未来",
+    "publishedAt": "2026-09-13T01:15:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jobwright 0.5.1",
+    "translated_title": "工作作家0.5.1",
+    "publishedAt": "2026-09-13T01:14:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Chanakya University's Chanakya Convergence Forum Brings Together Space-Tech Leaders and Academia in Bengaluru",
+    "translated_title": "查纳基亚大学的查纳基亚融合论坛汇聚了班加罗尔的航天技术领导者和学术界",
+    "publishedAt": "2026-09-13T01:06:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "House committee investigating how AI affects college admissions",
+    "translated_title": "众议院委员会调查人工智能如何影响大学录取",
+    "publishedAt": "2026-09-13T01:06:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ThoughtLogger – Capture thoughts fast and let AI file, link, and surface answers",
+    "translated_title": "ThoughtLogger – 快速捕捉想法并让 AI 归档、链接和显示答案",
+    "publishedAt": "2026-09-13T01:05:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Orb, 100 Meters Manga Creator Uoto to Launch 2 New Manga Series",
+    "translated_title": "Orb、100 米漫画创作者 Uoto 将推出 2 个新漫画系列",
+    "publishedAt": "2026-09-13T01:00:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Why bitcoin’s ‘500-day rule’ faces its biggest test yet",
+    "translated_title": "为什么比特币的“500天规则”面临迄今为止最大的考验",
+    "publishedAt": "2026-09-13T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic CEO Dario Amodei Calls For AI Slowdown",
+    "translated_title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度",
+    "publishedAt": "2026-09-13T01:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pureframe 0.2.2",
+    "translated_title": "纯框架0.2.2",
+    "publishedAt": "2026-09-13T00:59:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic CEO seeks AI slowdown, tighter safety checks and global cooperation",
+    "translated_title": "Anthropic首席执行官寻求人工智能放缓、更严格的安全检查和全球合作",
+    "publishedAt": "2026-09-13T00:58:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "‘NAZA’ Review: Israeli Military Accused Of Depraved Indifference To Palestinian Life, Using AI To Kill In Gaza – Venice Film Festival",
+    "translated_title": "《NAZA》评论：以色列军方被指控对巴勒斯坦人的生活漠不关心，利用人工智能在加沙杀人 – 威尼斯电影节",
+    "publishedAt": "2026-09-13T00:56:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "A Potential Return To The Pacific Rim Franchise? Guillermo del Toro Reveals If He’s Open To The Idea",
+    "translated_title": "环太平洋系列有可能回归吗？吉列尔莫·德尔·托罗透露他是否愿意接受这个想法",
+    "publishedAt": "2026-09-13T00:55:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "claude-statusbar 3.43.1",
+    "translated_title": "克劳德状态栏 3.43.1",
+    "publishedAt": "2026-09-13T00:54:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "clawpatrol v0.5.10",
+    "translated_title": "爪巡 v0.5.10",
+    "publishedAt": "2026-09-13T00:54:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Roxy Jacenko cuts ties with Australia for good as she settles into Singapore - as husband Oliver Curtis builds $1.25 billion AI fortune",
+    "translated_title": "Roxy Jacenko 定居新加坡后与澳大利亚永久断绝关系——丈夫 Oliver Curtis 在人工智能领域积累了 12.5 亿美元的财富",
+    "publishedAt": "2026-09-13T00:53:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Align AI and Mathematics–To Something Else",
+    "translated_title": "将人工智能和数学结合到其他方面",
+    "publishedAt": "2026-09-13T00:47:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "GPT-6 Astra Wiped 4%-5% Off Salesforce and ServiceNow in a Day. Is Wall Street Pricing a SaaS Extinction Event?",
+    "translated_title": "GPT-6 Astra 一天之内就将 Salesforce 和 ServiceNow 降价 4%-5%。华尔街定价是 SaaS 的灭绝事件吗？",
+    "publishedAt": "2026-09-13T00:46:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Hyundai launches AI-powered data flywheel",
+    "translated_title": "现代推出人工智能驱动的数据飞轮",
+    "publishedAt": "2026-09-13T00:44:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Marketing Data APIs: Search, Ads & AI Visibility | Nexscope",
+    "translated_title": "营销数据 API：搜索、广告和 AI 可见性 |内克斯范围",
+    "publishedAt": "2026-09-13T00:40:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Toll in Philippines ferry fire rises to 76; 13 missing",
+    "translated_title": "菲律宾渡轮火灾死亡人数升至76人；13人失踪",
+    "publishedAt": "2026-09-13T00:34:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "American Tower Sees 5G, AI and CoreSite Demand Fueling Growth",
+    "translated_title": "美国铁塔认为 5G、人工智能和 CoreSite 需求将推动增长",
+    "publishedAt": "2026-09-13T00:31:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Hyundai targets Tesla FSD with Artria AI autonomous driving by 2029",
+    "translated_title": "现代汽车的目标是到 2029 年利用 Artria AI 自动驾驶技术实现特斯拉 FSD",
+    "publishedAt": "2026-09-13T00:30:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Amid climate change, more Brits ditch tea for ice cream",
+    "translated_title": "在气候变化的背景下，越来越多的英国人放弃茶而改吃冰淇淋",
+    "publishedAt": "2026-09-13T00:28:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "epimemer 0.2.3",
+    "translated_title": "差向异构体0.2.3",
+    "publishedAt": "2026-09-13T00:27:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Marc Spector: Moon Knight #8 Preview: The House Always Wins",
+    "translated_title": "马克·斯佩克特：月光骑士 #8 预览：家族永远获胜",
+    "publishedAt": "2026-09-13T00:27:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "alinux 0.1.4",
+    "translated_title": "alinux 0.1.4",
+    "publishedAt": "2026-09-13T00:26:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Zelensky ready to meet Putin at G20",
+    "translated_title": "泽连斯基准备在 G20 峰会上与普京会面",
+    "publishedAt": "2026-09-13T00:26:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "alinux 0.1.3",
+    "translated_title": "alinux 0.1.3",
+    "publishedAt": "2026-09-13T00:25:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI, 5G upgrades lift Taiwan's top three telecoms in August",
+    "translated_title": "AI、5G升级提升台湾8月电信前三名",
+    "publishedAt": "2026-09-13T00:23:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Column: What is SLAM? The first step in Physical AI",
+    "translated_title": "专栏：什么是SLAM？物理人工智能的第一步",
+    "publishedAt": "2026-09-13T00:23:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI server exports to US slow; electronics parts jump 1.5 times in August",
+    "translated_title": "AI服务器对美出口缓慢；电子零件8月上涨1.5倍",
+    "publishedAt": "2026-09-13T00:23:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cait-certificate-schema added to PyPI",
+    "translated_title": "cait-certificate-schema 添加到 PyPI",
+    "publishedAt": "2026-09-13T00:23:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "HBCU coach has $1 million hot take on money games",
+    "translated_title": "HBCU 教练拥有 100 万美元的热门金钱游戏",
+    "publishedAt": "2026-09-13T00:23:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI server tracker: Taiwan optics race beyond 1.6T",
+    "translated_title": "AI服务器追踪器：台湾光学竞赛超越1.6T",
+    "publishedAt": "2026-09-13T00:22:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Capgemini sells subsidiary after row over ICE ties",
+    "translated_title": "与 ICE 关系发生争执后，凯捷出售子公司",
+    "publishedAt": "2026-09-13T00:22:28Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "ヴィクトリア時代の英国における技術的失業：若年労働者と参入の崩壊",
+    "translated_title": "维多利亚时代英国的技术性失业：年轻工人和进入崩溃",
+    "publishedAt": "2026-09-12T14:59:00Z"
+  },
+  {
     "keyword": "能源",
     "title": "「系統用蓄電池制度変更後の収益再設計」と題して、株式会社AnPrenergy/一般社団法人日本再生可能エネルギー地域資源開発機構 村谷 敬氏によるセミナーを2026年10月16日(金)に開催!!",
     "translated_title": "2026年10月16日（星期五），AnPrenergy株式会社/日本可再生能源地区资源开发机构（一般社团法人）村谷隆先生将举办题为“电网蓄电池系统变更后盈利能力的重新设计”的研讨会！",
