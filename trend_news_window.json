@@ -1,5 +1,605 @@
 [
   {
+    "keyword": "AI",
+    "title": "twelveten-cli 0.1.2",
+    "translated_title": "12ten-cli 0.1.2",
+    "publishedAt": "2026-09-20T02:53:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "axiom-graph 2.4.1",
+    "translated_title": "公理图 2.4.1",
+    "publishedAt": "2026-09-20T02:51:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fastaiagent 1.72.0",
+    "translated_title": "快速代理1.72.0",
+    "publishedAt": "2026-09-20T02:50:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "simpleaudit 0.1.12",
+    "translated_title": "简单审计 0.1.12",
+    "publishedAt": "2026-09-20T02:48:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "atflows added to PyPI",
+    "translated_title": "atflows 添加到 PyPI",
+    "publishedAt": "2026-09-20T02:47:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Kaun Banega Crorepati 18: Comedian Gaurav Kapoor jokes about Amitabh Bachchan’s movie Sooryavansham’s ‘kheer scene’; says, ‘Kheer milegi?’",
+    "translated_title": "Kaun Banega Crorepati 18：喜剧演员 Gaurav Kapoor 拿 Amitabh Bachchan 的电影 Suryavansham 的“Kheer Scan”开玩笑；性，“你愿意吗？”",
+    "publishedAt": "2026-09-20T02:44:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "a13n-harness 0.0.32",
+    "translated_title": "a13n-线束 0.0.32",
+    "publishedAt": "2026-09-20T02:43:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IIT-Bombay denies suspension threat to student, casteism charge",
+    "translated_title": "印度理工学院孟买分校否认对学生的停学威胁和种姓歧视指控",
+    "publishedAt": "2026-09-20T02:39:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Australia seeks big tech support for internet safety, AI regulation",
+    "translated_title": "澳大利亚寻求互联网安全和人工智能监管方面的大型技术支持",
+    "publishedAt": "2026-09-20T02:39:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "TotalEnergies signs memorandum with Venezuela for operations return",
+    "translated_title": "TotalEnergies 与委内瑞拉签署恢复运营备忘录",
+    "publishedAt": "2026-09-20T02:39:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Sheep |Stylized Critters by Unity China Publisher Hub",
+    "translated_title": "羊 |Unity 中国发布者中心的风格化小动物",
+    "publishedAt": "2026-09-20T02:36:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Corgi |Stylized Critters by Unity China Publisher Hub",
+    "translated_title": "柯基犬 |Unity China Publisher Hub 的风格化小动物",
+    "publishedAt": "2026-09-20T02:36:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Capybara|Stylized Critters(lite) by Unity China Publisher Hub",
+    "translated_title": "水豚|风格化小动物（精简版），作者：Unity China Publisher Hub",
+    "publishedAt": "2026-09-20T02:36:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Fairy tale Monster Pack by Unity China Publisher Hub",
+    "translated_title": "Unity China Publisher Hub 的童话怪物包",
+    "publishedAt": "2026-09-20T02:36:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Bengaluru new homes move beyond reach",
+    "translated_title": "班加罗尔的新住宅遥不可及",
+    "publishedAt": "2026-09-20T02:35:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "conferllm 0.2.0",
+    "translated_title": "授予0.2.0",
+    "publishedAt": "2026-09-20T02:34:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Customer-Losing Flock Now Offers Buyouts to Avoid Laying Off Employees",
+    "translated_title": "失去客户的群体现在提供买断以避免解雇员工",
+    "publishedAt": "2026-09-20T02:34:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "RSA-896 factored with AI assistance, pushing the public record to 896 bits",
+    "translated_title": "RSA-896 在 AI 协助下进行分解，将公共记录推至 896 位",
+    "publishedAt": "2026-09-20T02:33:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ucloud-sandbox 1.4.5",
+    "translated_title": "ucloud-sandbox 1.4.5",
+    "publishedAt": "2026-09-20T02:33:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump calls to rename artificial intelligence after whistleblower says new tech could destroy humanity",
+    "translated_title": "举报人称新技术可能毁灭人类后，特朗普呼吁重新命名人工智能",
+    "publishedAt": "2026-09-20T02:32:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "10 Times Iron Man’s Tech Was Stolen and Used Against the Heroes",
+    "translated_title": "钢铁侠的技术十次被盗并用于对抗英雄",
+    "publishedAt": "2026-09-20T02:30:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Telehealth services increased since COVID-19 — but have been accused of deceptive practices",
+    "translated_title": "自 COVID-19 以来，远程医疗服务有所增加，但被指控存在欺骗行为",
+    "publishedAt": "2026-09-20T02:29:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NGINX Routing on HTTP Request Body",
+    "translated_title": "HTTP 请求正文上的 NGINX 路由",
+    "publishedAt": "2026-09-20T02:28:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agent-toolkit-cli 1.32.0",
+    "translated_title": "代理工具包-cli 1.32.0",
+    "publishedAt": "2026-09-20T02:27:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Green Lantern #39 Preview: Kyle Battles Killer Burger Mascots",
+    "translated_title": "绿灯侠 #39 预览：凯尔大战杀手汉堡吉祥物",
+    "publishedAt": "2026-09-20T02:27:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "jupyter-aiterminal 0.7.0",
+    "translated_title": "jupyter-aiterminal 0.7.0",
+    "publishedAt": "2026-09-20T02:26:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "alcf-ai 0.15.0",
+    "translated_title": "alcf-ai 0.15.0",
+    "publishedAt": "2026-09-20T02:24:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dhole-mcp 14.1",
+    "translated_title": "dhole-MCP 14.1",
+    "publishedAt": "2026-09-20T02:23:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "orbi-cli 0.5.30",
+    "translated_title": "orbi-cli 0.5.30",
+    "publishedAt": "2026-09-20T02:22:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Germany’s Oktoberfest kicks off rowdy festivities as mayor taps first beer keg",
+    "translated_title": "德国慕尼黑啤酒节热闹非凡，市长敲响第一个啤酒桶",
+    "publishedAt": "2026-09-20T02:20:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "spec4 1.5.1",
+    "translated_title": "规范4 1.5.1",
+    "publishedAt": "2026-09-20T02:19:37Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The FAA Is Spending Nearly a Billion Dollars to Make AI the \"Brain\" of Air Traffic Control Towers, Starting This Monday",
+    "translated_title": "从本周一开始，美国联邦航空局将花费近十亿美元让人工智能成为空中交通管制塔的“大脑”",
+    "publishedAt": "2026-09-20T02:19:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sdcs added to PyPI",
+    "translated_title": "sdcs 添加到 PyPI",
+    "publishedAt": "2026-09-20T02:16:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "monai-weekly 1.7.dev2638",
+    "translated_title": "莫奈周刊 1.7.dev2638",
+    "publishedAt": "2026-09-20T02:16:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "exitzero 0.4.0",
+    "translated_title": "零出口 0.4.0",
+    "publishedAt": "2026-09-20T02:10:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Nippon Life targets $13B in US data center financing as AI infrastructure demand surges",
+    "translated_title": "随着人工智能基础设施需求激增，日本人寿瞄准美国数据中心融资 13B 美元",
+    "publishedAt": "2026-09-20T02:09:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "REPORT: Sports Gambling App Allegedly Uses AI To Target Those Most Likely To Lose Money On Bets",
+    "translated_title": "报告：体育博彩应用程序据称使用人工智能来瞄准那些最有可能在投注中赔钱的人",
+    "publishedAt": "2026-09-20T02:06:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Mini Session: AI Marketing Automation",
+    "translated_title": "迷你会议：人工智能营销自动化",
+    "publishedAt": "2026-09-20T02:03:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Huawei Unveils Upgraded Stellar AI Campus Network to Usher in the New Era of AI Campuses",
+    "translated_title": "华为发布升级版Stellar AI园区网，开启AI园区新时代",
+    "publishedAt": "2026-09-20T02:00:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Mountains That Helped Complex Life Flourish May Lie Hidden Beneath Antarctic Ice",
+    "translated_title": "帮助复杂生命繁盛的山脉可能隐藏在南极冰层之下",
+    "publishedAt": "2026-09-20T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Albanese refuses to give direct answer on if copyright laws will be diluted for AI giants ahead of high-stakes talks with Donald Trump",
+    "translated_title": "在与唐纳德·特朗普进行高风险谈判之前，阿尔巴尼斯拒绝直接回答人工智能巨头的版权法是否会被削弱",
+    "publishedAt": "2026-09-20T01:58:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "在 AI 时代到来之前，我手搓了一本长篇小说 (评论: 逃离新世界)",
+    "translated_title": "在 AI 时代到来之前，我手搓了一本长篇小说 (评论: 逃离新世界)",
+    "publishedAt": "2026-09-20T01:50:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "shadowaitools 1.0.1",
+    "translated_title": "影子工具 1.0.1",
+    "publishedAt": "2026-09-20T01:50:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiblocklist 1.0.1",
+    "translated_title": "aiblocklist 1.0.1",
+    "publishedAt": "2026-09-20T01:49:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "This $899 golf launch monitor tracks your swing in 3D and tells you how to fix it",
+    "translated_title": "这款价值 899 美元的高尔夫发射监视器以 3D 方式跟踪您的挥杆动作并告诉您如何修复它",
+    "publishedAt": "2026-09-20T01:45:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meet the gig workers helping train robots to do our dishes",
+    "translated_title": "认识一下帮助训练机器人洗碗的零工",
+    "publishedAt": "2026-09-20T01:41:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "株式会社AX、AI導入後の業務再設計に関する分析レポートを公開｜公開事例4社から見る、AIに任せる業務と人が担う判断",
+    "translated_title": "AXE株式会社发布引入AI后业务再设计分析报告 |从四个已发表的案例研究可以看出哪些任务应该委托给人工智能以及哪些决策应该由人类做出",
+    "publishedAt": "2026-09-20T01:40:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "塾・学校の英検(R)指導向けに、スタスタAppsが先生連携へ「未確認答案」の管理機能を追加",
+    "translated_title": "StarStar Apps 为补习班和学校的 Eiken (R) 教学教师协作添加了“未确认答案”的管理功能",
+    "publishedAt": "2026-09-20T01:40:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "secure-ai-guard added to PyPI",
+    "translated_title": "secure-ai-guard 添加到 PyPI",
+    "publishedAt": "2026-09-20T01:40:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Injective partners with Microsoft to host onchain commerce event ahead of Token2049",
+    "translated_title": "Injective 与 Microsoft 合作在 Token2049 之前举办链上商务活动",
+    "publishedAt": "2026-09-20T01:35:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "moiryx added to PyPI",
+    "translated_title": "moiryx 添加到 PyPI",
+    "publishedAt": "2026-09-20T01:35:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "translated_title": "并非所有人工智能工作者都认为这项技术会杀死所有人",
+    "publishedAt": "2026-09-20T01:34:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Kalshi files for perpetual futures tied to US stocks, joins Coinbase in race to bring crypto-native trading to equities",
+    "translated_title": "Kalshi 申请与美国股票挂钩的永续期货，加入 Coinbase 竞相将加密原生交易引入股票",
+    "publishedAt": "2026-09-20T01:34:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "translated_title": "Meta 的 Muse 令人毛骨悚然，但原因也许不是你想象的那样",
+    "publishedAt": "2026-09-20T01:34:21Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "lexis-cli 0.5.0",
+    "translated_title": "词法-cli 0.5.0",
+    "publishedAt": "2026-09-20T01:32:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dhole-mcp added to PyPI",
+    "translated_title": "dhole-mcp 添加到 PyPI",
+    "publishedAt": "2026-09-20T01:32:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "dhole-mcp 14.0",
+    "translated_title": "dhole-MCP 14.0",
+    "publishedAt": "2026-09-20T01:32:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Convey is a GTK4/libadwaita fork of Linux email app Geary",
+    "translated_title": "Convey 是 Linux 电子邮件应用 Geary 的 GTK4/libadwaita 分支",
+    "publishedAt": "2026-09-20T01:31:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Australian Prime Minister Albanese urges US-China cooperation on AI risks",
+    "translated_title": "澳大利亚总理阿尔巴内塞敦促中美合作应对人工智能风险",
+    "publishedAt": "2026-09-20T01:29:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Disney Hires Ex-CEO Of AI Company It Accused Of Copyright Infringement",
+    "translated_title": "迪士尼聘请被指控侵犯版权的人工智能公司前首席执行官",
+    "publishedAt": "2026-09-20T01:19:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tea-agent 0.16.7",
+    "translated_title": "茶剂0.16.7",
+    "publishedAt": "2026-09-20T01:14:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "articulate-writing 0.3.0",
+    "translated_title": "清晰写作 0.3.0",
+    "publishedAt": "2026-09-20T01:11:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aitoolsblocklist 1.1.0",
+    "translated_title": "aitoolsblocklist 1.1.0",
+    "publishedAt": "2026-09-20T01:10:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiagentallowlist 1.0.2",
+    "translated_title": "aiagentallowlist 1.0.2",
+    "publishedAt": "2026-09-20T01:10:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "shadowaitools added to PyPI",
+    "translated_title": "Shadowaitools 添加到 PyPI",
+    "publishedAt": "2026-09-20T01:10:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "shadowaitools 1.0.0",
+    "translated_title": "影子工具 1.0.0",
+    "publishedAt": "2026-09-20T01:10:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiblocklist added to PyPI",
+    "translated_title": "aiblocklist 添加到 PyPI",
+    "publishedAt": "2026-09-20T01:10:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiblocklist 1.0.0",
+    "translated_title": "aiblocklist 1.0.0",
+    "publishedAt": "2026-09-20T01:10:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Weekend 9.19",
+    "translated_title": "周末 9.19",
+    "publishedAt": "2026-09-20T01:06:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "peaky-peek 0.4.0",
+    "translated_title": "高峰窥视 0.4.0",
+    "publishedAt": "2026-09-20T01:05:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Edit Everything – Turn screenshots into editable elements, drag, drop, and restyle on mobile",
+    "translated_title": "编辑一切 - 将屏幕截图转换为可编辑元素，在移动设备上进行拖放和重新设计样式",
+    "publishedAt": "2026-09-20T01:05:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "parrot-formdesigner 1.0.5",
+    "translated_title": "鹦鹉形式设计器 1.0.5",
+    "publishedAt": "2026-09-20T01:04:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "riskratchet 0.3.8",
+    "translated_title": "风险棘轮0.3.8",
+    "publishedAt": "2026-09-20T01:04:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Semiconductor Stocks to Buy and Hold Through 2030",
+    "translated_title": "2030 年值得买入并持有的半导体股票",
+    "publishedAt": "2026-09-20T01:04:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Apple's Tim Cook sees Australia's social media curbs as 'world-leading', PM says",
+    "translated_title": "总理表示，苹果公司蒂姆·库克认为澳大利亚的社交媒体限制措施“世界领先”",
+    "publishedAt": "2026-09-20T01:04:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-visualizations 1.0.5",
+    "translated_title": "ai-鹦鹉-可视化 1.0.5",
+    "publishedAt": "2026-09-20T01:04:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-tools 1.0.5",
+    "translated_title": "ai-鹦鹉工具 1.0.5",
+    "publishedAt": "2026-09-20T01:04:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-server 1.0.5",
+    "translated_title": "ai-鹦鹉-服务器 1.0.5",
+    "publishedAt": "2026-09-20T01:03:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-pipelines 1.0.5",
+    "translated_title": "ai-鹦鹉-管道 1.0.5",
+    "publishedAt": "2026-09-20T01:03:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-openlit-bridge 0.2.5",
+    "translated_title": "ai-鹦鹉-openlit-bridge 0.2.5",
+    "publishedAt": "2026-09-20T01:03:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-loaders 1.0.5",
+    "translated_title": "ai-鹦鹉-装载机 1.0.5",
+    "publishedAt": "2026-09-20T01:03:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-integrations 1.0.5",
+    "translated_title": "ai-鹦鹉-集成 1.0.5",
+    "publishedAt": "2026-09-20T01:03:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-embeddings 1.0.5",
+    "translated_title": "ai-鹦鹉-嵌入 1.0.5",
+    "publishedAt": "2026-09-20T01:03:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-vllm 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-vllm 0.2.5",
+    "publishedAt": "2026-09-20T01:03:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-openrouter 0.2.5",
+    "translated_title": "ai-parrot-客户端-openrouter 0.2.5",
+    "publishedAt": "2026-09-20T01:03:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-openai 0.2.5",
+    "translated_title": "ai-parrot-client-openai 0.2.5",
+    "publishedAt": "2026-09-20T01:03:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-moonshot 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-moonshot 0.2.5",
+    "publishedAt": "2026-09-20T01:03:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-meta 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-元 0.2.5",
+    "publishedAt": "2026-09-20T01:03:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-local 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-本地 0.2.5",
+    "publishedAt": "2026-09-20T01:03:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-hf 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-hf 0.2.5",
+    "publishedAt": "2026-09-20T01:03:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-groq 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-groq 0.2.5",
+    "publishedAt": "2026-09-20T01:03:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Druckenmiller warns of potential AI earnings bubble amid IPO surge",
+    "translated_title": "德鲁肯米勒警告 IPO 激增期间潜在的人工智能盈利泡沫",
+    "publishedAt": "2026-09-20T01:03:36Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-grok 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-grok 0.2.5",
+    "publishedAt": "2026-09-20T01:03:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-google 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-谷歌 0.2.5",
+    "publishedAt": "2026-09-20T01:03:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-gemma4 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-gemma4 0.2.5",
+    "publishedAt": "2026-09-20T01:03:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-anthropic 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-人类 0.2.5",
+    "publishedAt": "2026-09-20T01:03:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-client-amazon 0.2.5",
+    "translated_title": "ai-鹦鹉-客户端-亚马逊 0.2.5",
+    "publishedAt": "2026-09-20T01:03:29Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot-advisors 1.0.5",
+    "translated_title": "人工智能鹦鹉顾问 1.0.5",
+    "publishedAt": "2026-09-20T01:03:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-parrot 1.0.5",
+    "translated_title": "爱鹦鹉1.0.5",
+    "publishedAt": "2026-09-20T01:03:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oracle Health Wins 11-Hospital EHR Deal at Quorum",
+    "translated_title": "Oracle Health 在 Quorum 赢得 11 家医院 EHR 交易",
+    "publishedAt": "2026-09-20T01:02:26Z"
+  },
+  {
     "keyword": "芯片",
     "title": "Deepin: (中文) 小板子运行大模型：deepin 25 RVA23 版本适配进迭时空芯片 SpacemiT K3",
     "translated_title": "Deepin: (中文) 小板子运行大模型：deepin 25 RVA23 版本适配进迭时空芯片 SpacemiT K3",
@@ -34,11 +634,5 @@
     "title": "政府債務の評価と持続可能性についての考え",
     "translated_title": "关于政府债务评估和可持续性的思考",
     "publishedAt": "2026-08-23T14:30:25Z"
-  },
-  {
-    "keyword": "能源",
-    "title": "臺北廣播電臺獲「2026 英國 FADA 未來藝術與設計獎」",
-    "translated_title": "台北广播电台获「2026 英国 FADA 未来艺术与设计奖」",
-    "publishedAt": "2026-08-21T20:18:02Z"
   }
 ]
