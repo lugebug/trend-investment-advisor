@@ -1,9 +1,615 @@
 [
   {
+    "keyword": "AI",
+    "title": "I Asked a Privacy Tool What ChatGPT Knows About Me. The Result Was Terrifyingly Accurate",
+    "translated_title": "我询问隐私工具 ChatGPT 了解我的哪些信息。结果非常准确",
+    "publishedAt": "2026-10-04T03:36:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "eio-agents 0.8.1",
+    "translated_title": "eio-代理 0.8.1",
+    "publishedAt": "2026-10-04T03:36:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "contextlake 9.6.0",
+    "translated_title": "上下文湖 9.6.0",
+    "publishedAt": "2026-10-04T03:35:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "grimoire-kit 3.62.1",
+    "translated_title": "魔法书套件 3.62.1",
+    "publishedAt": "2026-10-04T03:35:34Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "New crime fiction books, including Jasper Fforde’s funny triumph of human creativity",
+    "translated_title": "新的犯罪小说书籍，包括贾斯珀·福德 (Jasper Fforde) 人类创造力的有趣胜利",
+    "publishedAt": "2026-10-04T03:34:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mindroom 2026.10.104",
+    "translated_title": "心灵空间 2026.10.104",
+    "publishedAt": "2026-10-04T03:33:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llm-catalog-ai-sdk 0.1.0",
+    "translated_title": "llm-catalog-ai-sdk 0.1.0",
+    "publishedAt": "2026-10-04T03:32:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llm-catalog-ai-sdk added to PyPI",
+    "translated_title": "llm-catalog-ai-sdk 添加到 PyPI",
+    "publishedAt": "2026-10-04T03:32:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "seren-margin 2.5.0",
+    "translated_title": "塞伦边缘 2.5.0",
+    "publishedAt": "2026-10-04T03:32:55Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "llm-catalog-pydantic-ai 0.6.0",
+    "translated_title": "llm-catalog-pydantic-ai 0.6.0",
+    "publishedAt": "2026-10-04T03:32:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "parlaibero-mcp 0.4.0",
+    "translated_title": "parlaibero-MCP 0.4.0",
+    "publishedAt": "2026-10-04T03:29:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-ai 0.5.457",
+    "translated_title": "matrx-ai 0.5.457",
+    "publishedAt": "2026-10-04T03:28:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agnix 0.56.3",
+    "translated_title": "烈火0.56.3",
+    "publishedAt": "2026-10-04T03:28:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "coreQ AI Unveils Data Infrastructure Roadmap for the Next Generation of Physical AI",
+    "translated_title": "coreQ AI 公布下一代物理人工智能的数据基础设施路线图",
+    "publishedAt": "2026-10-04T03:27:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentkai 0.3.0",
+    "translated_title": "代理0.3.0",
+    "publishedAt": "2026-10-04T03:27:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentao 0.5.10",
+    "translated_title": "代理0.5.10",
+    "publishedAt": "2026-10-04T03:23:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "U hosts Gulf States Forum offering insight into geopolitics and diplomacy",
+    "translated_title": "大学主办海湾国家论坛，深入探讨地缘政治和外交",
+    "publishedAt": "2026-10-04T03:23:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "If a chatbot prompt like ‘find Australian medicine statistics’ results in a website breach, the responsibility does not lie with a piece of code",
+    "translated_title": "如果像“查找澳大利亚医学统计数据”这样的聊天机器人提示导致网站违规，责任不在于一段代码",
+    "publishedAt": "2026-10-04T03:22:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wedge-ai 0.3.40",
+    "translated_title": "楔形人工智能 0.3.40",
+    "publishedAt": "2026-10-04T03:22:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cadpilot 0.5.6",
+    "translated_title": "cadpilot 0.5.6",
+    "publishedAt": "2026-10-04T03:21:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IT sector faces another muted quarter as pricing pressure, geopolitics weigh on growth: Report",
+    "translated_title": "由于定价压力、地缘政治因素拖累增长，IT行业面临又一个低迷的季度：报告",
+    "publishedAt": "2026-10-04T03:20:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "unlimited 0.1.12",
+    "translated_title": "无限制 0.1.12",
+    "publishedAt": "2026-10-04T03:20:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memtether 0.1.0a18",
+    "translated_title": "甲基苯醚0.1.0a18",
+    "publishedAt": "2026-10-04T03:19:16Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "memoryrelay 0.4.0",
+    "translated_title": "内存继电器0.4.0",
+    "publishedAt": "2026-10-04T03:18:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "eigrel 0.5.0",
+    "translated_title": "艾格尔0.5.0",
+    "publishedAt": "2026-10-04T03:18:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump Tries To Fire Up Ohio Voters As Republicans Defend Senate Seat In Close Race",
+    "translated_title": "共和党在势均力敌的竞争中捍卫参议院席位，特朗普试图激怒俄亥俄州选民",
+    "publishedAt": "2026-10-04T03:15:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google Gemini sets new limits for free users: What changes, which features will remain available; check",
+    "translated_title": "Google Gemini 为免费用户设置了新的限制：哪些变化，哪些功能将保持可用；查看",
+    "publishedAt": "2026-10-04T03:15:12Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI Is Helping Set McDonald’s Prices: Here’s What That Means for Your Order",
+    "translated_title": "人工智能正在帮助麦当劳制定价格：这对您的订单意味着什么",
+    "publishedAt": "2026-10-04T03:13:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI deal boom drives Hong Kong fundraising to record summer",
+    "translated_title": "人工智能交易热潮推动香港夏季融资创纪录",
+    "publishedAt": "2026-10-04T03:13:05Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Amazon Kindle Celebrates its 20th anniversary in 2027",
+    "translated_title": "亚马逊 Kindle 将于 2027 年庆祝诞生 20 周年",
+    "publishedAt": "2026-10-04T03:11:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SIBIONICS and PharmaSens Explore New Horizons for Automated Insulin Delivery at EASD 2026",
+    "translated_title": "SIBIONICS 和 PharmaSens 在 EASD 2026 上探索自动胰岛素输送的新视野",
+    "publishedAt": "2026-10-04T03:09:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SIBIONICS and PharmaSens Explore New Horizons for Automated Insulin Delivery at EASD 2026",
+    "translated_title": "SIBIONICS 和 PharmaSens 在 EASD 2026 上探索自动胰岛素输送的新视野",
+    "publishedAt": "2026-10-04T03:09:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tokenome-ai added to PyPI",
+    "translated_title": "tokenome-ai 添加到 PyPI",
+    "publishedAt": "2026-10-04T03:07:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Organizers encourage exploring new fields as hundreds of girls attend Girls and STEAM Summit in Vancouver",
+    "translated_title": "数百名女孩参加温哥华女孩与 STEAM 峰会，组织者鼓励探索新领域",
+    "publishedAt": "2026-10-04T03:05:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-ai 0.5.456",
+    "translated_title": "matrx-ai 0.5.456",
+    "publishedAt": "2026-10-04T03:03:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mcp-tollbooth 0.4.0",
+    "translated_title": "mcp-收费站 0.4.0",
+    "publishedAt": "2026-10-04T03:02:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "my-claude-code 7.71.0",
+    "translated_title": "我的克劳德代码 7.71.0",
+    "publishedAt": "2026-10-04T03:00:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Wearable 2-way radio delivers nearly unlimited range across the wild",
+    "translated_title": "可穿戴式双向无线电在野外提供几乎无限的范围",
+    "publishedAt": "2026-10-04T03:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Morgan – Personal AI that asks before acting on your computer and phone",
+    "translated_title": "Morgan – 个人人工智能，在对您的计算机和手机进行操作之前会进行询问",
+    "publishedAt": "2026-10-04T03:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "11 Million US Workers May Need To Switch Careers By 2035",
+    "translated_title": "到 2035 年，1100 万美国工人可能需要转行",
+    "publishedAt": "2026-10-04T02:57:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "michelangelo 0.11.0.dev20261004",
+    "translated_title": "米开朗基罗 0.11.0.dev20261004",
+    "publishedAt": "2026-10-04T02:57:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "brandly-cli 0.10.0",
+    "translated_title": "Brandly-cli 0.10.0",
+    "publishedAt": "2026-10-04T02:57:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "curious-astronaut 8.5.0",
+    "translated_title": "好奇宇航员 8.5.0",
+    "publishedAt": "2026-10-04T02:56:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "skillgate-ai 0.3.0",
+    "translated_title": "技能门-ai 0.3.0",
+    "publishedAt": "2026-10-04T02:52:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "skillgate-ai added to PyPI",
+    "translated_title": "Skillgate-ai 添加到 PyPI",
+    "publishedAt": "2026-10-04T02:52:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "prompt-injection-email-samples",
+    "translated_title": "提示注入电子邮件样本",
+    "publishedAt": "2026-10-04T02:51:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "anona 0.19.1",
+    "translated_title": "什么0.19.1",
+    "publishedAt": "2026-10-04T02:50:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "monai-weekly 1.7.dev2640",
+    "translated_title": "莫奈周刊 1.7.dev2640",
+    "publishedAt": "2026-10-04T02:50:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aio-gemini-mcp added to PyPI",
+    "translated_title": "aio-gemini-mcp 添加到 PyPI",
+    "publishedAt": "2026-10-04T02:48:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "zanii-blackbox 0.10.0",
+    "translated_title": "zanii-blackbox 0.10.0",
+    "publishedAt": "2026-10-04T02:48:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "crm-mcp 0.7.6",
+    "translated_title": "客户关系管理-MCP 0.7.6",
+    "publishedAt": "2026-10-04T02:47:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "groundcheck-rag 0.2.0",
+    "translated_title": "地面检查抹布 0.2.0",
+    "publishedAt": "2026-10-04T02:46:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "manifest-trace added to PyPI",
+    "translated_title": "清单跟踪已添加到 PyPI",
+    "publishedAt": "2026-10-04T02:43:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-ai 0.5.455",
+    "translated_title": "matrx-ai 0.5.455",
+    "publishedAt": "2026-10-04T02:43:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Oppn in Thane seeks action against ‘Aaka’ amid 52 murders, demands CBI probe into Sena UBT man’s killing",
+    "translated_title": "塔那的 Oppn 寻求对 52 起谋杀案中的“Aaka”采取行动，要求 CBI 调查 Sena UBT 男子被杀事件",
+    "publishedAt": "2026-10-04T02:42:15Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "From parks to pavements, redesign cities around women’s needs",
+    "translated_title": "从公园到人行道，围绕女性需求重新设计城市",
+    "publishedAt": "2026-10-04T02:41:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UP Special TET 2026 registration ends tomorrow: Check eligibility, application fee and OTR details",
+    "translated_title": "UP Special TET 2026 注册明天结束：检查资格、申请费和 OTR 详细信息",
+    "publishedAt": "2026-10-04T02:40:47Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "everpod 0.3.0",
+    "translated_title": "埃弗波0.3.0",
+    "publishedAt": "2026-10-04T02:38:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "tradefloor 0.9.1",
+    "translated_title": "交易平台0.9.1",
+    "publishedAt": "2026-10-04T02:36:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "shardflux 0.10.0",
+    "translated_title": "碎片通量 0.10.0",
+    "publishedAt": "2026-10-04T02:35:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Now, Centre wants Air Force Golf Course land on Delhi's LKM back",
+    "translated_title": "现在，中心希望空军高尔夫球场重新回到德里的 LKM 上",
+    "publishedAt": "2026-10-04T02:32:50Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Public authority must stay within bounds of law: SC",
+    "translated_title": "公共权力必须遵守法律：SC",
+    "publishedAt": "2026-10-04T02:32:19Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "MP Police Constable recruitment 2026: Registration ends October 6 for 7,500 posts; direct link to apply here",
+    "translated_title": "2026 年 MP 警察招募：7,500 个职位的注册将于 10 月 6 日结束；此处直接申请链接",
+    "publishedAt": "2026-10-04T02:32:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "maintainability-agent 4.2.0",
+    "translated_title": "可维护性代理 4.2.0",
+    "publishedAt": "2026-10-04T02:31:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "montaj 5.22.3",
+    "translated_title": "装配5.22.3",
+    "publishedAt": "2026-10-04T02:28:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump picks intelligence chief Jay Clayton as AI czar, report says",
+    "translated_title": "报道称，特朗普任命情报总监杰伊·克莱顿为人工智能沙皇",
+    "publishedAt": "2026-10-04T02:27:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI’s Sam Altman Takes A Dig At Anthropic’s Altercation With The Pope On AI Consciousness, Conveniently Forgetting His Own Antics That Have Leaned On Religious Symbolism",
+    "translated_title": "OpenAI 的 Sam Altman 挖苦了 Anthropic 与教皇在人工智能意识问题上的争执，轻松地忘记了自己依赖宗教象征主义的滑稽动作",
+    "publishedAt": "2026-10-04T02:27:26Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Jonah Hex and the Shadow of Death #1 Preview",
+    "translated_title": "乔纳·海克斯与死亡之影 #1 预览",
+    "publishedAt": "2026-10-04T02:27:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump defends data centers in Ohio, warns they’ll go to China if US turns them away",
+    "translated_title": "特朗普捍卫俄亥俄州数据中心，警告称如果美国拒绝这些数据中心，他们将前往中国",
+    "publishedAt": "2026-10-04T02:26:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "connectonion 1.9.0a40",
+    "translated_title": "连接1.9.0a40",
+    "publishedAt": "2026-10-04T02:23:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "qveris 0.8.0",
+    "translated_title": "任意 0.8.0",
+    "publishedAt": "2026-10-04T02:21:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI's Sam Altman criticises Anthropic’s push to explore AI consciousness and religion",
+    "translated_title": "OpenAI 的 Sam Altman 批评 Anthropic 推动探索人工智能意识和宗教",
+    "publishedAt": "2026-10-04T02:18:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiuse 3.2.5",
+    "translated_title": "艾乌斯3.2.5",
+    "publishedAt": "2026-10-04T02:17:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "cortrix 1.0.0rc2",
+    "translated_title": "皮质1.0.0rc2",
+    "publishedAt": "2026-10-04T02:17:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "idealens 0.1.5",
+    "translated_title": "理想0.1.5",
+    "publishedAt": "2026-10-04T02:15:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "omni-agents-cli 1.0.3",
+    "translated_title": "全方位代理-cli 1.0.3",
+    "publishedAt": "2026-10-04T02:15:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "matrx-ai 0.5.454",
+    "translated_title": "matrx-ai 0.5.454",
+    "publishedAt": "2026-10-04T02:14:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vibey-engine 4.0.0",
+    "translated_title": "维比引擎 4.0.0",
+    "publishedAt": "2026-10-04T02:13:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Chinese Hackers Impersonate Former White House Official In Attempt To Steal US AI Policy Secrets",
+    "translated_title": "中国黑客冒充前白宫官员试图窃取美国人工智能政策机密",
+    "publishedAt": "2026-10-04T02:13:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
+    "translated_title": "质量重于数量：中国人工智能微剧制作人对抗观众疲劳",
+    "publishedAt": "2026-10-04T02:13:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents - bloomberg.com",
+    "translated_title": "苹果将​​加强 Mac 数据控制以防范 AI 代理",
+    "publishedAt": "2026-10-04T02:12:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Trump names DNI chief Jay Clayton as AI czar to lead new White House task force: Report",
+    "translated_title": "特朗普任命国家情报总监杰伊·克莱顿为人工智能沙皇，领导新的白宫特别工作组：报告",
+    "publishedAt": "2026-10-04T02:12:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Democracy & the Arts, 1970 Paris, National Archives Protection Act, More: Saturday Evening ResearchBuzz, October 3, 2026",
+    "translated_title": "民主与艺术，1970 年巴黎，国家档案保护法，更多：周六晚间 ResearchBuzz，2026 年 10 月 3 日",
+    "publishedAt": "2026-10-04T02:11:46Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "NSW National Parks web app accessed by OpenAI agent",
+    "translated_title": "OpenAI 代理访问新南威尔士州国家公园 Web 应用程序",
+    "publishedAt": "2026-10-04T02:11:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "entelligence-cli 0.1.363",
+    "translated_title": "智能-cli 0.1.363",
+    "publishedAt": "2026-10-04T02:07:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Cerebras sidesteps AI chip supply bottlenecks with 5nm wafer-scale design",
+    "translated_title": "Cerebras 通过 5 纳米晶圆级设计避开 AI 芯片供应瓶颈",
+    "publishedAt": "2026-10-04T02:05:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Adnoc-backed AIQ secures deal to enter India's oil and gas markets",
+    "translated_title": "Adnoc支持的AIQ达成进入印度石油和天然气市场的协议",
+    "publishedAt": "2026-10-04T02:05:03Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "podcast-creator 0.13.1",
+    "translated_title": "播客创建者 0.13.1",
+    "publishedAt": "2026-10-04T02:03:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "TV review: Scammed (2026)",
+    "translated_title": "电视评论：诈骗 (2026)",
+    "publishedAt": "2026-10-04T02:03:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張",
+    "translated_title": "OpenAI 安全员工辞职，称“公司文化被破坏”",
+    "publishedAt": "2026-10-04T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Official Information Act: OIA reforms could make government information harder to access – David Harvey",
+    "translated_title": "官方信息法：OIA 改革可能会使政府信息更难获取——大卫·哈维",
+    "publishedAt": "2026-10-04T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Tory conference 2026: What POLITICO reporters are watching for",
+    "translated_title": "2026 年保守党会议：POLITICO 记者在关注什么",
+    "publishedAt": "2026-10-04T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+    "translated_title": "OpenAI 安全负责人辞职，警告人工智能公司文化已“破碎”",
+    "publishedAt": "2026-10-04T01:58:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "applyr 1.19.0",
+    "translated_title": "应用程序1.19.0",
+    "publishedAt": "2026-10-04T01:57:49Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Show HN: A free FAQ and appointment booking API for small businesses",
+    "translated_title": "Show HN：面向小型企业的免费常见问题解答和预约 API",
+    "publishedAt": "2026-10-04T01:57:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI, Power, and Our Future",
+    "translated_title": "人工智能、电力和我们的未来",
+    "publishedAt": "2026-10-04T01:57:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ai-afterimage 0.8.0",
+    "translated_title": "ai-残像 0.8.0",
+    "publishedAt": "2026-10-04T01:56:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Apple’s New macOS Controls Are the First OS-Level Move Specifically Targeting AI Agent Risks",
+    "translated_title": "Apple 的新 macOS 控件是第一个专门针对 AI 代理风险的操作系统级别举措",
+    "publishedAt": "2026-10-04T01:55:10Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Efinix Sapphire RV64 brings 64-bit RISC-V and Linux to FPGAs",
+    "translated_title": "Efinix Sapphire RV64 将 64 位 RISC-V 和 Linux 引入 FPGA",
+    "publishedAt": "2026-10-04T01:55:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aiuse 3.2.4",
+    "translated_title": "爱乌斯3.2.4",
+    "publishedAt": "2026-10-04T01:55:04Z"
+  },
+  {
     "keyword": "芯片",
     "title": "Deepin: (中文) 小板子运行大模型：deepin 25 RVA23 版本适配进迭时空芯片 SpacemiT K3",
     "translated_title": "Deepin: (中文) 小板子运行大模型：deepin 25 RVA23 版本适配进迭时空芯片 SpacemiT K3",
     "publishedAt": "2026-09-17T01:48:44Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "各国間の所得格差の説明再訪",
+    "translated_title": "重新审视国家间收入差距的解释",
+    "publishedAt": "2026-10-03T14:59:00Z"
   },
   {
     "keyword": "能源",
