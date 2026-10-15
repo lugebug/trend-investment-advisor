@@ -1,9 +1,621 @@
 [
   {
+    "keyword": "AI",
+    "title": "Applied Materials CEO says AI race hinges on technology and capacity",
+    "translated_title": "应用材料公司首席执行官表示人工智能竞赛取决于技术和能力",
+    "publishedAt": "2026-10-14T02:47:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI engineer accused of bugging executive conference room",
+    "translated_title": "OpenAI 工程师被指控窃听行政会议室",
+    "publishedAt": "2026-10-14T02:47:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "China's September exports blow past forecasts, imports accelerate",
+    "translated_title": "中国9月出口超出预期，进口加速",
+    "publishedAt": "2026-10-14T02:47:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "brown-octopus 0.5.8",
+    "translated_title": "棕色章鱼 0.5.8",
+    "publishedAt": "2026-10-14T02:46:32Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bayanat-labelbench added to PyPI",
+    "translated_title": "Earnest-Labalbench 添加到 PP 中",
+    "publishedAt": "2026-10-14T02:46:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Future Focused: Vice Chief of Staff of the Army Details Army Autonomy Advancements",
+    "translated_title": "着眼未来：陆军副参谋长详细介绍陆军自主化进展",
+    "publishedAt": "2026-10-14T02:46:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "datagoat-decide 0.2.0",
+    "translated_title": "datagoat-决定 0.2.0",
+    "publishedAt": "2026-10-14T02:44:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vera-ai 2.1.1rc1",
+    "translated_title": "维拉-AI 2.1.1rc1",
+    "publishedAt": "2026-10-14T02:44:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ユニエ合同会社、株式会社センジュメイトと業務提携。札幌の中小企業向けに伴走型AI導入・活用ハンズオン支援サービスの提供を開始",
+    "translated_title": "与Unie LLC、Senjumate Co., Ltd.结成业务联盟，开始为札幌的中小企业提供伴随AI的导入和利用的实际支援服务",
+    "publishedAt": "2026-10-14T02:41:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "帝京平成大学、学校公式サイトと薬学部サイトを WOVN.io で2言語対応",
+    "translated_title": "帝京平成大学官方学校网站和药学部网站现已提供两种语言版本 WOVN.io",
+    "publishedAt": "2026-10-14T02:41:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "【プレスリリース】イーディーエル、Google for Education(TM) Higher Education PD Partner の認定を取得",
+    "translated_title": "[新闻稿] EDL 获得 Google for Education(TM) 高等教育 PD 合作伙伴认证",
+    "publishedAt": "2026-10-14T02:41:57Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "qilt-ai 0.0.0.dev0",
+    "translated_title": "qilt-ai 0.0.0.dev0",
+    "publishedAt": "2026-10-14T02:41:48Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "napier 0.1.1",
+    "translated_title": "纳皮尔 0.1.1",
+    "publishedAt": "2026-10-14T02:41:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "robomation 0.1.10",
+    "translated_title": "机器人化 0.1.10",
+    "publishedAt": "2026-10-14T02:41:27Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "qilt-ai added to PyPI",
+    "translated_title": "qilt-ai 添加到 PyPI",
+    "publishedAt": "2026-10-14T02:40:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Authenticity Over Automation: Using AI with Integrity in Sales",
+    "translated_title": "真实性优于自动化：在销售中诚信使用人工智能",
+    "publishedAt": "2026-10-14T02:40:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "mcp-gitlab 0.20.1",
+    "translated_title": "mcp-gitlab 0.20.1",
+    "publishedAt": "2026-10-14T02:38:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "bubblegum-ai 0.0.18",
+    "translated_title": "泡泡糖-ai 0.0.18",
+    "publishedAt": "2026-10-14T02:37:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Memory bottlenecks drive HBM shift to 8-layer stacks",
+    "translated_title": "内存瓶颈推动 HBM 转向 8 层堆栈",
+    "publishedAt": "2026-10-14T02:35:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "CVE-2026-74580: Linux vhost stale IOTLB cache leading to LPE and VM escape",
+    "translated_title": "CVE-2026-74580：Linux 虚拟主机陈旧的 IOTLB 缓存导致 LPE 和 VM 逃逸",
+    "publishedAt": "2026-10-14T02:34:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "kubeastra 0.2.3",
+    "translated_title": "库贝斯特拉 0.2.3",
+    "publishedAt": "2026-10-14T02:32:07Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hol-guard 3.44.0",
+    "translated_title": "霍尔守卫 3.44.0",
+    "publishedAt": "2026-10-14T02:31:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "fusiontest 0.2.41",
+    "translated_title": "融合测试0.2.41",
+    "publishedAt": "2026-10-14T02:31:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Asia shares edge up as chip selloff eases; US CPI awaited",
+    "translated_title": "随着芯片抛售的缓解，亚洲股市小幅上涨；等待美国CPI",
+    "publishedAt": "2026-10-14T02:30:33Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
+    "translated_title": "软银垃圾债券发行增加了首席执行官孙正义全押人工智能的赌注",
+    "publishedAt": "2026-10-14T02:30:24Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "「LLMOチェキ」、AI検索での露出を検索広告の費用に換算する「広告換算インサイト」を提供開始",
+    "translated_title": "“LLMO Cheki”推出“广告转化洞察”，将AI搜索中的曝光转化为搜索广告成本",
+    "publishedAt": "2026-10-14T02:30:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SoftBank junk bond sale raises stakes for CEO Son’s all-in AI bet",
+    "translated_title": "软银垃圾债券发行增加了首席执行官孙正义全押人工智能的赌注",
+    "publishedAt": "2026-10-14T02:29:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hired 0.0.24",
+    "translated_title": "雇用 0.0.24",
+    "publishedAt": "2026-10-14T02:29:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "opsward 0.0.17",
+    "translated_title": "向上0.0.17",
+    "publishedAt": "2026-10-14T02:28:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "APP Investors Have Opportunity to Lead AppLovin Corporation Securities Fraud Lawsuit with SBS Law",
+    "translated_title": "APP 投资者有机会根据 SBS Law 提起 AppLovin Corporation 证券欺诈诉讼",
+    "publishedAt": "2026-10-14T02:28:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Anthropic seeks rehearing of case over Pentagon's security risk branding",
+    "translated_title": "Anthropic 寻求重新审理有关五角大楼安全风险品牌的案件",
+    "publishedAt": "2026-10-14T02:26:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Star Trek: Red Shirts – Ghost of the 21st Century #3 Preview",
+    "translated_title": "星际迷航：红衫军 – 21 世纪幽灵 #3 预览",
+    "publishedAt": "2026-10-14T02:26:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "basemind-hermes-plugin 0.29.3",
+    "translated_title": "basemind-hermes-插件 0.29.3",
+    "publishedAt": "2026-10-14T02:25:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "basemind 0.29.3",
+    "translated_title": "基础思维 0.29.3",
+    "publishedAt": "2026-10-14T02:25:45Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "HBM capacity shift sends DDR4 contract prices rising faster than DDR5",
+    "translated_title": "HBM 产能转移导致 DDR4 合约价格上涨速度快于 DDR5",
+    "publishedAt": "2026-10-14T02:25:41Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI employee arrested for planting hidden recording device in office",
+    "translated_title": "OpenAI员工因在办公室放置隐藏录音装置被捕",
+    "publishedAt": "2026-10-14T02:25:28Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "napier added to PyPI",
+    "translated_title": "napier 添加到 PyPI",
+    "publishedAt": "2026-10-14T02:24:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Taiwan's export boom shifts toward AI servers, raising concentration risks",
+    "translated_title": "台湾出口热潮转向人工智能服务器，集中度风险上升",
+    "publishedAt": "2026-10-14T02:23:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "astromesh 0.69.0",
+    "translated_title": "星网 0.69.0",
+    "publishedAt": "2026-10-14T02:23:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IPA Invites CEATEC Japan Visitors to Help Shape Japan’s AI Future",
+    "translated_title": "IPA 邀请 CEATEC 日本访客帮助塑造日本的人工智能未来",
+    "publishedAt": "2026-10-14T02:22:39Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Piyush Goyal meets Rishi Sunak, Czech minister; trade, tech partnerships on agenda",
+    "translated_title": "Piyush Goyal 会见捷克部长 Rishi Sunak；贸易、技术伙伴关系提上议程",
+    "publishedAt": "2026-10-14T02:22:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The Apothecary Diaries Film's New Video Unveils Miyuki Sawashiro, Ai Mikami in Cast",
+    "translated_title": "《药剂师日记》电影新视频揭晓 泽代美雪、三上爱主演",
+    "publishedAt": "2026-10-14T02:21:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Kimberly Guilfoyle Reportedly Tried to Save Her Job by Insisting Damning Texts Were AI-Generated",
+    "translated_title": "据报道，金伯利·吉尔福伊尔（Kimberly Guilfoyle）试图通过坚称该死的文本是人工智能生成来保住她的工作",
+    "publishedAt": "2026-10-14T02:21:06Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Likang Life Sciences to Showcase Advances in Personalized Cancer Immunotherapy at Abu Dhabi Future Health Summit 2026",
+    "translated_title": "利康生命科学将在 2026 年阿布扎比未来健康峰会上展示个性化癌症免疫治疗的进展",
+    "publishedAt": "2026-10-14T02:21:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "michelangelo 0.12.0.dev20261014",
+    "translated_title": "米开朗基罗 0.12.0.dev20261014",
+    "publishedAt": "2026-10-14T02:20:17Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SkyAI risks SEC offer failure if SOL falls under $100",
+    "translated_title": "如果 SOL 跌破 100 美元，SkyAI 将面临 SEC 报价失败的风险",
+    "publishedAt": "2026-10-14T02:20:08Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "KYEC, Nvidia eye Texas site for US AI chip testing plant",
+    "translated_title": "京元电子和英伟达有意在德克萨斯州建设美国人工智能芯片测试工厂",
+    "publishedAt": "2026-10-14T02:17:31Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Adani and Jabil plan 50:50 JV to make AI data center hardware in India",
+    "translated_title": "阿达尼和捷普计划以 50:50 的比例组建合资企业，在印度生产人工智能数据中心硬件",
+    "publishedAt": "2026-10-14T02:13:52Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AppLovin Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - APP",
+    "translated_title": "AppLovin 公司因违反证券法被起诉 - 联系 DJS 法律小组讨论您的权利 - APP",
+    "publishedAt": "2026-10-14T02:13:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Aussie teacher is jailed after secretly taking photos of uniformed schoolgirls and using AI to generate nude images",
+    "translated_title": "澳大利亚老师因偷拍穿制服女学生并使用人工智能生成裸照而被判入狱",
+    "publishedAt": "2026-10-14T02:12:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "hank-format 0.1.1",
+    "translated_title": "汉克格式 0.1.1",
+    "publishedAt": "2026-10-14T02:12:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "VisionQuest Series Premiere Recap: The Vision Is Being Hunted & Gets An Unexpected Surprise - Spoilers",
+    "translated_title": "VisionQuest 系列首映回顾：愿景正在被追捕并获得意想不到的惊喜 - 剧透",
+    "publishedAt": "2026-10-14T02:11:43Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aon-agent added to PyPI",
+    "translated_title": "aon-agent 添加到 PyPI",
+    "publishedAt": "2026-10-14T02:10:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aon-agent 1.0.0",
+    "translated_title": "aon-代理 1.0.0",
+    "publishedAt": "2026-10-14T02:10:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "第13回 FIDO東京セミナー プログラム発表 12月4日（金）12:00開場",
+    "translated_title": "第十三届 FIDO 东京研讨会计划公告 12 月 4 日星期五 12:00 开放",
+    "publishedAt": "2026-10-14T02:10:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "inspect-ai 0.3.280",
+    "translated_title": "检查-ai 0.3.280",
+    "publishedAt": "2026-10-14T02:09:18Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI says staffer arrested for hidden recording device in office",
+    "translated_title": "OpenAI 称员工因在办公室隐藏录音设备被捕",
+    "publishedAt": "2026-10-14T02:09:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "pluglayer-mcp 0.26.10140209.38499499053.1",
+    "translated_title": "Pluglayer-MCP 0.26.10140209.38499499053.1",
+    "publishedAt": "2026-10-14T02:09:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+    "translated_title": "特朗普称台湾同意购买阿拉斯加液化天然气项目30%的天然气",
+    "publishedAt": "2026-10-14T02:09:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "braxis 3.0.4",
+    "translated_title": "行为 x.0.4",
+    "publishedAt": "2026-10-14T02:08:51Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "janction-render 0.4.97",
+    "translated_title": "联合渲染 0.4.97",
+    "publishedAt": "2026-10-14T02:08:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentfences 0.5.0",
+    "translated_title": "代理围栏 0.5.0",
+    "publishedAt": "2026-10-14T02:07:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "graph-mind-memory 0.8.0",
+    "translated_title": "图形思维记忆 0.8.0",
+    "publishedAt": "2026-10-14T02:07:20Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "「Gemini 4 Argon」を正式リリース、Claude Fable 5.1やGPT-6 Astraと同等性能で久しぶりにGoogleがAIトップ競争に追いつく",
+    "translated_title": "“Gemini 4 Argon”正式发布，性能相当于克劳德寓言5.1和GPT-6 Astra，谷歌一段时间以来首次赶上AI顶级竞赛",
+    "publishedAt": "2026-10-14T02:06:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "UPI MDR rollout pushed; India’s first quantum computer coming soon",
+    "translated_title": "推动 UPI MDR 推出；印度第一台量子计算机即将推出",
+    "publishedAt": "2026-10-14T02:05:42Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "aidevops 0.2.0",
+    "translated_title": "adevops 0.2.0",
+    "publishedAt": "2026-10-14T02:05:30Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Workday Signs C1 Ai Deal to Govern People and Agents - El-Balad.com",
+    "translated_title": "Workday 签署 C1 人工智能协议以管理人员和特工 - El-Balad.com",
+    "publishedAt": "2026-10-14T02:05:22Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Compal brings Nvidia-focused AI factory gear to OCP Global Summit 2026",
+    "translated_title": "仁宝携 Nvidia 聚焦的 AI 工厂设备出席 2026 年 OCP 全球峰会",
+    "publishedAt": "2026-10-14T02:04:58Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Google DeepMind and GovTech Singapore unveil on-device AI tool to fight chat scams",
+    "translated_title": "谷歌 DeepMind 和 GovTech Singapore 推出设备上人工智能工具来打击聊天诈骗",
+    "publishedAt": "2026-10-14T02:04:14Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "GRC Customers Have Spoken: Four Market Realities Vendors Can’t Ignore",
+    "translated_title": "GRC 客户心声：供应商不能忽视的四个市场现实",
+    "publishedAt": "2026-10-14T02:04:01Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "astromesh-okf added to PyPI",
+    "translated_title": "PP追加武装网格-of",
+    "publishedAt": "2026-10-14T02:03:53Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Microsoftが「XBOX LABS」を立ち上げ、AIを活用したレトロゲームの移植が目標か",
+    "translated_title": "微软推出“XBOX LABS”，旨在利用AI移植复古游戏？",
+    "publishedAt": "2026-10-14T02:03:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "supercarto 0.4.9",
+    "translated_title": "超级卡托0.4.9",
+    "publishedAt": "2026-10-14T02:02:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "IMF says higher bond yields underscore urgency of fiscal consolidation",
+    "translated_title": "国际货币基金组织表示，债券收益率上升凸显财政整顿的紧迫性",
+    "publishedAt": "2026-10-14T02:02:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ARLnow Daily Debrief for Oct 13, 2026",
+    "translated_title": "ARLnow 2026 年 10 月 13 日每日简报",
+    "publishedAt": "2026-10-14T02:00:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "DixonBaxi Lead ADC in the Search for What’s Next",
+    "translated_title": "DixonBaxi 领导 ADC 寻找下一步发展",
+    "publishedAt": "2026-10-14T02:00:38Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "The ‘Sophisticated’ Bug OpenAI Found in Its Conference Room Can Be Yours for $13.99",
+    "translated_title": "OpenAI 在其会议室中发现的“复杂”漏洞只需 13.99 美元即可获得",
+    "publishedAt": "2026-10-14T02:00:35Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Gold prices flat as markets await US CPI data",
+    "translated_title": "市场等待美国消费者物价指数 (CPI) 数据，金价持平",
+    "publishedAt": "2026-10-14T02:00:13Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Ray-Ban Meta Gen 3 and Oakley Meta AI glasses Malaysia: Available 20 October, priced from RM2,069",
+    "translated_title": "Ray-Ban Meta Gen 3 和 Oakley Meta AI 眼镜马来西亚：10 月 20 日发售，售价从 RM2,069 起",
+    "publishedAt": "2026-10-14T02:00:09Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "'I’d love to do a proper sci-fi score one day' — Control Resonant composer shares what kind of game he'd like to work on next, says 'one thing is sure: I’m not much good for a My Little Pony game'",
+    "translated_title": "“我希望有一天能创作出一首合适的科幻配乐”——Control Resonant 作曲家分享了他接下来想要制作的游戏类型，并表示“有一点是肯定的：我不太适合《小马宝莉》游戏”",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "ランスティア株式会社代表の共著『AI×アーキテクト』が10月27日発売――人とAIの境界線を引く、AI時代の設計と開発を解説",
+    "translated_title": "兰斯蒂尔有限公司代表合着的《AI x Architect》将于10月27日发布——阐释AI时代的设计与发展，划清人类与AI的界限",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "応用技術、建築DXオンラインカンファレンス「toBIM DAY」を2026年11月10日（火）に開催",
+    "translated_title": "应用技术与建筑DX在线会议“toBIM DAY”将于2026年11月10日星期二举行",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "AI時代に問い直す、セキュリティ運用の最適解～完全委託型MDRと人材提供型SOCによる運用体制のすすめ～",
+    "translated_title": "重新审视AI时代安全运营最优方案——基于全委托MDR和人力资源提供SOC的运营体系推荐——",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Uravation、業務の中で毎日働く「AI社員」のレシピ7種を公開。社内FAQ・受電・議事録・帳票処理・検査補助・需要予測・図面検索を、同じ8つの見出しで1件1ページに整理しました",
+    "translated_title": "Uravation为每天上班的“AI员工”发布7个菜谱。内部常见问题解答、电话接听、会议记录、文档处理、检查协助、需求预测和图纸搜索已在相同的八个标题下组织到一页中。",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "「日本セキュリティ大賞2026」ファイナリスト13組を発表",
+    "translated_title": "“2026 年日本安全奖”13 名入围名单公布",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Compal Accelerates Time-to-AI with Next-Generation NVIDIA Platforms at OCP Global Summit 2026",
+    "translated_title": "仁宝在 2026 年 OCP 全球峰会上利用下一代 NVIDIA 平台加速实现 AI",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "28卒採用、AIに”見つけてもらえる企業”へ。「採用広報のためのAIO対策実践講座」を開講",
+    "translated_title": "雇佣28名毕业生，成为一家可以被AI找到的公司。“AIO措施招聘公关实战课程”推出",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "株式会社Alquimista、Klaviyoのパートナープログラム「K:Partners」においてSilver Tierに認定",
+    "translated_title": "Alquimista Co., Ltd. 获得 Klaviyo 合作伙伴计划“K:Partners”银级认证",
+    "publishedAt": "2026-10-14T02:00:00Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentpulse-asgi 0.1.0",
+    "translated_title": "代理脉冲-asgi 0.1.0",
+    "publishedAt": "2026-10-14T01:59:59Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "agentpulse-asgi added to PyPI",
+    "translated_title": "Agentpulse-asgi 添加到 PyPI",
+    "publishedAt": "2026-10-14T01:59:54Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+    "translated_title": "OpenAI 员工因涉嫌在行政会议室放置隐藏录音机被捕",
+    "publishedAt": "2026-10-14T01:59:25Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "stencil-mcp added to PyPI",
+    "translated_title": "stencil-mcp 添加到 PyPI",
+    "publishedAt": "2026-10-14T01:57:44Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "MAGA Senate hopeful pegged as ‘huge scumbag’ by Trump’s own voters: ex-GOP pollster",
+    "translated_title": "特朗普自己的选民将“MAGA”参议院希望者称为“大渣男”：前共和党民意调查专家",
+    "publishedAt": "2026-10-14T01:57:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "Dollar languishes as focus turns to CPI, Fed speakers",
+    "translated_title": "美联储发言人称焦点转向消费物价指数，美元疲软",
+    "publishedAt": "2026-10-14T01:57:04Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "VisionQuest Episode 2 Delivers A Heartbreaking Farewell And Reveals Tommy Shepard's Origin - Spoilers",
+    "translated_title": "VisionQuest 第 2 集带来了令人心碎的告别并揭示了汤米·谢泼德的出身 - 剧透",
+    "publishedAt": "2026-10-14T01:54:40Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "wisp-ai 0.2.0rc5",
+    "translated_title": "小精灵-ai 0.2.0rc5",
+    "publishedAt": "2026-10-14T01:54:11Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "sequence-ai 0.34.32",
+    "translated_title": "序列-ai 0.34.32",
+    "publishedAt": "2026-10-14T01:54:02Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "connectonion 1.9.2b29",
+    "translated_title": "连接1.9.2b29",
+    "publishedAt": "2026-10-14T01:53:56Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million",
+    "translated_title": "SK 集团董事长 Chey 以 4.06 亿美元将股份出售给戴尔家族办公室基金",
+    "publishedAt": "2026-10-14T01:53:23Z"
+  },
+  {
+    "keyword": "AI",
+    "title": "vinc-client 0.1.8",
+    "translated_title": "vinc-客户端 0.1.8",
+    "publishedAt": "2026-10-14T01:53:16Z"
+  },
+  {
+    "keyword": "芯片",
+    "title": "WallpaperMachine/WallpaperMachine：一款原生 macOS 动态壁纸应用，支持 Wallpaper Engine 场景、视频和网页壁纸，并提供锁屏扩展功能。基于 Apple Silicon 芯片。",
+    "translated_title": "WallpaperMachine/WallpaperMachine：一款原生 macOS 动态壁纸应用，支持 Wallpaper Engine 场景、视频和网页壁纸，并提供锁屏扩展功能。基于 Apple Silicon 芯片。",
+    "publishedAt": "2026-10-13T05:47:01Z"
+  },
+  {
     "keyword": "芯片",
     "title": "Deepin: (中文) 小板子运行大模型：deepin 25 RVA23 版本适配进迭时空芯片 SpacemiT K3",
     "translated_title": "Deepin: (中文) 小板子运行大模型：deepin 25 RVA23 版本适配进迭时空芯片 SpacemiT K3",
     "publishedAt": "2026-09-17T01:48:44Z"
+  },
+  {
+    "keyword": "能源",
+    "title": "HyperFrames：写 HTML 就能出视频，HeyGen 开源的 Agent 视频框架 - iTech",
+    "translated_title": "HyperFrames：写 HTML 就能出视频，HeyGen 开源的 Agent 视频框架 - iTech",
+    "publishedAt": "2026-10-13T13:13:00Z"
   },
   {
     "keyword": "能源",
@@ -32,7 +644,7 @@
   {
     "keyword": "能源",
     "title": "Expedition & Idle Timer System by GMSKIII",
-    "translated_title": "GMSKIII 的探险和闲置定时器系统",
+    "translated_title": "GMSKIII 的探险和闲置计时器系统",
     "publishedAt": "2026-10-02T11:52:17Z"
   },
   {
